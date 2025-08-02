@@ -1,6 +1,14 @@
 # Outtakes
 
+**<span style="color: orange;">Alle Lösungen, die hier unter github.com/hjstephan86 *als neue Lösungen* gezeigt werden, sind urheberrechtlich geschützt. Eine kommerzielle Nutzung ist ausgeschlossen. Eine freie Nutzung braucht meine Zustimmung.</span>**
+
 Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [https://github.com/hjstephan86/blog](https://github.com/hjstephan86/blog) und [https://github.com/hjstephan86/blogg](https://github.com/hjstephan86/blogg) nicht aufgeschrieben haben.
+
+## Inhaltsverzeichnis
+
+* [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
+* [Johanniter](#Johanniter)
+* [Naturwissenschaft](#Naturwissenschaft)
 
 ## Christliche Gemeinde Sennestadt
 
@@ -40,3 +48,11 @@ Es besteht dringender Bedarf für einen Schlüssel oder eine Möglichkeit, Werts
 ### Abteilung für Wohnungsnotfälle der Stadt Bielefeld
 
 Frau Schalles, Mitarbeitern der Stadt Bielefeld in der Abteilung für Wohnungsnotfälle, wurde wiederholt gebeten, die Situation kurzfristig in dieser Unterkunft zu ändern. Nach Rücksprache mit Valery Shevchenko sind im Kammermühlenweg 2 noch freie Wohnungen und die sanitären Einrichtungen machen einen deutlich gepflegteren Eindruck.
+
+## Naturwissenschaft
+
+Die Verteilung der Geschwindigkeit beim Fahren mit dem Fahrrad wird über die Reifenbreite wie folgt nur qualitativ beschrieben:
+
+![speed-dist.svg](speed-dist.svg)
+
+Probier es vielleicht mal mit 29 mm Reifenbreite.
