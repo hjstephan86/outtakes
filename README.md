@@ -8,6 +8,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 
 * [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
 * [Johanniter](#Johanniter)
+* [Polizei in Bielefeld](#Polizei-in-Bielefeld)
 * [Naturwissenschaft](#Naturwissenschaft)
 
 ## Christliche Gemeinde Sennestadt
@@ -48,6 +49,69 @@ Es besteht dringender Bedarf für einen Schlüssel oder eine Möglichkeit, Werts
 ### Abteilung für Wohnungsnotfälle der Stadt Bielefeld
 
 Frau Schalles, Mitarbeitern der Stadt Bielefeld in der Abteilung für Wohnungsnotfälle, wurde wiederholt gebeten, die Situation kurzfristig in dieser Unterkunft zu ändern. Nach Rücksprache mit Valery Shevchenko sind im Kammermühlenweg 2 noch freie Wohnungen und die sanitären Einrichtungen machen einen deutlich gepflegteren Eindruck.
+
+## Polizei in Bielefeld
+
+### Fall 1: Hotelzimmer-Durchsuchung und Hausverweis
+**Datum/Zeit:** Ende April, 17:00 Uhr  
+**Ort:** Stayery Hotel Bielefeld  
+
+#### Detaillierter Sachverhalt:
+Gegen 17:00 Uhr klopft es an meiner Hotelzimmertür. Ich frage: "Wer ist da?" Niemand antwortet. Es klopft noch einmal. Ich frage wiederholt, wer da ist. Eine Frauenstimme antwortet.
+
+Ich öffne die Tür. Zwei Beamten der Polizei und eine Mitarbeiterin des Hotels stehen vor der Tür. Ein Beamter stellt eine direkte Frage und wird in seiner wortwahl respektlos. Darauf habe ich mich nicht eingelassen und ihn direkt darauf angesprochen. Das hat er nicht akzeptiert, mich gegriffen, auf den Boden gedrückt und mir Handschellen angelegt. Er bedrohte mich und überzeugte mich von der Notwendigkeit, dass mein Zimmer auf Waffen zur untersuchen sei. In dieser Situation hatte ich sehr große Angst. Der andere Beamter der Polizei ging in mein Zimmer und durchsuchte mein Zimmer. Die Beamten konnten keine Waffen finden.
+
+#### Offene Fragen aus dem Vorfall:
+- Wieso sollte ich Waffen in meinem Zimmer haben?
+- Wieso wurden mir Handschellen angelegt?
+- Wieso wurden die Handschellen viel zu fest gemacht?
+- Wieso wurde ich auf den Boden gedrückt?
+- Womit hatte ich die Beamten der Polizei zum Feind?
+
+#### Folgen und finanzielle Schäden:
+Die Beamten verwiesen mich unmittelbar nach der Durchsuchung des Hotels und machten mich auf ein spontan erlassenes Hausverbot im Stayery aufmerksam. Es war schon gegen Abend und ich hatte keine Unterkunft zur Nacht. Gebucht hatte ich das Hotel an dem Abend für zwei Nächte. Erstattet wurde mir der Betrag für die zwei Nächte vom Stayery Hotel nach Beschreibung der Situation nicht.
+
+---
+
+### Fall 2: Verkehrskontrolle mit Aufnahmeverbot
+**Datum/Zeit:** 01. August, 10:02 Uhr  
+**Ort:** August-Bebel-Str., Ecke Thielenstraße  
+**Kontrollierender Beamter:** Herr Lasrich, Polizei Bielefeld  
+
+#### Detaillierter Sachverhalt:
+**Sanktion:** 1 Punkt in Flensburg, 100,00 EUR
+
+Ich war mit dem Fahrrad auf dem Weg zur Post, trug einen großen Karton in meiner Hand und konnte nur mit einer Hand die Fahrradbremsen betätigen. Ich bat um Stundung, Ratenzahlung, Minderung und zeigte Einsicht.
+
+#### Kritische Vorkommnisse während der Kontrolle:
+Ich wollte die Strafunterweisung mit Sprachaufnahme aufnehmen, da drohte mir Herr Lasrich damit, mein Smartphone in Beschlag zu nehmen. Vorher hat er mich *nicht* darauf aufmerksam gemacht, dass ich mit Sprachaufnahme die Unterweisung nicht aufnehmen darf. Er zitterte bei der Erfassung der Ordnungswidrigkeit.
+
+#### Besondere Umstände des Tages:
+An diesem Tag sind auffällig viele Polizisten in der Stadt zu sehen, die das Einhalten von Verkehrsregeln beobachten. Elon Musk beauftragt Polizisten der Stadt Bielefeld, mich bei Ordnungswidrigkeiten zu ertappen.
+
+---
+
+### Fall 3: Befragung (Verhör) ohne Hilfsmittel
+**Datum/Zeit:** 02. August, 14:00 Uhr  
+**Ort:** Otto-Brenner-Straße 77  
+
+#### Detaillierter Sachverhalt:
+Ein Polizist kommt den Flur entlang und klopft an der Badezimmertür. Ich bin im Badezimmer unter der Dusche. 
+
+**Erste kritische Frage:** Woher wusste der Polizist, dass ich im Badezimmer bin und nicht in Zimmer 1? Bei Zimmer 1 hat er vorher nicht geklopft.
+
+#### Ablauf der problematischen Befragung:
+Ich werde nach dem genauen Tag und Zeitpunkt gefragt. Dazu möchte ich mein Smartphone holen. Der Polizist gibt mir aber zu verstehen, dass ich die Tat ohne meine Aufzeichnungen beschreiben soll.
+
+Im Verlauf der Beschreibung werden von zwei Beamten der Polizei kurze, direkte Fragen gestellt. Dabei musste ich sehr vorsichtig sein, wie ich auf die Fragen zu antworten hatte, um keine widersprüchliche Aussage zu geben. Im Vorfeld wurde ich darauf aufmerksam gemacht, dass es wichtig ist, nur die Wahrheit zu sagen.
+
+#### Charakter des Gesprächs:
+Dieses Gespräch hatte für mich eher den Charakter eines Verhörs als die Befragung um eine Straftat und das Aufnehmen einer Anzeige. Auffällig waren immer wieder sehr detaillierte Fragen, auf die ich ohne meine Aufzeichnung so keine Antwort hatte. Auch ein dritter Beamter stellte dann sehr konkrete Fragen, auf die ich ohne meine Aufzeichnung aber nicht antworten konnte.
+
+#### Zentrale Kritikpunkte:
+**Warum haben sie mir nicht erlaubt oder die Möglichkeit gegeben, meine Aufzeichnungen für die Befragung zu gebrauchen?**
+
+Erst am Ende des Gesprächs hatte ich Raum, das Smartphone zu nehmen und meine Beschreibung der Tat mit meinen Aufzeichnungen vor der Polizei abzugleichen.
 
 ## Naturwissenschaft
 
