@@ -54,7 +54,7 @@ Frau Schalles, Mitarbeitern der Stadt Bielefeld in der Abteilung für Wohnungsno
 ## Polizei in Bielefeld
 
 ### Fall 1: Hotelzimmer-Durchsuchung und Hausverweis
-**Datum/Zeit:** Ende April, 17:00 Uhr  
+**Datum/Zeit:** Samstag, 03. Mai 2025, 17:00 Uhr  
 **Ort:** Stayery Hotel Bielefeld  
 
 #### Detaillierter Sachverhalt:
@@ -125,3 +125,5 @@ Die Verteilung der Geschwindigkeit beim Fahren mit dem Fahrrad wird über die Re
 ![speed-dist.svg](speed-dist.svg)
 
 Probier es vielleicht mal mit 29 mm Reifenbreite.
+
+Es braucht einen **standardisierten Versandprozess** weltweit. Dieser stellt sicher, dass das Risiko aller Verkehrsteilnehmer während des Versands minimiert wird und auch die Zustellung zuverlässig erfolgt. Mitarbeiter im Versand dürfen nicht mehr ausgenutzt werden, indem sie besonders schnell zustellen, aber dafür nur sehr wenig Lohn erhalten und ein hohes Risiko während der Zustellung ertragen müssen. Die Lieferzeiten müssen angemessen und zur Zufriedenheit des Benutzers eingehalten werden.
