@@ -9,6 +9,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
+* [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Naturwissenschaft](#Naturwissenschaft)
 
 ## Christliche Gemeinde Sennestadt
@@ -112,6 +113,10 @@ Dieses Gespräch hatte für mich eher den Charakter eines Verhörs als die Befra
 **Warum haben sie mir nicht erlaubt oder die Möglichkeit gegeben, meine Aufzeichnungen für die Befragung zu gebrauchen?**
 
 Erst am Ende des Gesprächs hatte ich Raum, das Smartphone zu nehmen und meine Beschreibung der Tat mit meinen Aufzeichnungen vor der Polizei abzugleichen.
+
+## Bundesnachrichtendienst
+
+Der Bundesnachrichtendienst hat das Schreiben in das Repository auf [https://github.com/hjstephan86](https://github.com/hjstephan86) unterbrochen. Als Nachweis dazu liegt ein Screencast unter doc/CIA/BND/Screencast-20250803-072618.webm.
 
 ## Naturwissenschaft
 
