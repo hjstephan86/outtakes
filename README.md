@@ -10,6 +10,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
+* [Heroku](#Heroku)
 * [Naturwissenschaft](#Naturwissenschaft)
 
 ## Christliche Gemeinde Sennestadt
@@ -117,6 +118,20 @@ Erst am Ende des Gesprächs hatte ich Raum, das Smartphone zu nehmen und meine B
 ## Bundesnachrichtendienst
 
 Der Bundesnachrichtendienst hat das Schreiben in das Repository auf [https://github.com/hjstephan86](https://github.com/hjstephan86) unterbrochen. Als Nachweis dazu liegt ein Screencast unter doc/CIA/BND/Screencast-20250803-072618.webm.
+
+## Heroku
+
+### Fall 1: Automated Certificate Management Failed
+
+Heroku verwehrt mir als zahlenden Kunden die Bereitstellung meiner Website https://www.123-bibel.de mit ordnungsgemäßem SSL-Zertifikat. Die Applikation basiert auf dem Repository https://github.com/hjstephan86/bible-app. Trotz bestehendem Vertragsverhältnis zwischen Heroku und mir und regelmäßiger monatlicher Beitragszahlungen meinerseits wird dieser Dienst nicht sachgemäß umgesetzt.
+
+**Nachweis:** E-Mail-Korrespondenz dokumentiert unter doc/CAI/Heroku/Gmail-Automated-Certificate-Management-Failure.pdf
+
+### Fall 2: Error R14: Memory Quota Exceeded by 161.6%
+
+Bei der Applikation https://github.com/hjstephan86/pyble-app zeigt sich ein auffällig hoher Speicherverbrauch von 827 MB nach erfolgreichem Deployment und Start der Anwendung. Im Vergleich dazu benötigt die Applikation in der lokalen Ausführung lediglich nur etwa 425 MB Arbeitsspeicher. Diese Diskrepanz von nahezu 100% zusätzlichem Speicherverbrauch macht ein wirtschaftliches Hosting unter normalen Bedingungen für mich unmöglich.
+
+**Nachweis:** Log-Protokoll dokumentiert unter doc/CIA/Heroku/20250804T024607861370.log
 
 ## Naturwissenschaft
 
