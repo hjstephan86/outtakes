@@ -133,6 +133,10 @@ Bei der Applikation https://github.com/hjstephan86/pyble-app zeigt sich ein auff
 
 **Nachweis:** Log-Protokoll dokumentiert unter doc/CIA/Heroku/20250804T024607861370.log
 
+### Beschwerde ECCDE-93396
+
+Während des Einreichens der Beschwerde über das Online-Beschwerdeformular beim Europäischen Verbraucherzentrum Deutschland war zur Übermittlung der Beschwerde die Vervollständigung eines Captcha-Verfahrens erforderlich. Während des Captcha-Verfahrens sollte ich jeweils alle Busse, Treppen und Motorräder auswählen. Auffällig war, dass beim Auswählen der Busse immer wieder neue Bilder erschienen bis kein Bus im Captcha mehr vorhanden war. Das Auswählen der Treppen und Motorräder war anschließend wie gewohnt möglich. Für die Beschwerde habe ich die Nachweise zusammen mit den Rechnungen unter doc/CIA/Heroku eingereicht.
+
 ## Naturwissenschaft
 
 Die Verteilung der Geschwindigkeit beim Fahren mit dem Fahrrad wird über die Reifenbreite wie folgt nur qualitativ beschrieben:
