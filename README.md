@@ -190,32 +190,22 @@ Timestamp,PID,RES_KB,VSZ_KB,CPU%,Command
 2025-08-05 05:35:01,  16250 185688 2060564 23.1 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
 </pre>
 
-Mit `cloc src/QuickSort.java` und `cloc src/quicksort.py` habe ich die benötigten Code-Zeilen ermittelt:
+Mit `loc.py` habe ich die benötigten Code-Zeilen ermittelt. Das Skript befindet sich in diesem Repository unter src/loc.py.
 <pre>
-cloc src/QuickSort.java 
-       1 text file.
-       1 unique file.                              
-       0 files ignored.
-
-v 1.98  T=0.01 s (78.6 files/s, 15870.6 lines/s)
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Java                             1             30             53            119
--------------------------------------------------------------------------------
+>> python3 loc.py QuickSort.java 
+Language    Files    Blank    Comment    Code    Total
+----------  -------  -------  ---------  ------  -------
+Java        1        30       53         119     202
+--------    -----    -----    -------    ----    -----
+Total       1        30       53         119     202
 </pre>
 
 <pre>
-cloc src/quicksort.py 
-       1 text file.
-       1 unique file.                              
-       0 files ignored.
-
-v 1.98  T=0.01 s (86.4 files/s, 16591.6 lines/s)
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Python                           1             43             48            101
--------------------------------------------------------------------------------
+>> python3 loc.py quicksort.py
+Language    Files    Blank    Comment    Code    Total
+----------  -------  -------  ---------  ------  -------
+Python      1        43       48         101     192
+--------    -----    -----    -------    ----    -----
+Total       1        43       48         101     192
 </pre>
 Die Implementierung in Java erfordert 119 Code-Zeilen, die Python-Implementierung benötigt nur 101 Code-Zeilen. Dies resultiert in einer Codereduktion von 15,1% bei Verwendung von Python gegenüber Java. **Für größere Softwareprojekte ist Python in der Lesbarkeit, Implementierung und Wartbarkeit attraktiver als Java**. In der Wissenschaft hat sich Python durchgesetzt, da Python einfacher zu lernen ist als Java. 
