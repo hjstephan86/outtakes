@@ -11,6 +11,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Heroku](#Heroku)
+* [Bahnhofsmission](#Bahnhofsmission)
 * [Naturwissenschaft](#Naturwissenschaft)
 
 ## Christliche Gemeinde Sennestadt
@@ -138,6 +139,43 @@ Bei der Applikation https://github.com/hjstephan86/pyble-app zeigt sich ein auff
 Während des Einreichens der Beschwerde über das Online-Beschwerdeformular beim Europäischen Verbraucherzentrum Deutschland war zur Übermittlung der Beschwerde die Vervollständigung eines Captcha-Verfahrens erforderlich. Während des Captcha-Verfahrens sollte ich jeweils alle Busse, Treppen und Motorräder auswählen. Auffällig war, dass beim Auswählen der Busse immer wieder neue Bilder erschienen bis kein Bus im Captcha mehr vorhanden war. Das Auswählen der Treppen und Motorräder war anschließend wie gewohnt möglich. Für die Beschwerde habe ich die Nachweise zusammen mit den Rechnungen unter doc/CIA/Heroku eingereicht.
 
 Die **USA** ist nicht bereit, sich zu demütigen, obwohl der russische Geheimdienst schwere wirtschaftliche Manipulationen nachgewiesen hat. **Die USA wird mit einer Atombombe vernichtet**.
+
+## Bahnhofsmission
+Zur Essensausgabe war ich gestern, den 06. August 2025, um etwa 16:20 Uhr bei der Bahnhofsmission in Bielefeld am Hauptbahnhof. Dort wurde mir von Herrn Zawieracz ein Hausverbot erteilt mit der Begründung, dass ich die Bahnhofsmission aufsuche, um die Mitarbeiter der Bahnhofsmission zu beleidigen. So hat es auch Herr Krahn am Vormittag desselben Tages bestätigt. Am Vormittag kam es zu einer Meinungsverschiedenheit zwischen Herrn Krahn und mir.
+
+### Bericht über Vorkommnisse bei der Bahnhofsmission
+
+**Datum:** 06. August 2025  
+**Berichterstatter:** Stephan Epp  
+**Betreff:** Hausverbot und Vorkommnisse bei der Bahnhofsmission Hauptbahnhof
+
+**Fall 1: 06. August 2025, 11:10 Uhr**  
+**Ort:** Hauptbahnhof, Bahnhofsmission
+
+Die Beratung eines Bürgers erfolgte mal an der Theke. Personen, die aber auf Essensausgabe warteten, mussten draußen warten. Ihnen wurde das Essen nach draußen gebracht. Die persönliche Beratung wurde der Essensausgabe gegenüber priorisiert.
+
+Das Gespräch wurde von Julius Krahn geführt. Während des Gesprächs machte ein Mitarbeiter darauf aufmerksam, dass vor der Tür jemand warte, weshalb der Raum zu verlassen sei. Herr Krahn äußerte, er habe im Vorhinein gewusst, dass das Gespräch nicht zielführend sei, obwohl sich ein konstruktives und klärendes Gespräch ergeben hat.
+
+Laut Herrn Krahn werden Bedürftige gebeten, den Raum zu verlassen, wenn die Warteschlange vor der ersten Tür zu lang wird. Bei wichtigen Gesprächen werde jedoch Raum gegeben. Wieso wurde ich dann gebeten, den Raum zu verlassen, wenn (a) die Warteschlange nicht lang war und (b) sich ein konstruktives Gespräch ergeben hat?
+
+Herr Krahn war der Auffassung, dass durch meine Person schlechte Stimmung verbreitet werden solle. Dies konnte geklärt werden. Die Gründe für das Aufsuchen der Bahnhofsmission waren:
+1. Nahrungsmittelbedarf aufgrund finanzieller Engpässe
+2. Konstruktive Rückmeldungen:
+   - Kritische Priorisierung von Essensausgabe gegenüber persönlichen Beratungen, was zu Unmut bei Bedürftigen vor der Tür führt
+   - Fehlende Kennzeichnung bei abgelaufenen Produkten in der Essensausgabe, wodurch das Risiko möglicher Lebensmittelvergiftungen erhöht wird  
+
+**Fall 2: 06. August 2025, 16:20 Uhr**  
+**Erteilung eines Hausverbots**
+
+Auf die Nachfrage nach alternativen Verpflegungsmöglichkeiten morgens und abends konnte Herr Zawieracz keine Antwort geben. Er überreichte einen Flyer des Bielefelder Tisches, welcher jedoch nur Mittagessen anbietet und bereits seit Wochen aufgesucht wird.
+
+Herr Zawieracz bestätigte, dass trotz Kenntnis der finanziellen Notlage das Hausverbot erteilt wird, wodurch morgens und abends keine Verpflegung möglich sein wird. Die Entscheidung für das Hausverbot basiert nach eigener Aussage auf einseitiger Beobachtung.
+
+**Folgen**
+
+Das erteilte Hausverbot führt dazu, dass die regelmäßige Nahrungsmittelversorgung der Bahnhofsmission morgens und abends für eine Woche nicht gegeben ist.
+
+**Nachweis**: Das schriftliche Hausverbot ist als Beleg unter CIA/Bielefeld/Bahnhofsmission/20250806-Hausverbot.pdf abgelegt.
 
 ## Naturwissenschaft
 
