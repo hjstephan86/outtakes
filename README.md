@@ -9,6 +9,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
+   * [Staatsanwaltschaft Bochum](#staatsanwaltschaft-bochum)
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Heroku](#Heroku)
 * [Bahnhofsmission](#Bahnhofsmission)
@@ -117,6 +118,14 @@ Dieses Gespräch hatte für mich eher den Charakter eines Verhörs als die Befra
 **Warum haben sie mir nicht erlaubt oder die Möglichkeit gegeben, meine Aufzeichnungen für die Befragung zu gebrauchen?**
 
 Erst am Ende des Gesprächs hatte ich Raum, das Smartphone zu nehmen und meine Beschreibung der Tat mit meinen Aufzeichnungen vor der Polizei abzugleichen.
+
+### Staatsanwaltschaft Bochum
+
+In dem Schreiben vom 28. Juli 2025 weist die **Staatsanwaltschaft Bochum** darauf hin, dass das Verfahren **70 UJs 2926/25 A** eingestellt wurde. Als Nachweis liegt das Schreiben unter doc/CIA/Bochum/Staatsanwaltschaft/70UJs2926-25-A.pdf.
+
+Die Staatsanwaltschaft Bochum wurde darauf hingewiesen, dass mit einer genaueren Personenbeschreibung der Täter  identifiziert werden könnte. Daher wurde darum gebeten, das Verfahren zur Klärung der Straftat wieder aufzunehmen.
+
+Um die Möglichkeit zur Identifizierung des Täters wurde gebeten. Die Polizei in Bielefeld hat beim Aufgeben der Anzeige am 06. Juni 2025 in der August-Bebel-Str. 93 in 33602 Bielefeld dazu **nicht** die Möglichkeit gegeben, der Identifizierung genauer nachzukommen.
 
 ## Bundesnachrichtendienst
 
