@@ -1,6 +1,32 @@
+"""
+Language distribution (ldist) analyzer that scans files recursively in a folder and determines
+the distribution of programming languages by analyzing file content and context switches.
+
+Counts total lines per language and calculates percentage distribution across:
+- JavaScript, CSS, HTML, Python, Java, and Other languages
+
+Features:
+- Smart content-based language detection beyond file extensions
+- Dynamic context switching for HTML files (detects <style> and <script> blocks)
+- Advanced Python file analysis with embedded web content detection
+- Multi-line string content analysis (HTML/CSS/JS within Python strings)
+- Keyword-based scoring system for ambiguous content classification
+- Mixed-language file support (e.g., HTML with embedded CSS/JavaScript)
+- Comprehensive statistics with line counts and percentage breakdown
+
+Special capabilities:
+- Detects HTML, CSS, or JavaScript content within Python triple-quoted strings
+- Tracks context changes in HTML files when entering/exiting style and script blocks
+- Handles both single-line and multi-line embedded content scenarios
+
+Supported file types: .py, .java, .css, .html, .htm, .js
+Output format: Language | Lines | Percentage
+"""
+
 import os
 import re
 import sys
+
 from tabulate import tabulate
 
 # Define keywords for JavaScript, CSS, and Java
@@ -101,12 +127,12 @@ def classify_line(line, current_context):
 
     if current_context == "HTML":
         if "<style" in stripped:
-            return "HTML", "CSS"  # Zeile ist HTML, wechsle zum CSS-Kontext
+            return "HTML", "CSS"  # Line is HTML, switch to CSS context
         elif "<script" in stripped:
             return (
                 "HTML",
                 "JavaScript",
-            )  # Zeile ist HTML, wechsle zum JavaScript-Kontext
+            )  # Line is HTML, switch to JavaScript context
         elif "</style>" in stripped:
             return "HTML", "HTML"
         elif "</script>" in stripped:
@@ -135,7 +161,7 @@ def classify_line(line, current_context):
 
     elif current_context == "Python-HTML":
         if '"""' in stripped or "'''" in stripped:
-            return "Python", "Python"  # Ende des HTML-Blocks
+            return "Python", "Python"  # End of HTML block
         else:
             return "HTML", "Python-HTML"
 
@@ -192,13 +218,13 @@ def process_file(filepath):
         lines = f.readlines()
 
     if file_type == "Python":
-        # Spezielle Behandlung für Python-Dateien
+        # Special handling for Python files
         i = 0
         while i < len(lines):
             line = lines[i]
             stripped = line.strip()
 
-            # Prüfe auf Start von mehrzeiligem String mit Web-Content
+            # Check for start of multiline string with web content
             if (
                 ('"""' in line or "'''" in line)
                 and not line.count('"""') == 2
@@ -206,18 +232,18 @@ def process_file(filepath):
             ):
                 delimiter = '"""' if '"""' in line else "'''"
 
-                # Schaue in den String hinein um Typ zu bestimmen
+                # Look inside the string to determine type
                 string_content = ""
                 j = i
                 while j < len(lines):
                     if j == i:
-                        # Erste Zeile: nimm alles nach dem delimiter
+                        # First line: take everything after the delimiter
                         parts = lines[j].split(delimiter, 1)
                         if len(parts) > 1:
                             string_content += parts[1]
                     else:
                         if delimiter in lines[j]:
-                            # Letzte Zeile: nimm alles vor dem delimiter
+                            # Last line: take everything before the delimiter
                             parts = lines[j].split(delimiter, 1)
                             string_content += parts[0]
                             break
@@ -225,7 +251,7 @@ def process_file(filepath):
                             string_content += lines[j]
                     j += 1
 
-                # Bestimme den Typ basierend auf dem String-Inhalt
+                # Determine type based on string content
                 content_type = "Python"
                 if any(
                     tag in string_content
@@ -257,20 +283,20 @@ def process_file(filepath):
                 ):
                     content_type = "JavaScript"
 
-                # Zähle alle Zeilen des mehrzeiligen Strings
+                # Count all lines of the multiline string
                 for k in range(i, min(j + 1, len(lines))):
                     line_content = lines[k].strip()
 
-                    # Die erste Zeile (mit html = """) ist Python-Code
+                    # The first line (with html = """) is Python code
                     if k == i:
                         language_lines["Python"] += 1
-                    # Die letzte Zeile (nur """) ist auch Python
+                    # The last line (only """) is also Python
                     elif k == j:
                         language_lines["Python"] += 1
-                    # Leere Zeilen werden als Python gezählt
+                    # Empty lines are counted as Python
                     elif not line_content:
                         language_lines["Python"] += 1
-                    # Nur echte Inhaltszeilen werden als Web-Sprache gezählt
+                    # Only real content lines are counted as web language
                     else:
                         if content_type in language_lines:
                             language_lines[content_type] += 1
@@ -281,11 +307,11 @@ def process_file(filepath):
 
                 i = j + 1
             else:
-                # Normale Python-Zeile oder einzeiliger String
-                # Prüfe auch einzeilige HTML-Strings
+                # Normal Python line or single-line string
+                # Also check single-line HTML strings
                 lang = "Python"
                 if '"' in line or "'" in line:
-                    # Extrahiere String-Inhalte
+                    # Extract string contents
                     import re
 
                     strings = re.findall(r'["\']([^"\']*)["\']', line)
@@ -319,7 +345,7 @@ def process_file(filepath):
                 i += 1
 
     else:
-        # Für andere Dateitypen: ursprüngliche Logik
+        # For other file types: original logic
         for line in lines:
             if file_type == "HTML":
                 lang, current_context = classify_line(line, current_context)
@@ -342,36 +368,44 @@ def process_folder(folder_path):
 
 def print_and_save_summary():
     total_lines = sum(language_lines.values())
-    
+
     # Prepare table data
     table_data = []
     for lang, count in language_lines.items():
         percent = (count / total_lines * 100) if total_lines > 0 else 0
         table_data.append([lang, count, f"{percent:.2f}%"])
-    
+
     # Add separator and total row
     table_data.append(["-" * 8, "-" * 5, "-" * 10])
     table_data.append(["Total", total_lines, "100.00%"])
-    
+
     # Create table with tabulate
     headers = ["Language", "Lines", "Percentage"]
-    table_output = tabulate(table_data, headers=headers, tablefmt="simple", numalign="right")
-    
+    table_output = tabulate(
+        table_data, headers=headers, tablefmt="simple", numalign="right"
+    )
+
     # Print to console
     print(table_output)
-    
+
     # Save to file
     # with open("ldist.txt", "w", encoding="utf-8") as f:
     #     f.write(table_output + "\n")
-        
+
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python3 ldist.py <folder_path>")
+        print("Usage: python3 ldist.py <file_or_folder_path>")
     else:
-        folder_path = sys.argv[1]
-        if not os.path.isdir(folder_path):
-            print(f"Error: {folder_path} is not a valid directory.")
+        path = sys.argv[1]
+        if os.path.isfile(path):
+            # Process single file
+            process_file(path)
+        elif os.path.isdir(path):
+            # Process directory
+            process_folder(path)
         else:
-            process_folder(folder_path)
-            print_and_save_summary()
+            print(f"Error: {path} is not a valid file or directory.")
+            sys.exit(1)
+
+        print_and_save_summary()

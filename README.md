@@ -13,6 +13,8 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Heroku](#Heroku)
 * [Bahnhofsmission](#Bahnhofsmission)
 * [Naturwissenschaft](#Naturwissenschaft)
+   * [Python und Java](#python-und-java)
+   * [Code: Formatierung und Kommentare](#code-formatierung-und-kommentare)
 
 ## Christliche Gemeinde Sennestadt
 
@@ -247,3 +249,28 @@ Python      1        43       48         101     192
 Total       1        43       48         101     192
 </pre>
 Die Implementierung in Java erfordert 119 Code-Zeilen, die Python-Implementierung benötigt nur 101 Code-Zeilen. Dies resultiert in einer Codereduktion von 15,1% bei Verwendung von Python gegenüber Java. **Für größere Softwareprojekte ist Python in der Lesbarkeit, Implementierung und Wartbarkeit attraktiver als Java**. In der Wissenschaft hat sich Python durchgesetzt, da Python einfacher zu lernen ist als Java. 
+
+### Code: Formatierung und Kommentare
+
+Die Lesbarkeit von Code ist wichtig. Die Formatierung des Codes und Kommentare im Code helfen dabei. Das Skript `loc.py` in diesem Repository unter src/loc.py hilft dabei, die Formatierung im Code und das Generieren von Kommentaren im Code sicher durchzuführen. Dazu kann `loc.py` vor und nach der Formatierung und Generierung von Kommentaren ausgeführt und das Ergebnis beider Ausführungen verglichen werden.
+
+Durchgeführt habe ich diesen Vorgang mit ldist.py unter src/ldist.py. Hier die Ausgabe von `loc.py` davor:
+<pre>
+>> python3 loc.py ldist.py 
+Language    Files    Blank    Comment    Code    Total
+----------  -------  -------  ---------  ------  -------
+Python      1        42       73         268     383
+--------    -----    -----    -------    ----    -----
+Total       1        42       73         268     383
+</pre>  
+
+Hier die Ausgabe von `loc.py` danach:
+<pre>
+>> python3 loc.py ldist.py 
+Language    Files    Blank    Comment    Code    Total
+----------  -------  -------  ---------  ------  -------
+Python      1        48       93         270     411
+--------    -----    -----    -------    ----    -----
+Total       1        48       93         270     411
+</pre>
+Im Code von `ldist.py` wurden nur zwei Zeilen mit der Formatierung hinzugefügt, da eine längere Anweisung automatisch umgebrochen wurde.  Insgesamt wurden 20 neue Zeilen für Kommentare generiert und sechs neue Leerzeilen für die Formatierung hinzugefügt.

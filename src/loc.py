@@ -1,10 +1,22 @@
 """
-Scan files recursively of a folder and count lines of code of different types:
-- Blank (Leerzeilen)
-- Comment (Kommentarzeilen)
-- Code (echte Code-Zeilen)
+Lines of code (loc) analyzer that scans files recursively in a folder and provides detailed
+statistics about different types of code lines across multiple programming languages.
 
-Supported file types: .py, .java, .css, .html, .js
+Categorizes lines into three types:
+- Blank: Empty lines or lines containing only whitespace
+- Comment: Single-line comments, multi-line comments, and docstrings
+- Code: Actual executable/functional code lines
+
+Features:
+- Recursive directory scanning with support for individual files
+- Language-specific comment pattern recognition
+- Special Python docstring detection (module, class, and function docstrings)
+- Multi-line comment block handling for C-style languages
+- Comprehensive statistics with file counts and totals per language
+- Tabulated output format for easy readability
+
+Supported file types: .py, .java, .css, .html, .htm, .js, .jsx, .ts, .tsx
+Output format: Language | Files | Blank | Comment | Code | Total
 """
 
 import argparse
@@ -17,7 +29,7 @@ from tabulate import tabulate
 
 class CodeAnalyzer:
     def __init__(self):
-        # Dateierweiterungen zu Sprache mapping
+        # File extensions to language mapping
         self.file_extensions = {
             ".py": "Python",
             ".java": "Java",
@@ -30,13 +42,13 @@ class CodeAnalyzer:
             ".tsx": "JavaScript",
         }
 
-        # Statistiken
+        # Statistics
         self.stats = defaultdict(
             lambda: {"blank": 0, "comment": 0, "code": 0, "files": 0}
         )
 
     def is_blank_line(self, line):
-        """Prüft ob eine Zeile leer oder nur Whitespace ist"""
+        """Checks if a line is empty or only whitespace"""
         return len(line.strip()) == 0
 
     def analyze_python_file(self, file_path):
@@ -201,7 +213,7 @@ class CodeAnalyzer:
             self.stats[language]["code"] += 1
 
     def analyze_file(self, file_path):
-        """Analysiert eine einzelne Datei"""
+        """Analyzes a single file"""
         try:
             extension = Path(file_path).suffix.lower()
             if extension not in self.file_extensions:
@@ -217,28 +229,28 @@ class CodeAnalyzer:
             self.stats[language]["files"] += 1
 
         except Exception as e:
-            print(f"Fehler beim Analysieren von {file_path}: {e}")
+            print(f"Error analyzing {file_path}: {e}")
 
     def scan_directory(self, directory):
-        """Scannt rekursiv ein Verzeichnis"""
+        """Scans a directory recursively"""
         directory = Path(directory)
 
         if not directory.exists():
-            print(f"Verzeichnis {directory} existiert nicht!")
+            print(f"Directory {directory} does not exist!")
             return
 
-        # Rekursiv durch alle Dateien gehen
+        # Recursively go through all files
         for file_path in directory.rglob("*"):
             if file_path.is_file():
                 self.analyze_file(file_path)
 
     def print_results(self):
-        """Gibt die Ergebnisse als Tabelle aus"""
+        """Outputs the results as a table"""
         if not self.stats:
             print("No supported files found!")
             return
 
-        # Tabellendaten vorbereiten
+        # Prepare table data
         table_data = []
         total_blank = total_comment = total_code = total_files = 0
 
@@ -262,7 +274,7 @@ class CodeAnalyzer:
             total_code += stats["code"]
             total_files += stats["files"]
 
-        # Gesamtzeile hinzufügen
+        # Add total row
         total_total = total_blank + total_comment + total_code
         # Add separator and total row
         table_data.append(["-" * 8, "-" * 5, "-" * 5, "-" * 7, "-" * 4, "-" * 5])
@@ -270,7 +282,7 @@ class CodeAnalyzer:
             ["Total", total_files, total_blank, total_comment, total_code, total_total]
         )
 
-        # Tabelle ausgeben
+        # Output table
         headers = ["Language", "Files", "Blank", "Comment", "Code", "Total"]
         print(
             tabulate(table_data, headers=headers, tablefmt="simple", numalign="right")
