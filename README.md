@@ -166,21 +166,22 @@ Der Bundesnachrichtendienst hat das Schreiben in das Repository auf [https://git
 
 ## Heroku
 
-### Fall 1: Automated Certificate Management Failed
+Heroku verwehrt mir als zahlenden Kunden die Bereitstellung meiner Website https://www.123-bibel.de mit angemessenem Ressourcenverbrauch. Die Quelldateien der Applikation sind in dem Repository https://github.com/hjstephan86/pyble-app. Trotz bestehendem Vertragsverhältnis zwischen Heroku und mir und regelmäßiger monatlicher Beitragszahlungen meinerseits wird dieser Dienst nicht wie erwartet umgesetzt.
 
-Heroku verwehrt mir als zahlenden Kunden die Bereitstellung meiner Website https://www.123-bibel.de mit ordnungsgemäßem SSL-Zertifikat. Die Applikation basiert auf dem Repository https://github.com/hjstephan86/bible-app. Trotz bestehendem Vertragsverhältnis zwischen Heroku und mir und regelmäßiger monatlicher Beitragszahlungen meinerseits wird dieser Dienst nicht sachgemäß umgesetzt.
+### Error R14: Memory Quota Exceeded (mem=912M(178.2%))
 
-**Nachweis:** E-Mail-Korrespondenz dokumentiert unter doc/CAI/Heroku/Gmail-Automated-Certificate-Management-Failure.pdf
+Während der Ausführung der Applikation zeigt sich ein auffällig hoher Speicherverbrauch von 827 MB nach erfolgreichem Deployment und Start der Anwendung. Im Vergleich dazu benötigt die Applikation in der lokalen Ausführung nur höchstens 481 MB Arbeitsspeicher (RES). Diese Diskrepanz von nahezu 100% zusätzlichem Speicherverbrauch macht ein wirtschaftliches Hosting unter normalen Bedingungen für mich unmöglich.
 
-### Fall 2: Error R14: Memory Quota Exceeded by 161.6%
+**Nachweis:** 
+- Log-Protokoll unter doc/CIA/Heroku/20250804T024607861370.log.g
+- Log-Protokoll unter doc/CIA/Heroku/20250808T065851090709.log.g
 
-Bei der Applikation https://github.com/hjstephan86/pyble-app zeigt sich ein auffällig hoher Speicherverbrauch von 827 MB nach erfolgreichem Deployment und Start der Anwendung. Im Vergleich dazu benötigt die Applikation in der lokalen Ausführung lediglich nur etwa 425 MB Arbeitsspeicher. Diese Diskrepanz von nahezu 100% zusätzlichem Speicherverbrauch macht ein wirtschaftliches Hosting unter normalen Bedingungen für mich unmöglich.
+### Error R14: Fix
+Am Freitag, den 08.08.2025, habe ich um 13:56 Uhr erneut die Logs im Heroku Portal für die Applikation geprüft und festgestellt, dass das Memory Problem schon gelöst war. Der Speicherverbrauch lag zu der Zeit schon seit Stunden bei etwa 384 MB. Dazu hatte ich aber keine Rückmeldung vom Heroku Support via E-Mail erhalten. Auch im Heroku Portal hatte ich keine Antwort zum erstellten Ticket erhalten. Das Ticket für dieses Problem hatte ich erst 4 Stunden vorher erstellt.
 
-**Nachweis:** Log-Protokoll dokumentiert unter doc/CIA/Heroku/20250804T024607861370.log
-
-### Beschwerde ECCDE-93396
-
-Während des Einreichens der Beschwerde über das Online-Beschwerdeformular beim Europäischen Verbraucherzentrum Deutschland war zur Übermittlung der Beschwerde die Vervollständigung eines Captcha-Verfahrens erforderlich. Während des Captcha-Verfahrens sollte ich jeweils alle Busse, Treppen und Motorräder auswählen. Auffällig war, dass beim Auswählen der Busse immer wieder neue Bilder erschienen bis kein Bus im Captcha mehr vorhanden war. Das Auswählen der Treppen und Motorräder war anschließend wie gewohnt möglich. Für die Beschwerde habe ich die Nachweise zusammen mit den Rechnungen unter doc/CIA/Heroku eingereicht.
+**Nachweis**
+- Screenshot via Smartphone: Memory Usage unter doc/CIA/Heroku/CIA/2025-08-08T14.06.42.jpeg
+- Screenshot via Smartphone: Support Ticket unter doc/CIA/Heroku/CIA/2025-08-08T14.11.00.jpeg
 
 Die **USA** ist nicht bereit, sich zu demütigen, obwohl der russische Geheimdienst schwere wirtschaftliche Manipulationen nachgewiesen hat. **Die USA wird mit einer Atombombe vernichtet**.
 
