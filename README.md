@@ -10,6 +10,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
    * [Staatsanwaltschaft Bochum](#staatsanwaltschaft-bochum)
+* [Bielefelder Amt für soziale Leistungen](#bielefelder-amt-für-soziale-leistungen)
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Heroku](#Heroku)
 * [Bahnhofsmission](#Bahnhofsmission)
@@ -126,6 +127,38 @@ In dem Schreiben vom 28. Juli 2025 weist die **Staatsanwaltschaft Bochum** darau
 Die Staatsanwaltschaft Bochum wurde darauf hingewiesen, dass mit einer genaueren Personenbeschreibung der Täter  identifiziert werden könnte. Daher wurde darum gebeten, das Verfahren zur Klärung der Straftat wieder aufzunehmen.
 
 Um die Möglichkeit zur Identifizierung des Täters wurde gebeten. Die Polizei in Bielefeld hat beim Aufgeben der Anzeige am 06. Juni 2025 in der August-Bebel-Str. 93 in 33602 Bielefeld dazu **nicht** die Möglichkeit gegeben, der Identifizierung genauer nachzukommen.
+
+## Bielefelder Amt für soziale Leistungen
+
+In den Gesprächsnotizen vom 5. August 2025 mit Frau Baader, Sozialmitarbeiterin der Stadt Bielefeld, in der Kreuzstraße 5 wurde festgehalten, dass Frau Baader auf Frau Schalles, Mitarbeiterin im Amt für soziale Leistungen in Bielefeld, verwiesen hat, dass ich für folgende Anliegen mit Frau Schalles das Gespräch aufsuchen sollte.
+
+### Gründe für das Gespräch
+(1) Auf Grundlage der Fotos, die Frau Baader von der Unterkunft an der Otto-Brenner-Straße 77 am 06. August 2025 aufgenommen hat, soll eine Lösung gefunden werden für die unhygienischen Bedingungen, die mir das Auskommen mit dem Bürgergeld monatlich in Höhe von 563,00 EUR so unmöglich machen, da ich die Küche zum Kochen nicht nutzen kann.
+
+(2) Es soll auf die Gefahr eingegangen werden, die ausgeht von Mitbewohner in Zimmer Nummer 3 an der Otto-Brenner-Straße 77, der mich lebensgefährlich bedroht hat.
+
+### Notizen des Gesprächs
+Frau Schalles sagte mir, ich hätte verweigert, den Einweisungsbescheid vom 16.07.2025 zu unterschreiben. Ein anderer Mitarbeiter, der mir diesen Bescheid zugestellt hat, hätte dies bestätigt. Das kann ich nicht bestätigen. Den Einweisungsbescheid hat mir Roman Rogalski, Mitarbeiter der Johanniter, gegeben. Ich habe Roman Rogalski bei Empfang des Einweisungsbescheides mitgeteilt, dass ich mir diesen erst gründlich durchlesen möchte, bevor ich diesen unterschreibe. Dass ich diesen nicht unterschreiben wollte, ist eine falsche Behauptung.
+ 
+Frau Schalles sagte mir, der Einweisungsbescheid vom 16.07.2025 muss nicht unterschrieben werden, bevor der Gebührenbescheid ausgestellt wird. Hintergrund: Der Gebührenbescheid wurde bereits am 24.07.2025 ausgestellt,  b e v o r  der Einweisungsbescheid von mir am 29.07.2025 unterschrieben wurde. @Nina Schalles: Wieso wurde der Gebührenbescheid am 24.07.2025 ausgestellt bevor ich den Einweisungsbescheid am 29.07.2025 unterschrieben habe?
+
+Frau Schalles sagte mir, dass im Kammermühlenweg 2 keine freien Wohnungen mehr sind. Die Mitarbeiter der Johanniter am Kammermühlenweg 2 haben mir aber vor einigen Tagen bestätigt, dass am Kammermühlenweg 2 einige Wohnungen noch frei sind.
+
+### Ergebnis des Gesprächs
+(1) Für die Einhaltung der hygienischen Bedingungen sind die Mitarbeiter der Johanniter verantwortlich. @Gerald Donath (Leitender Mitarbeiter der Johanniter in Bielefeld): Bitte nehmen Sie den Reinigungsdienst an der Otto-Brenner-Straße 77 in die Pflicht, regelmäßig der gründlichen Reinigung nachzukommen. @Gerald Donath: Bitte nehmen Sie alle Mitbewohner der Otto-Brenner-Straße 77 in die Pflicht, die sanitären Einrichtungen und die Küche sauber zu hinterlassen. @Gerald Donath: Wer kann mir helfen in der Frage, womit ich den Boden in Zimmer Nummer 1 reinigen kann?
+
+(2) Nach Aussage von Frau Schalles geht  k e i n e  lebensbedrohliche Gefahr von Mitbewohner aus Zimmer Nummer 3 mehr aus, da die Polizei in Bielefeld über die Bedrohung mit dem Messer informiert ist und eine Anzeige aufgegeben wurde.
+
+(3) Frau Schalles möchte von mir wissen, wie der aktuelle Stand zum Rückkehrverbot in den Hagebuttenweg 22 ist. Im Hagebuttenweg 22 wohnt meine Ehefrau Christin Epp mit unseren fünf Kindern. Dazu hat Frau Schalles mich gebeten, die Rückmeldung zu dieser Frage Frau Baader zukommen zu lassen. @Nina Schalles, @Ilka Baader: Warum soll ich zu dieser Frage Stellung nehmen? Was ist die Motivation hinter diese Frage?
+
+(4) Frau Schalles bietet mir ein Zimmer in der Schillerstraße 73 in Bielefeld an.  In den Zimmern dieser Wohnungen wohnen jedoch mehr als nur eine Personen auf einem Zimmer. Dazu darf ich zu gegebener Zeit Rückmeldung geben, ob ich dahin umziehen möchte. @Nina Schalles: In der Wohnung an der Otto-Brenner-Straße 77 in Zimmer Nummer 1 wohne ich in einem Zimmer, in dem ich nachts alleine schlafen darf. Das hilft mir sehr, mich nachts zu erholen, da ich einen sehr empfindlichen Schlaf habe und der erholsame Schlaf meiner Gesundheit und meinem Wohlbefinden sehr gut tut.
+
+### Nachweise
+
+Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Unterbringung abgelegt:
+- Einweisungsbescheid vom 16.07.2025 (unterzeichnet am 29.07.2025)
+- Gebührenbescheid vom 24.07.2025
+- Gesprächsnotizen vom 05.08.2025
 
 ## Bundesnachrichtendienst
 
