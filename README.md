@@ -1,8 +1,6 @@
 # Outtakes
 
-**<span style="color: orange;">Alle Lösungen, die hier unter github.com/hjstephan86 *als neue Lösungen* gezeigt werden, sind urheberrechtlich geschützt. Eine kommerzielle Nutzung ist ausgeschlossen. Eine freie Nutzung braucht meine Zustimmung.</span>**
-
-Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [https://github.com/hjstephan86/blog](https://github.com/hjstephan86/blog) und [https://github.com/hjstephan86/blogg](https://github.com/hjstephan86/blogg) nicht aufgeschrieben haben.
+Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [https://github.com/hjstephan86/blog](https://github.com/hjstephan86/blog) oder [https://github.com/hjstephan86/blogg](https://github.com/hjstephan86/blogg) nicht erfasst habe.
 
 ## Inhaltsverzeichnis
 
@@ -18,9 +16,6 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Heroku](#Heroku)
 * [Bahnhofsmission](#Bahnhofsmission)
-* [Naturwissenschaft](#Naturwissenschaft)
-   * [Python und Java](#python-und-java)
-   * [Code: Formatierung und Kommentare](#code-formatierung-und-kommentare)
 
 ## Christliche Gemeinde Sennestadt
 
@@ -59,7 +54,7 @@ Da es sich um ein gemeinsames Girokonto handelte, steht das dort verwaltete Guth
 
 Der Geschädigte forderte Christin Epp ausdrücklich auf zur Erstattung der durch ihr rechtswidriges Verhalten entstandenen Kosten im Zusammenhang mit der Beantragung von Ersatzdokumenten für das ehemals auf den Geschädigten zugelassenes Fahrzeug mit dem Kennzeichen PB-A 828.
 
-Da Christin Epp dem Geschädigten ohne seine Zustimmung den Fahrzeugschein (Zulassungsbescheinigung Teil I) und den Fahrzeugbrief (Zulassungsbescheinigung Teil II) entwendet und zurückgehalten hat, war der Geschädigten gezwungen, beide Dokumente bei der Zulassungsstelle Bielefeld neu zu beantragen. Die dafür entstandenen Gebühren für den Ersatz des Fahrzeugbriefes (Teil II, Aufbietung, eidesstattliche Versicherung, Ausstellung des Ersatzdokuments) und den Ersatz des Fahrzeugscheins (Teil I, Gebühr, Karteikartenabschrift) betrugen etwa 83,50 EUR.
+Da Christin Epp dem Geschädigten ohne seine Zustimmung den Fahrzeugschein (Zulassungsbescheinigung Teil I) und den Fahrzeugbrief (Zulassungsbescheinigung Teil II) entwendet und zurückgehalten hat, war der Geschädigte gezwungen, beide Dokumente bei der Zulassungsstelle Bielefeld neu zu beantragen. Die dafür entstandenen Gebühren für den Ersatz des Fahrzeugbriefes (Teil II, Aufbietung, eidesstattliche Versicherung, Ausstellung des Ersatzdokuments) und den Ersatz des Fahrzeugscheins (Teil I, Gebühr, Karteikartenabschrift) betrugen etwa 83,50 EUR.
 
 Da Christin Epp auf diese Forderung nicht reagierte, sah sich der Geschädigte gezwungen, gerichtliche Schritte einzuleiten und eine Strafanzeige wegen Unterschlagung (§ 246 StGB) zu stellen.
 
@@ -69,6 +64,7 @@ Als Nachweise sind folgende Dokumente unter doc/Sennestadt/ abgelegt:
 - Kontoauszug Februar 2024: KONTOAUSZUG_GIROKONTO_230583809_dat20240229_id1330601422.pdf
 - Kontoauszug März 2024: KONTOAUSZUG_GIROKONTO_230583809_dat20240328_id1346421993.pdf
 - Strafanzeigen vom 26.06.2025: 250626-1614-i1819859, 250626-1748-i2136780 und 250626-1823-i373377
+- Strafanzeige vom 10.08.2025: 250810-0528-i1164590
 
 ### Polizei
 
@@ -310,9 +306,9 @@ Zur Essensausgabe war ich gestern, den 06. August 2025, um etwa 16:20 Uhr bei de
 
 **Datum:** 06. August 2025  
 **Berichterstatter:** Stephan Epp  
-**Betreff:** Hausverbot und Vorkommnisse bei der Bahnhofsmission Hauptbahnhof
+**Betreff:** Hausverbot und Vorkommnisse bei der Bahnhofsmission am Hauptbahnhof Bielefeld
 
-**Fall 1: 06. August 2025, 11:10 Uhr**  
+**Fall: 06. August 2025, 11:10 Uhr**  
 **Ort:** Hauptbahnhof, Bahnhofsmission
 
 Die Beratung eines Bürgers erfolgte mal an der Theke. Personen, die aber auf Essensausgabe warteten, mussten draußen warten. Ihnen wurde das Essen nach draußen gebracht. Die persönliche Beratung wurde der Essensausgabe gegenüber priorisiert.
@@ -327,8 +323,8 @@ Herr Krahn war der Auffassung, dass durch meine Person schlechte Stimmung verbre
    - Kritische Priorisierung von Essensausgabe gegenüber persönlichen Beratungen, was zu Unmut bei Bedürftigen vor der Tür führt
    - Fehlende Kennzeichnung bei abgelaufenen Produkten in der Essensausgabe, wodurch das Risiko möglicher Lebensmittelvergiftungen erhöht wird  
 
-**Fall 2: 06. August 2025, 16:20 Uhr**  
-**Erteilung eines Hausverbots**
+**Fall: 06. August 2025, 16:20 Uhr, Erteilung eines Hausverbots**  
+**Ort:** Hauptbahnhof, Bahnhofsmission
 
 Auf die Nachfrage nach alternativen Verpflegungsmöglichkeiten morgens und abends konnte Herr Zawieracz keine Antwort geben. Er überreichte einen Flyer des Bielefelder Tisches, welcher jedoch nur Mittagessen anbietet und bereits seit Wochen aufgesucht wird.
 
@@ -339,105 +335,3 @@ Herr Zawieracz bestätigte, dass trotz Kenntnis der finanziellen Notlage das Hau
 Das erteilte Hausverbot führt dazu, dass die regelmäßige Nahrungsmittelversorgung der Bahnhofsmission morgens und abends für eine Woche nicht gegeben ist.
 
 **Nachweis**: Das schriftliche Hausverbot ist als Beleg unter CIA/Bielefeld/Bahnhofsmission/20250806-Hausverbot.pdf abgelegt.
-
-## Naturwissenschaft
-
-Die Verteilung der Geschwindigkeit beim Fahren mit dem Fahrrad wird über die Reifenbreite wie folgt nur qualitativ beschrieben:
-
-![doc/speed-dist.svg](doc/speed-dist.svg)
-
-Probier es vielleicht mal mit 29 mm Reifenbreite.
-
-Es braucht einen **standardisierten Versandprozess** weltweit. Dieser stellt sicher, dass das Risiko aller Verkehrsteilnehmer während des Versands minimiert wird und auch die Zustellung zuverlässig erfolgt. Mitarbeiter im Versand dürfen nicht mehr ausgenutzt werden, indem sie besonders schnell zustellen, aber dafür nur sehr wenig Lohn erhalten und ein hohes Risiko während der Zustellung ertragen müssen. Die Lieferzeiten müssen angemessen und zur Zufriedenheit des Benutzers eingehalten werden.
-
-Was haben gerade und ungerade Zahlen gemeinsam? Sie sind paarweise um die Differenz von 1 in ihrer Wertigkeit gleich.
-
-Es darf nicht sein, dass einem Menschen der Finger abgehackt wird und dieser für die biometrische Authentifizierung am Smartphone verwendet werden kann. Die biometrische Authentifizierung muss in der Nähe des Benutzers erfolgen. Dabei darf das Gehirn keine ungewöhnlichen Signale oder extreme Stresssignale senden.
-
-Die Zufriedenheit des Benutzers mit der Web Applikation wird bestimmt durch Javascript und CSS. Die Benutzererfahrung während der Benutzung der Web Applikation wird maßgeblich durch Javascript Lösungen und CSS beeinflusst.
-
-### Python und Java
-
-Die Struktur oder die Strukturen einer Software werden beschrieben durch Programmiersprachen wie Python oder HTML. Der Inhalt ist gegeben durch die Daten, die mit Hilfe der Strukturen verarbeitet und angezeigt werden. Wie hängen unterschiedliche **Verteilungen von Programmiersprachen** für die Strukturbeschreibungen zusammen mit der Menge von Daten einer Software? Sind besonders viele Daten zu verarbeiten, ist zu erwarten, dass bestimmte Programmiersprachen sich für diesen Zweck besser eignen. Auf [https://github.com/hjstephan86/pyble-app?tab=readme-ov-file#Language-Distribution](https://github.com/hjstephan86/pyble-app?tab=readme-ov-file#Language-Distribution) zeige ich beispielhaft die Verteilung der Programmiersprachen für pyble-app. Ein Skript zur Erstellung dieser Verteilung liegt in diesem Repository unter src/ldist.py. Welche Programmiersprache eignet sich dabei besonders unter den bekannten Sprachen wie Python oder Java? Verglichen werden Python und Java hinsichtlich des benötigten Speicherbedarfs **(RES)** auf [https://github.com/hjstephan86/pyble-app?tab=readme-ov-file#Compare-RES-of-Python-and-Java](https://github.com/hjstephan86/pyble-app?tab=readme-ov-file#Compare-RES-of-Python-and-Java). Eine andere Metrik zum Vergleich beider Sprachen ist die Anzahl der benötigten **Code-Zeilen**. Je mehr Code-Zeilen geschrieben werden müssen, desto größer ist der Aufwand für die Implementierung und für die Wartung.
-
-Ich habe Quicksort in Python und Java implementiert, ausgeführt und dabei die Laufzeit und den Speicherbedarf gemessen. Die Quelldateien befinden sich in src/. Wie erwartet ist Java *nach* der Kompilierung in der Ausführung schneller als Python. Im benötigten Speicherbedarf (RES) wurde für den Java Prozess 185640 Byte (185,6 KB) und für den Python Prozess 185688 Byte (185,7 KB) gemessen. 
-
-<pre>
-Timestamp,PID,RES_KB,VSZ_KB,CPU%,Command
-2025-08-05 05:34:33,  15412 102952 819940 109 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:34,  15412 185640 2195568 48.0 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:36,  15412 184852 2194748 28.8 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:37,  15412 184980 2194748 21.3 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:38,  15412 184980 2194748 17.0 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:39,  15412 184980 2194748 14.4 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:41,  15412 184980 2194748 12.6 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:42,  15412 184980 2194748 11.4 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:43,  15412 184980 2194748 10.3 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:45,  15412 184980 2194748 9.4 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:46,  15412 184980 2194748 8.6 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:47,  15412 184980 2194748 7.9 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:49,  15412 184980 2194748 7.5 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:50,  15412 184980 2194748 7.3 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:51,  15412 184980 2186552 6.9 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-2025-08-05 05:34:53,  15412 184140 2161148 6.8 /usr/bin/gnome-text-editor /home/stephan/java.res.txt
-</pre>
-
-<pre>
-Timestamp,PID,RES_KB,VSZ_KB,CPU%,Command
-2025-08-05 05:34:55,  16250 183896 2069364 100 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
-2025-08-05 05:34:56,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
-2025-08-05 05:34:56,  16250 184536 2057396 50.2 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
-2025-08-05 05:34:57,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
-2025-08-05 05:34:57,  16250 184664 2057528 34.3 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
-2025-08-05 05:34:59,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
-2025-08-05 05:34:59,  16250 185048 2058056 27.2 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
-2025-08-05 05:35:00,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
-2025-08-05 05:35:00,  16250 185688 2058516 23.1 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
-2025-08-05 05:35:01,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
-2025-08-05 05:35:01,  16250 185688 2060564 23.1 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
-</pre>
-
-Mit `loc.py` habe ich die benötigten Code-Zeilen ermittelt. Das Skript befindet sich in diesem Repository unter src/loc.py.
-<pre>
->> python3 loc.py QuickSort.java 
-Language    Files    Blank    Comment    Code    Total
-----------  -------  -------  ---------  ------  -------
-Java        1        30       53         119     202
---------    -----    -----    -------    ----    -----
-Total       1        30       53         119     202
-</pre>
-
-<pre>
->> python3 loc.py quicksort.py
-Language    Files    Blank    Comment    Code    Total
-----------  -------  -------  ---------  ------  -------
-Python      1        43       48         101     192
---------    -----    -----    -------    ----    -----
-Total       1        43       48         101     192
-</pre>
-Die Implementierung in Java erfordert 119 Code-Zeilen, die Python-Implementierung benötigt nur 101 Code-Zeilen. Dies resultiert in einer Codereduktion von 15,1% bei Verwendung von Python gegenüber Java. **Für größere Softwareprojekte ist Python in der Lesbarkeit, Implementierung und Wartbarkeit attraktiver als Java**. In der Wissenschaft hat sich Python durchgesetzt, da Python einfacher zu lernen ist als Java. 
-
-### Code: Formatierung und Kommentare
-
-Die Lesbarkeit von Code ist wichtig. Die Formatierung des Codes und Kommentare im Code helfen dabei. Das Skript `loc.py` in diesem Repository unter src/loc.py hilft dabei, die Formatierung im Code und das Generieren von Kommentaren im Code sicher durchzuführen. Dazu kann `loc.py` vor und nach der Formatierung und Generierung von Kommentaren ausgeführt und das Ergebnis beider Ausführungen verglichen werden.
-
-Durchgeführt habe ich diesen Vorgang mit ldist.py unter src/ldist.py. Hier die Ausgabe von `loc.py` davor:
-<pre>
->> python3 loc.py ldist.py 
-Language    Files    Blank    Comment    Code    Total
-----------  -------  -------  ---------  ------  -------
-Python      1        42       73         268     383
---------    -----    -----    -------    ----    -----
-Total       1        42       73         268     383
-</pre>  
-
-Hier die Ausgabe von `loc.py` danach:
-<pre>
->> python3 loc.py ldist.py 
-Language    Files    Blank    Comment    Code    Total
-----------  -------  -------  ---------  ------  -------
-Python      1        48       93         270     411
---------    -----    -----    -------    ----    -----
-Total       1        48       93         270     411
-</pre>
-Im Code von `ldist.py` wurden nur zwei Zeilen mit der Formatierung hinzugefügt, da eine längere Anweisung automatisch umgebrochen wurde.  Insgesamt wurden 20 neue Zeilen für Kommentare generiert und sechs neue Leerzeilen für die Formatierung hinzugefügt.
