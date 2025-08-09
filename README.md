@@ -7,6 +7,8 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 ## Inhaltsverzeichnis
 
 * [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
+   * [Polizei](#polizei)
+   * [Jugendamt](#jugendamt)
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
    * [Staatsanwaltschaft Bochum](#staatsanwaltschaft-bochum)
@@ -31,6 +33,55 @@ Die Christliche Gemeinde Sennestadt hat mir nach zwei Ansprachen am 31.12.2023 u
 Jhwh sagte mir, dass er noch nie solche Ansprachen gehört hat und dass es die besten Ansprachen sind, die er jemals gehört hat. Zur Zeit dieser Ansprachen war ich mir nicht mehr bewusst, dass Gottes Geist mich 2020 zum Propheten berufen und beauftragt hatte. Es war die Zeit, in der die Juden mich heftig verflucht hatten und in der ich Neuroleptika benötigte.
 
 Eine entscheidende Lehrfrage, die in der Christlichen Gemeinde Sennestadt anders gesehen wird, ist die von der Verlierbarkeit des Heils. Jesus macht deutlich, dass die, (1) die sein Stimme hören *und* (2) ihm folgen, seine Schafe sind und sie dann nicht aus seiner Hand zu reißen sind. In der Christlichen Gemeinde Sennestadt sagte **Olaf Strothkirch**, ein Hirte der Gemeinde, zu mir, dass man nicht hören will, dass Christen vom Glauben abfallen können.
+
+### Diebstahl
+
+Ende des Jahres 2024 entwendete die Beschuldigte Christin Epp, Ehefrau des Geschädigten, den Fahrzeugbrief des PKW PB-A 828 aus dem gemeinsamen Haushalt. Bei dieser Tat wurde sie durch den Beschuldigten Elmar Scheid unterstützt. Der entwendete Fahrzeugbrief wurde anschließend im Wohnanwesen des Beschuldigten Elmar Scheid in Bielefeld-Sennestadt verwahrt. Vor der Tatausführung hatte der Geschädigte seine Ehefrau Christin Epp darüber informiert, dass er sich aufgrund fehlender finanzieller Mittel genötigt sehe, das Fahrzeug zu veräußern. Es wird davon ausgegangen, dass die Beschuldigten durch die widerrechtliche Wegnahme des Fahrzeugbriefs den Tatbestand des Diebstahls gemäß § 242 StGB erfüllt haben. Der Geschädigte war zum Zeitpunkt der Tat alleiniger eingetragener Eigentümer und Halter des oben genannten Kraftfahrzeugs, wie aus dem Fahrzeugbrief ersichtlich.
+
+#### Wegnahme Wohnungsschlüssel
+
+Da der Geschädigte als gleichberechtigter Mieter der Wohnung gemäß des Mietvertrages eingetragen ist, hat er ein gesetzliches Recht, die Wohnung zu betreten und darin zu wohnen (§ 535 BGB).
+
+Das eigenmächtige Wegnehmen des Wohnungsschlüssels und der Ausschluss aus der Wohnung stellt eine verbotene Eigenmacht (§ 858 BGB) dar. Ohne eine gerichtliche Entscheidung ist es nicht zulässig, dem Geschädigten den Zugang zur gemeinsam gemieteten Wohnung zu verweigern.
+
+Der Geschädigte forderte die Beschuldigte Christin Epp auf, ihm unverzüglich den Wohnungsschlüssel zurückzugeben und den freien Zutritt zur Wohnung wieder zu ermöglichen. Da Christin Epp auf diese Forderung nicht reagiert hat, wurden rechtliche Schritte eingeleitet, um das Wohnrecht des Geschädigte durchzusetzen.
+
+#### Unrechtmäßige Vermögensverlagerung
+
+Christin Epp und der Geschädigte hatten am 1. Februar 2024 auf ihrem gemeinsamen Girokonto 230583809 der Consorsbank einen Guthabenstand von 57.826,81 EUR. Am 4. März 2024 betrug der Guthabenstand nur noch 7,72 EUR. Siehe dazu die Kontoauszüge unter Nachweise.
+
+Nach Durchsicht der Kontoauszüge ist klar ersichtlich, dass Christin Epp in diesem Zeitraum das gesamte Guthaben auf ihr persönliches Konto überwiesen hat – ohne vorherige Absprache oder Zustimmung des Geschädigten.
+
+Da es sich um ein gemeinsames Girokonto handelte, steht das dort verwaltete Guthaben beiden Kontoinhabern zu gleichen Teilen zu. Die vollständige Übertragung auf das Privatkonto der Beschuldigten stellt daher eine einseitige und unrechtmäßige Vermögensverlagerung dar, die so nicht hinzunehmen ist und rechtlich überprüft werden muss. Dieses Verhalten erfüllt den Tatbestand der Unterschlagung nach § 246 StGB.
+
+#### Kostenerstattung: Ersatzdokumente
+
+Der Geschädigte forderte Christin Epp ausdrücklich auf zur Erstattung der durch ihr rechtswidriges Verhalten entstandenen Kosten im Zusammenhang mit der Beantragung von Ersatzdokumenten für das ehemals auf den Geschädigten zugelassenes Fahrzeug mit dem Kennzeichen PB-A 828.
+
+Da Christin Epp dem Geschädigten ohne seine Zustimmung den Fahrzeugschein (Zulassungsbescheinigung Teil I) und den Fahrzeugbrief (Zulassungsbescheinigung Teil II) entwendet und zurückgehalten hat, war der Geschädigten gezwungen, beide Dokumente bei der Zulassungsstelle Bielefeld neu zu beantragen. Die dafür entstandenen Gebühren für den Ersatz des Fahrzeugbriefes (Teil II, Aufbietung, eidesstattliche Versicherung, Ausstellung des Ersatzdokuments) und den Ersatz des Fahrzeugscheins (Teil I, Gebühr, Karteikartenabschrift) betrugen etwa 83,50 EUR.
+
+Da Christin Epp auf diese Forderung nicht reagierte, sah sich der Geschädigte gezwungen, gerichtliche Schritte einzuleiten und eine Strafanzeige wegen Unterschlagung (§ 246 StGB) zu stellen.
+
+### Nachweise
+Als Nachweise sind folgende Dokumente unter doc/Sennestadt/ abgelegt:
+- Mietvertrag zum 01.04.2023
+- Kontoauszug Februar 2024: KONTOAUSZUG_GIROKONTO_230583809_dat20240229_id1330601422.pdf
+- Kontoauszug März 2024: KONTOAUSZUG_GIROKONTO_230583809_dat20240328_id1346421993.pdf
+- Strafanzeigen vom 26.06.2025: 250626-1614-i1819859, 250626-1748-i2136780 und 250626-1823-i373377
+
+### Polizei
+
+**Herr Vogelsang, Beamter der Polizei in Bielefeld, konnte mir am 06.08.2025 zu den Strafanzeigen vom 26.06.2025 keine Auskunft erteilen. Herr Vogelsang gab mir die Telefonnummer 0521 545-4520 unter der ich die K33 Vorgangsbearbeitung für Online-Anzeigen erreiche. Bisher konnte ich telefonisch dazu niemanden erreichen.** Siehe dazu die Notiz von Herrn Vogelsang unter doc/CIA/Bielefeld/Polizei/20250806-KK33.pdf
+
+### Jugendamt
+
+Im Rahmen eines abschließenden Gesprächs zwischen Frau Christin Epp und dem Geschädigten am 18.06.2025 beim Jugendamt Bielefeld wurde zwischen den Beteiligten unter Vermittlung von Frau Manuela Meier (Mitarbeiterin des Jugendamtes) eine Vereinbarung getroffen. Diese umfasste folgende Punkte:
+
+1. Der Geschädigte verpflichtet sich, sich nicht in der Nähe der Kinder oder deren Wohnort aufzuhalten.
+
+2. Frau Christin Epp erstellt eine Aufstellung des Eigentums des Geschädigten, welches sich in der Wohnung am Hagebuttenweg 22 in 33689 Bielefeld-Sennestadt befindet, und übermittelt diese dem Geschädigten.
+
+Am 24.07.2025 wurde Frau Meier schriftlich über die Nichteinhaltung der Vereinbarung seitens Frau Epp informiert, da **die vereinbarte Eigentumsaufstellung bis zu diesem Zeitpunkt nicht übermittelt wurde**. Eine Aufstellung des Eigentums des Geschädigten wurde dem Geschädigten bis heute nicht zugestellt. Diese Auftstellung würde zum Beispiel die Werkzeuge aus der Garage am Hagebuttenweg 22 beinhalten.
 
 ## Johanniter
 
@@ -156,7 +207,7 @@ Frau Schalles sagte mir, dass im Kammermühlenweg 2 keine freien Wohnungen mehr 
 
 ### Nachweise
 
-Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Unterbringung abgelegt:
+Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Unterbringung/ abgelegt:
 - Einweisungsbescheid vom 16.07.2025 (unterzeichnet am 29.07.2025)
 - Gebührenbescheid vom 24.07.2025
 - Gesprächsnotizen vom 05.08.2025
@@ -194,7 +245,7 @@ Frage an Frau Westermann: Wie heißt der Richter, der in diesem Verfahren gerich
 
 ### Nachweise
 
-Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht abgelegt:
+Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht/ abgelegt:
 - 2 XIV (L) 42/24 Verfahrenspflege vom 21.05.2025
 - 2 XVII 971/24 Sozialbericht vom 10.09.2024
 - 2 XVII 991/25 Aufforderung zur Mitwirkung vom 15.07.2025
