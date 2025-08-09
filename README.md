@@ -9,6 +9,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
    * [Polizei](#polizei)
    * [Jugendamt](#jugendamt)
+* [Jobcenter Bielefeld](#jobcenter-bielefeld)
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
    * [Staatsanwaltschaft Bochum](#staatsanwaltschaft-bochum)
@@ -82,6 +83,29 @@ Im Rahmen eines abschließenden Gesprächs zwischen Frau Christin Epp und dem Ge
 2. Frau Christin Epp erstellt eine Aufstellung des Eigentums des Geschädigten, welches sich in der Wohnung am Hagebuttenweg 22 in 33689 Bielefeld-Sennestadt befindet, und übermittelt diese dem Geschädigten.
 
 Am 24.07.2025 wurde Frau Meier schriftlich über die Nichteinhaltung der Vereinbarung seitens Frau Epp informiert, da **die vereinbarte Eigentumsaufstellung bis zu diesem Zeitpunkt nicht übermittelt wurde**. Eine Aufstellung des Eigentums des Geschädigten wurde dem Geschädigten bis heute nicht zugestellt. Diese Auftstellung würde zum Beispiel die Werkzeuge aus der Garage am Hagebuttenweg 22 beinhalten.
+
+## Jobcenter Bielefeld
+
+Aus der vorliegenden Korrespondenz zwischen dem Jobcenter (vertreten durch Herrn Kern) und dem Leistungsempfänger Herrn Stephan Epp geht folgender Sachverhalt hervor:
+
+### Nachricht des Jobcenters (Herr Kern)
+Das Jobcenter bestätigt den Eingang einer Postfachnachricht des Leistungsempfängers bezüglich einer Qualifizierungsmaßnahme. Zwischen den Parteien sei vereinbart worden, zunächst den Ärztlichen Dienst der Agentur für Arbeit zur Überprüfung der Leistungsfähigkeit des Antragstellers einzuschalten. Der erforderliche Gesundheitsfragebogen wurde bereits am 17.06.2025 eingereicht. Die Bearbeitung durch den Ärztlichen Dienst ist noch nicht abgeschlossen. Das Jobcenter weist darauf hin, keinen Einfluss auf die Bearbeitungsdauer zu haben und bittet um Geduld bis zur Rückmeldung des Ärztlichen Dienstes.
+
+### Nachricht des Leistungsempfängers (Herr Stephan Epp)
+Der Leistungsempfänger übermittelt Bewerbungsnachweise für Stellenausschreibungen im Bereich Informatik sowie Gesprächsnotizen zweier Vorstellungsgespräche. Zusätzlich weist er auf einen gestellten Weiterbildungsantrag hin und bittet um zeitnahe Rückmeldung, da der Beginn der Weiterbildung für den 18. August vorgesehen ist.
+
+### Bewertung
+Die Korrespondenz zeigt zwei parallel laufende Verfahren auf: Einerseits die laufende Überprüfung der Leistungsfähigkeit durch den Ärztlichen Dienst, andererseits den Antrag auf eine Weiterbildungsmaßnahme. Der Leistungsempfänger kommt seinen Mitwirkungspflichten nach, indem er Bewerbungsnachweise vorlegt und seine Bemühungen um eine Arbeitsaufnahme dokumentiert.
+
+### Handlungsbedarf
+Eine zeitnahe Bearbeitung des Weiterbildungsantrags erscheint erforderlich, da der angegebene Beginn unmittelbar bevorsteht und eine rechtzeitige Entscheidung für die weitere Eingliederung des Leistungsempfängers von Bedeutung ist.
+
+### Nachweise
+Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Jobcenter/ abgelegt:
+- Postfachnachricht vom 05.08.2025 des Geschädigten
+- Nachweise der Postfachnachricht vom 08.08.2025 des Geschädigten
+- Postfachnachricht vom 06.08.2025 von Herrn Kern
+- Gesundheitsfragebogen vom 17.06.2025
 
 ## Johanniter
 
