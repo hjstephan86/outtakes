@@ -11,6 +11,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
    * [Staatsanwaltschaft Bochum](#staatsanwaltschaft-bochum)
 * [Bielefelder Amt für soziale Leistungen](#bielefelder-amt-für-soziale-leistungen)
+* [Bielefelder Amtsgericht](#bielefelder-amtsgericht)
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Heroku](#Heroku)
 * [Bahnhofsmission](#Bahnhofsmission)
@@ -159,6 +160,44 @@ Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Unterbringung abge
 - Einweisungsbescheid vom 16.07.2025 (unterzeichnet am 29.07.2025)
 - Gebührenbescheid vom 24.07.2025
 - Gesprächsnotizen vom 05.08.2025
+
+
+## Bielefelder Amtsgericht
+
+Telefonat am 07.08.2025 um 09:20 Uhr mit Frau Westermann vom Amtsgericht Bielefeld. Es geht um die Verfahren 2 XIV (L) 42/24 und 2 XVII 971/24 und 2 XVII 991/25. Die letzteren sind Betreuungsverfahren, die im Jahr 2024 und im Jahr 2025 angeregt und eröffnet wurden.
+
+### 2 XIV (L) 42/24
+
+Es gibt einen **Beschluss** vom 11.03.2024.
+
+Eine Unterbringung in dem Evangelischen Klinikum Bethel (EvKB) -- Haus Gilead IV ab 11.03.2024 bis zum 25.03.2025 wurde genehmigt. Ich sei schon am 19.03.2025 wieder aus dem Evangelischen Klinikum Bethel entlassen worden. Ab dem 19.03.2025 wäre ich freiwillig geblieben.
+
+Dazu gibt es
+- Anschreiben vom EvKB: Am 19.03.2025 wurde ich entlassen, von Herrn Dr. Weigele
+- Anschreiben vom EvKB: Ab 19.03.2025 bin ich freiwillig geblieben, von Herrn Dr. Weigele
+
+Frau Westermann habe ich gebeten, mir den Beschluss mit allen Anschreiben vom EvKB an die Viktoriastraße 10 in 33602 Bielefeld zukommen zu lassen.
+
+Nach Aussage von Frau Westermann ist dieses Verfahren eingestellt. Das Verfahren wurde beendet mit Auslaufen der Unterbringung. Es wurde geprüft, ob noch Kosten offen sind. Daraufhin kam es zur Aufforderung, die Kosten dieses Verfahrens zu begleichen (siehe Nachweis).
+
+**Bei Eröffnung dieses Verfahrens und auch in der rechtlichen Vertretung wurde ich  n i c h t  in Kenntnis gesetzt.**
+
+### 2 XVII 971/24
+
+Frage an Frau Westermann: Ist das Verfahren 2 XVII 971/24 eingestellt? Am 10.09.2024 wurde ein Sozialbericht erstellt, dass das Verfahren ruhen gelassen wird (siehe Nachweis). Eine Abschrift dieses Sozialberichts habe ich vom Amtsgericht Bielefeld angefordert.
+
+Frage an Frau Westermann: Was wurde nach einem halben Jahr vom Amtsgericht Bielefeld zu diesem Verfahren vermerkt? Frau Westermann antwortete, dass das Verfahren am 24.03.2025 eingestellt worden sei. Dabei betonte Frau Westermann, das Verfahren sei zur Seite gelegt und nicht weiter behandelt worden.
+
+Es gibt einen Vermerk in der Akte im Umgang mit diesem Verfahren. Frau Westermann habe ich gebeten, mir den Vermerk zu diesem Verfahren an die Viktoriastraße 10 in 33602 Bielefeld zukommen zu lassen.
+
+Frage an Frau Westermann: Wie heißt der Richter, der in diesem Verfahren gerichtet hat? Frau Westermann antwortete verzögert: Herr Strufe. Frau Westermann sagte mir, sie fragt Herrn Strufe, ob er ein Schreiben dazu verfassen kann. Ich habe Frau Westermann nicht nach einem Schreiben gefragt, sondern nur nach dem Vermerk in diesem Verfahren. Frau Westermann sagte vorher Herr Strus und verzögerte das Nennen des Namens des Richters auffällig lange. Beim Buchstabieren des Namens verwendete sie nicht die gewöhnlichen Buchstabierungen "Siegfried", "Theoder" usw. sondern sagte f wie frei.
+
+### Nachweise
+
+Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht abgelegt:
+- 2 XIV (L) 42/24 Verfahrenspflege vom 21.05.2025
+- 2 XVII 971/24 Sozialbericht vom 10.09.2024
+- 2 XVII 991/25 Aufforderung zur Mitwirkung vom 15.07.2025
 
 ## Bundesnachrichtendienst
 
