@@ -103,9 +103,13 @@ Eine zeitnahe Bearbeitung des Weiterbildungsantrags erscheint erforderlich, da d
 ### Nachweise
 Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Jobcenter/ abgelegt:
 - Postfachnachricht vom 05.08.2025 des Geschädigten
-- Nachweise der Postfachnachricht vom 08.08.2025 des Geschädigten
+- Nachweise der Postfachnachricht vom 08.08.2025 des Geschädigten (Eigeninitiative zur Fortbildung)
 - Postfachnachricht vom 06.08.2025 von Herrn Kern
 - Gesundheitsfragebogen vom 17.06.2025
+
+### Eigeninitiative zur Fortbildung
+
+Da die Bearbeitung des Gesundheitsfragebogens im Jobcenter Bielefeld noch andauert, habe ich für meine persönliche Fortbildung bei der Stadtbibliothek in Bielefeld Bücher aus dem Bereich der Informatik ausgeliehen. Eins von den Büchern wurde verfasst von Michael Kofler mit dem Titel: Python - Der Grundkurs, siehe dazu den Beleg unter doc/CIA/Bielefeld/Stadtbibliothek/Beleg-Python.pdf.
 
 ## Johanniter
 
