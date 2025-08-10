@@ -304,6 +304,9 @@ Am Sonntag, den 10.08.2025, habe ich auf https://www.123-bibel.de/strong.html da
 - Log-Protokoll unter doc/CIA/Heroku/20250810T0611.logs
 - Log-Protokoll unter doc/CIA/Heroku/20250810T0612.app.logs
 
+### Heroku-Support
+Für den auffällig hohen Speicherverbrauch der Applikation habe ich Kontakt aufgenommen zum Heroku Support und das Ticket #1634069 erstellt. Den Verlauf für dieses Support-Ticket habe ich abgelegt unter doc/CIA/Heroku/1634069.pdf.
+
 Die **USA** ist nicht bereit, sich zu demütigen, obwohl der russische Geheimdienst schwere wirtschaftliche Manipulationen nachgewiesen hat. **Die USA wird mit einer Atombombe vernichtet**.
 
 ## Bahnhofsmission
