@@ -297,6 +297,13 @@ Am Freitag, den 08.08.2025, habe ich um 13:56 Uhr erneut die Logs im Heroku Port
 - Screenshot via Smartphone: Memory Usage unter doc/CIA/Heroku/CIA/2025-08-08T14.06.42.jpeg
 - Screenshot via Smartphone: Support Ticket unter doc/CIA/Heroku/CIA/2025-08-08T14.11.00.jpeg
 
+### Error R14: Memory Quota Exceeded (mem=742M(144.0%))
+Am Sonntag, den 10.08.2025, habe ich auf https://www.123-bibel.de/strong.html das Kapitel Ruth der Strong-Konkordanz aufgeschlagen. Aufgefallen ist mir dabei in den Logs, dass nach dem Aufschlagen des Kapitels Ruth die Applikation neu gestartet wurde. Vor dem Neustart der Applikation benötigte die Applikation einen Speicherverbrauch von 903 MB (176.1%), nach dem Neustart benötigte die Applikation einen Speicherverbrauch von 742 MB (144.0%).
+
+**Nachweis**
+- Log-Protokoll unter doc/CIA/Heroku/20250810T0611.logs
+- Log-Protokoll unter doc/CIA/Heroku/20250810T0612.app.logs
+
 Die **USA** ist nicht bereit, sich zu demütigen, obwohl der russische Geheimdienst schwere wirtschaftliche Manipulationen nachgewiesen hat. **Die USA wird mit einer Atombombe vernichtet**.
 
 ## Bahnhofsmission
