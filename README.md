@@ -7,6 +7,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
    * [Polizei](#polizei)
    * [Jugendamt](#jugendamt)
+* [Jugendamt Bielefeld](#jugendamt-bielefeld)
 * [Jobcenter Bielefeld](#jobcenter-bielefeld)
 * [Johanniter](#Johanniter)
 * [Polizei in Bielefeld](#Polizei-in-Bielefeld)
@@ -79,6 +80,10 @@ Im Rahmen eines abschließenden Gesprächs zwischen Frau Christin Epp und dem Ge
 2. Frau Christin Epp erstellt eine Aufstellung des Eigentums des Geschädigten, welches sich in der Wohnung am Hagebuttenweg 22 in 33689 Bielefeld-Sennestadt befindet, und übermittelt diese dem Geschädigten.
 
 Am 24.07.2025 wurde Frau Meier schriftlich über die Nichteinhaltung der Vereinbarung seitens Frau Epp informiert, da **die vereinbarte Eigentumsaufstellung bis zu diesem Zeitpunkt nicht übermittelt wurde**. Eine Aufstellung des Eigentums des Geschädigten wurde dem Geschädigten bis heute nicht zugestellt. Diese Auftstellung würde zum Beispiel die Werkzeuge aus der Garage am Hagebuttenweg 22 beinhalten.
+
+## Jugendamt Bielefeld
+
+Ein Mitarbeiter des russischen Geheimdienstes hat mir bestätigt, dass meine fünf Kinder im Falle des Todes von Christin Epp auf jeden Fall bei anderen Familien in Obhut untergebracht werden und ich bei der Entscheidung über ihre Fürsorge in keinster Weise berücksichtigt werde.
 
 ## Jobcenter Bielefeld
 
