@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beschwerde - Deutsche Post AG</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm 2.5cm 2cm 2.5cm;
+        }
+
+        body {
+            font-family: 'Times New Roman', serif;
+            font-size: 12pt;
+            line-height: 1.4;
+            color: #000;
+            background-color: #fff;
+            margin: 0;
+            padding: 0;
+            min-height: 29.7cm;
+        }
+
+        .page-container {
+            width: 100%;
+            max-width: 21cm;
+            margin: 0 auto;
+            box-sizing: border-box;
+        }
+
+        /* Absenderzeile nach DIN 5008 */
+        .sender-line {
+            font-size: 8pt;
+            margin-top: 4.7cm;
+            margin-bottom: 0.3cm;
+            border-bottom: 0.5px solid #000;
+            padding-bottom: 2pt;
+            width: 8.5cm;
+        }
+
+        /* Empfängeradresse nach DIN 5008 */
+        .recipient-address {
+            margin-top: 0.3cm;
+            width: 8.5cm;
+            min-height: 4cm;
+            font-size: 12pt;
+            line-height: 1.2;
+        }
+
+        /* Absenderadresse rechts */
+        .sender-address {
+            position: absolute;
+            top: 2.7cm;
+            right: 2.5cm;
+            width: 7cm;
+            font-size: 10pt;
+            line-height: 1.3;
+            text-align: left;
+        }
+
+        /* Betreffzeile */
+        .subject {
+            font-weight: bold;
+            font-size: 12pt;
+            margin: 1.5cm 0 1cm 0;
+            text-decoration: underline;
+        }
+
+        /* Datum */
+        .date {
+            text-align: right;
+            margin-bottom: 1cm;
+            font-size: 12pt;
+        }
+
+        /* Anrede */
+        .salutation {
+            margin-bottom: 0.5cm;
+            font-size: 12pt;
+        }
+
+        /* Absätze */
+        p {
+            margin-bottom: 0.5cm;
+            text-align: justify;
+            font-size: 12pt;
+        }
+
+        /* Überschriften */
+        .section-title {
+            font-weight: bold;
+            margin-top: 1cm;
+            margin-bottom: 0.3cm;
+            text-decoration: underline;
+        }
+
+        /* Listen */
+        ul {
+            margin-left: 1cm;
+            margin-bottom: 0.5cm;
+        }
+
+        li {
+            margin-bottom: 0.2cm;
+            font-size: 12pt;
+        }
+
+        /* Hervorhebungen */
+        .highlight {
+            margin: 0.5cm 0;
+            padding: 0.3cm;
+            border: 1pt solid #000;
+            background-color: #f9f9f9;
+        }
+
+        /* Grußformel */
+        .closing {
+            margin-top: 1.5cm;
+        }
+
+        /* Unterschriftslinie */
+        .signature-line {
+            border-bottom: 1pt solid #000;
+            width: 5cm;
+            margin-top: 2.0cm;
+        }
+
+        /* Anlagen */
+        .attachments {
+            margin-top: 1.5cm;
+            padding-top: 0.5cm;
+        }
+
+        /* Platzhalter-Stil */
+        .placeholder {
+            background-color: #ffeb3b;
+            font-weight: bold;
+            padding: 0 2pt;
+        }
+
+        /* Notiz für Benutzer */
+        .user-note {
+            background-color: #e3f2fd;
+            border: 1pt solid #2196f3;
+            padding: 0.5cm;
+            margin-bottom: 1cm;
+            font-size: 10pt;
+            page-break-inside: avoid;
+        }
+
+        @media print {
+            .user-note {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page-container">
+
+        <!-- Absenderzeile nach DIN 5008 -->
+        <div class="sender-line">
+            Stephan Epp - Viktoriastraße 10 - 33602 Bielefeld
+        </div>
+
+        <!-- Empfängeradresse nach DIN 5008 -->
+        <div class="recipient-address">
+            <b>Bundesnetzagentur</b><br>
+            53105 Bonn
+        </div>
+
+        <!-- Datum -->
+        <div class="date">
+            Bielefeld, den 04. September 2025
+        </div>
+
+        <!-- Betreff -->
+        <div class="subject">
+            Betreff: Beschwerde gegen die Deutsche Post AG wegen Verletzung der Beförderungspflicht
+        </div>
+
+        <!-- Anrede -->
+        <div class="salutation">
+            Sehr geehrte Damen und Herren,
+        </div>
+
+        <!-- Haupttext -->
+        <p>
+            hiermit erhebe ich gegen die Deutsche Post AG förmlich Beschwerde wegen Verletzung ihrer gesetzlichen
+            Beförderungspflicht gemäß § 11 PostG und bitte um entsprechende aufsichtsrechtliche Prüfung und Maßnahmen.
+        </p>
+
+        <div class="section-title">Sachverhalt</div>
+
+        <p>
+            Am 26.08.2025 wurde durch die moBiel GmbH in Bielefeld ein Deutschlandticket sozial für mich produziert und
+            ordnungsgemäß frankiert sowie korrekt adressiert zur Postbeförderung aufgegeben. Die Sendung war bestimmt
+            für:
+        </p>
+
+        <div class="highlight">
+            <strong>Empfänger:</strong> Stephan Epp<br>
+            <strong>Adresse:</strong> Otto-Brenner Straße 77, 33607 Bielefeld<br>
+            <strong>Absender:</strong> moBiel GmbH, Bielefeld<br>
+            <strong>Inhalt:</strong> Deutschlandticket sozial
+        </div>
+
+        <p>
+            Trotz ordnungsgemäßer Frankierung und korrekter Adressierung wurde diese Briefsendung von der Deutschen Post
+            AG als „unzustellbar" an den Absender zurückgesandt. Dies erfolgte, obwohl:
+        </p>
+
+        <ul>
+            <li>die Empfängeradresse vollständig korrekt und eindeutig lesbar war,</li>
+            <li>mein Briefkasten täglich kontrolliert wurde,</li>
+            <li>keinerlei Zustellversuche unternommen wurden,</li>
+            <li>keine Benachrichtigungskarte hinterlassen wurde,</li>
+            <li>die Hausanschrift eindeutig erkennbar und zugänglich ist.</li>
+        </ul>
+
+        <div class="section-title">Rechtliche Bewertung</div>
+
+        <p>
+            Die Deutsche Post AG hat durch die unterlassene Zustellung gegen ihre gesetzliche Beförderungspflicht nach §
+            11 PostG verstoßen. Als Anbieterin des Universaldienstes ist sie verpflichtet, ordnungsgemäß frankierte und
+            adressierte Briefsendungen an den bezeichneten Empfänger zu befördern und zuzustellen.
+        </p>
+
+        <p>
+            Die ungerechtfertigte Rücksendung als „unzustellbar" stellt eine Pflichtverletzung dar, die einer
+            aufsichtsrechtlichen Prüfung bedarf.
+        </p>
+
+        <div class="section-title">Beweismittel</div>
+
+        <p>
+            Zur Substantiierung meiner Beschwerde kann ich folgende Beweismittel beibringen:
+        </p>
+
+        <ul>
+            <li>Bestätigung der moBiel GmbH über ordnungsgemäße Frankierung und korrekte Adressierung</li>
+            <li>Der von der Deutschen Post zurückgesandte Originalbrief</li>
+        </ul>
+
+        <div class="section-title">Antrag</div>
+
+        <p>
+            Ich beantrage, dass die Bundesnetzagentur:
+        </p>
+
+        <ul>
+            <li>den geschilderten Verstoß gegen die Beförderungspflicht prüft,</li>
+            <li>entsprechende Aufsichtsmaßnahmen gegen die Deutsche Post AG einleitet,</li>
+            <li>Maßnahmen zur Verbesserung der Zustellqualität veranlasst,</li>
+            <li>mich über das Prüfungsergebnis und ergriffene Maßnahmen informiert.</li>
+        </ul>
+
+        <p>
+            Für Rückfragen stehe ich Ihnen gerne zur Verfügung. Ich bitte um Eingangsbestätigung und um Mitteilung des
+            weiteren Verfahrensablaufs.
+        </p>
+
+        <!-- Grußformel -->
+        <div class="closing">
+            Mit freundlichen Grüßen
+
+            <div class="signature-line"></div>
+            STEPHAN EPP
+        </div>
+
+        <!-- Anlagen -->
+        <div class="attachments">
+            <strong>Anlagen:</strong>
+            <ol>
+                <li>Bestätigung der moBiel GmbH über ordnungsgemäße Frankierung und korrekte Adressierung vom 26.08.2025
+                </li>
+                <li>Der von der Deutschen Post zurückgesandte Originalbrief vom 02.09.2025</li>
+                <li>Kopie vom Personalausweis</li>
+            </ol>
+        </div>
+
+    </div>
+</body>
+
+</html>

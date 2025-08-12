@@ -4,21 +4,23 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 
 ## Inhaltsverzeichnis
 
-* [Christliche Gemeinde Sennestadt](#Christliche-Gemeinde-Sennestadt)
-   * [Polizei](#polizei)
-   * [Jugendamt](#jugendamt)
+* [Christliche Gemeinde Sennestadt](#christliche-gemeinde-sennestadt)
 * [Jugendamt Bielefeld](#jugendamt-bielefeld)
 * [Jobcenter Bielefeld](#jobcenter-bielefeld)
+* [moBiel GmbH](#mobiel-gmbh)
+* [Creditreform Bielefeld Riegel & Unger KG](#creditreform-bielefeld-riegel--unger-kg)
 * [WDR](#wdr)
-* [Johanniter](#Johanniter)
-* [Polizei in Bielefeld](#Polizei-in-Bielefeld)
-   * [Staatsanwaltschaft Bochum](#staatsanwaltschaft-bochum)
+* [Johanniter](#johanniter)
+* [Polizei in Bielefeld](#polizei-in-bielefeld)
 * [Bielefelder Amt für soziale Leistungen](#bielefelder-amt-für-soziale-leistungen)
 * [Bielefelder Amtsgericht](#bielefelder-amtsgericht)
-* [Bundesnachrichtendienst](#Bundesnachrichtendienst)
-* [Heroku](#Heroku)
-* [Bahnhofsmission](#Bahnhofsmission)
-* [Begegnungen in Bielefeld](#begegnungen-in-bielegeld)
+* [Bundesnachrichtendienst](#bundesnachrichtendienst)
+* [Heroku](#heroku)
+* [Google](#google)
+* [CIA](#cia)
+* [Bahnhofsmission Bielefeld](#bahnhofsmission-bielefeld)
+* [Begegnungen in Bielefeld](#begegnungen-in-bielefeld)
+* [Zusammenfassung: Rechtliche Verfahren](#zusammenfassung-rechtliche-verfahren)
 
 ## Christliche Gemeinde Sennestadt
 
@@ -43,7 +45,7 @@ Da der Geschädigte als gleichberechtigter Mieter der Wohnung gemäß des Mietve
 
 Das eigenmächtige Wegnehmen des Wohnungsschlüssels und der Ausschluss aus der Wohnung stellt eine verbotene Eigenmacht (§ 858 BGB) dar. Ohne eine gerichtliche Entscheidung ist es nicht zulässig, dem Geschädigten den Zugang zur gemeinsam gemieteten Wohnung zu verweigern.
 
-Der Geschädigte forderte die Beschuldigte Christin Epp auf, ihm unverzüglich den Wohnungsschlüssel zurückzugeben und den freien Zutritt zur Wohnung wieder zu ermöglichen. Da Christin Epp auf diese Forderung nicht reagiert hat, wurden rechtliche Schritte eingeleitet, um das Wohnrecht des Geschädigte durchzusetzen.
+Der Geschädigte forderte die Beschuldigte Christin Epp auf, ihm unverzüglich den Wohnungsschlüssel zurückzugeben und den freien Zutritt zur Wohnung wieder zu ermöglichen. Da Christin Epp auf diese Forderung nicht reagiert hat, wurden rechtliche Schritte eingeleitet, um das Wohnrecht des Geschädigten durchzusetzen.
 
 #### Unrechtmäßige Vermögensverlagerung
 
@@ -81,11 +83,15 @@ Im Rahmen eines abschließenden Gesprächs zwischen Frau Christin Epp und dem Ge
 
 2. Frau Christin Epp erstellt eine Aufstellung des Eigentums des Geschädigten, welches sich in der Wohnung am Hagebuttenweg 22 in 33689 Bielefeld-Sennestadt befindet, und übermittelt diese dem Geschädigten.
 
-Am 24.07.2025 wurde Frau Meier schriftlich über die Nichteinhaltung der Vereinbarung seitens Frau Epp informiert, da **die vereinbarte Eigentumsaufstellung bis zu diesem Zeitpunkt nicht übermittelt wurde**. Eine Aufstellung des Eigentums des Geschädigten wurde dem Geschädigten bis heute nicht zugestellt. Diese Auftstellung würde zum Beispiel die Werkzeuge aus der Garage am Hagebuttenweg 22 beinhalten.
+Am 24.07.2025 wurde Frau Meier schriftlich über die Nichteinhaltung der Vereinbarung seitens Frau Epp informiert, da **die vereinbarte Eigentumsaufstellung bis zu diesem Zeitpunkt nicht übermittelt wurde**. Eine Aufstellung des Eigentums des Geschädigten wurde dem Geschädigten bis heute nicht zugestellt. Diese Aufstellung würde zum Beispiel die Werkzeuge aus der Garage am Hagebuttenweg 22 beinhalten.
 
 ## Jugendamt Bielefeld
 
 Ein Mitarbeiter des russischen Geheimdienstes hat mir bestätigt, dass meine fünf Kinder im Falle des Todes von Christin Epp auf jeden Fall bei anderen Familien in Obhut untergebracht werden und ich bei der Entscheidung über ihre Fürsorge in keinster Weise berücksichtigt werde.
+
+In dem Schreiben vom 04.08.2025 zu 510.24-E 0882-6UHV fordert das Jugendamt Bielefeld mich dazu auf, für Leistungen nach dem Unterhaltsvorschussgesetz an meine Kinder Damaris Epp, Naemi Epp, Tabita Epp, Tirza Epp und Nathanael Epp aufzukommen im Rahmen einer Zahlungsaufforderung, Mahnung und Inverzugsetzung. Daher habe ich bei der Stadt Bielefeld Dienstaufsichtsbeschwerde gegen Mitarbeiter des Jugendamtes wegen Verletzung des Gleichbehandlungsgebots (Art. 3 Abs. 1 GG) und Klage wegen Amtshaftung gemäß § 839 BGB i.V.m. Art. 34 GG gegen die Stadt Bielefeld beim Landgericht Bielefeld eingereicht. Dazu liegen die Schriften und Dokumente als Nachweise unter doc/CIA/Bielefeld/Jugendamt/. Das Einwerfen der Schriften bei der Stadt Bielefeld und dem Landgericht Bielefeld habe ich dokumentiert: https://photos.app.goo.gl/egYWz5WvupFCFgV16.
+
+Beim Drucken der Dienstaufsichtsbeschwerde gegen Mitarbeiter des Jugendamtes wegen Verletzung des Gleichbehandlungsgebots (Art. 3 Abs. 1 GG) und der Klage wegen Amtshaftung gemäß § 839 BGB i.V.m. Art. 34 GG gegen die Stadt Bielefeld in der Stadtbibliothek Bielefeld, Neumarkt 1, 33602 Bielefeld, wurde ich während meines Aufenthaltes von einem anderen Bibliotheksbesucher beleidigt und unter Druck gesetzt. Ich wandte mich unverzüglich an eine diensthabende Bibliotheksmitarbeiterin und schilderte ihr kurz den Vorfall, ohne dabei den Drucker zu verlassen. Anstatt ihrer Aufsichtspflicht nachzukommen, verweigerte die Mitarbeiterin jede Hilfe mit den Worten: "Das müssen Sie unter sich ausmachen". Daher habe ich bei der Bezirksregierung in Detmold Dienstaufsichtsbeschwerde gegen die Stadt Bielefeld wegen Verletzung der Aufsichtspflicht in der Stadtbibliothek eingereicht. Den Einwurf in den Briefkasten habe ich dokumentiert: https://photos.app.goo.gl/vnBGboZaqmMDihKu6. Die unterzeichnete Dienstaufsichtsbeschwerde mit Nachweisen befindet sich unter doc/CIA/Bielefeld/Stadtbibliothek/Beschwerde/.
 
 ## Jobcenter Bielefeld
 
@@ -114,8 +120,41 @@ Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Jobcenter/ abgeleg
 
 Da die Bearbeitung des Gesundheitsfragebogens im Jobcenter Bielefeld noch andauert, habe ich für meine persönliche Fortbildung bei der Stadtbibliothek in Bielefeld Bücher aus dem Bereich der Informatik ausgeliehen. Eins von den Büchern wurde verfasst von Michael Kofler mit dem Titel: Python - Der Grundkurs, siehe dazu den Beleg unter doc/CIA/Bielefeld/Stadtbibliothek/Beleg-Python.pdf.
 
+Das Jobcenter in Bielefeld verzögert die Aufnahme einer Anstellung auf dem Arbeitsmarkt und die Weiterbildung zur Qualifikation für den Arbeitsmarkt. Daher habe ich Klage eingereicht beim Sozialgericht in Detmold. Den Einwurf in den Briefkasten beim Sozialgericht in Detmold habe ich dokumentiert: https://photos.app.goo.gl/DPQQGYVrQY8BsGNH6. Als Nachweis dazu liegen die unterzeichnete Klageschrift mit Nachweisen unter doc/CIA/Bielefeld/Jobcenter/.
+
+### Darlehensantrag
+
+Da ich vom Jobcenter Bielefeld am 16.06.2025 eine Ablehnung zu einem möglichen finanziellen Vorschuss erhalten habe, habe ich am 25.08.2025 beim Jobcenter Bielefeld einen Antrag auf Darlehen gemäß § 24 SGB II - Akute Notlage aufgrund unterlassener Unterhaltszahlungen - gestellt. Dieser Antrag mit allen Nachweisen befindet sich unter doc/CIA/Bielefeld/Jobcenter/Unterhaltspflicht/.
+
+Mein Vater Peter Epp, wohnhaft Elpke 12, 33605 Bielefeld, verweigert hartnäckig seinen gesetzlichen Unterhalt gemäß § 1601 BGB, obwohl er über erhebliche finanzielle Mittel verfügt:
+- Ehemaliges Jahreseinkommen von über 100.000 Euro als Controller bei der Roland Transport KG (Dr. Oetker-Konzern) und entsprechend hohe Rentenzahlungen
+- Kürzlich erfolgte Hausschenkung an meinen leiblichen Bruder Lukas Epp (Rechtsanwalt bei der Anwaltskanzlei DTE), was die Vermögenslage von Peter Epp belegt
+- Bewusste Verweigerung trotz schriftlicher Geltendmachung am 24.08.2025
+
+Lukas Epp ist als Rechtsanwalt bei der **Anwaltskanzlei DTE** tätig, welche ihren Sitz in 32756 Detmold, Heidenoldendorfer Straße 134, hat (Internetauftritt: https://kanzlei-dte.de). Im Rahmen des familiengerichtlichen Verfahrens 2021, in welchem meine Ehefrau Christin Epp und ich als gegnerische Parteien aufgetreten sind, hat Herr Peter Dück, ebenfalls als Rechtsanwalt tätig bei der Anwaltskanzlei DTE, sowohl meine Ehefrau als auch mich rechtsberatend betreut. Dabei war folgende Informationslage gegeben:
+
+- Meine Ehefrau Christin Epp war darüber informiert, dass ich von Herrn Rechtsanwalt Dück beraten werde
+- Mir war hingegen nicht bekannt, dass meine Ehefrau ebenfalls von Herrn Rechtsanwalt Dück beraten wird
+- Herr Rechtsanwalt Dück war über diese asymmetrische Informationslage vollumfänglich informiert
+
+Diese Konstellation begründet den Verdacht eines schwerwiegenden anwaltlichen Interessenkonflikts sowie einer möglichen Verletzung der Verschwiegenheitspflicht und anderer berufsrechtlicher Pflichten.
+
+Beim Amtsgericht Bielefeld habe ich am 31.08.2025 den Antrag auf Bewilligung von Beratungshilfe eingereicht. Der unterzeichnete Antrag auf Bewilligung von Beratungshilfe mit Nachweisen befindet sich unter doc/CIA/Bielefeld/Jobcenter/Unterhaltspflicht/Beratungshilfe/.
+
+## moBiel GmbH
+
+Am 04.06.2025 wurde bei einer Fahrkartenkontrolle in einem moBiel-Verkehrsmittel ein erhöhtes Beförderungsentgelt verhängt, da ich als Fahrgast kein Fahrradticket vorzeigen konnte. Tatsächlich besaß ich jedoch ein gültiges 4er-Ticket für Fahrradmitnahme vom 21.12.2023, konnte dieses aber aufgrund des Diebstahls meines Smartphones am 16.05.2025 nicht digital vorweisen. Als Bürgergeld-Empfänger konnte ich erst Anfang Juni ein Ersatzgerät beschaffen und die Einrichtung des Smartphones war zum Zeitpunkt der Kontrolle noch nicht abgeschlossen. 
+
+Am 29.07.2025 legte ich fristgerecht schriftlichen Einspruch mit umfangreichen Belegen ein (Kaufhistorie, Polizeianzeige, Screenshots). Am 30.07.2025 bestätigten moBiel-Mitarbeiter im Service Center, dass die Verwaltungsantwort abgewartet werden müsse. Ohne Stellungnahme beauftragte moBiel die Creditreform mit dem Inkasso. Ich widersprach am 22.08.2025 ausdrücklich der Zahlungsaufforderung und kündigte rechtliche Schritte gegen das pflichtwidrige Vorgehen an. Beim Amtsgericht Bielefeld reichte ich Klage ein wegen Schadenersatz und Feststellung gegen die moBiel GmbH.
+
+Als Nachweis dazu befinden sich die unterzeichnete Klageschrift und andere Nachweise unter doc/CIA/Bielefeld/moBiel/.
+
+## Creditreform Bielefeld Riegel & Unger KG
+
+Ich bin am 23.07.2025 von Hagebuttenweg 22 nach Otto-Brenner-Straße 77 in Bielefeld umgezogen, was durch eine Meldebestätigung belegt ist. Am 11.08.2025 erhielt ich eine Zahlungsaufforderung von der Creditreform Bielefeld Riegel & Unger KG, die bewusst an meine alte, nicht mehr aktuelle Adresse gesendet wurde. Obwohl Inkassounternehmen Zugang zu professionellen Adressrecherche-Dienstleistern wie der Deutschen Post Adress GmbH aus Gütersloh haben und somit meine neue Adresse hätten ermitteln können, wurde die veraltete Adresse verwendet. Da mir bei Nichtbeachtung der Zahlungsaufforderung schwerwiegende Konsequenzen drohen, vermute ich, dass durch die bewusste Verwendung der falschen Adresse meine Verteidigungsrechte untergraben werden sollen, weshalb ich Strafanzeige wegen möglichen Betrugs und Nötigung erstattet habe. Als Nachweis dazu befinden sich die unterzeichnete Strafanzeige und andere Nachweise unter doc/CIA/Bielefeld/Creditreform/.
+
 ## WDR
-Am 11.08.2025 um ca. 14:20 Uhr wurde ich von Christian Michel, Mitarbeiter des **WDR**, am  Trinkwasserbrunnen auf dem Martin-Luther-Platz unmittelbar vor einem klärenden Gespräch mit den Johannitern, die sich für ein Gespräch vor der Haustür am Kammermühlenweg 2 aufgehalten hatten, provoziert. Christian Michel bat mich bei 27°C in der Mittagshitze der Sonne das Auffüllen meiner Wasserflasche zu unterbrechen, obwohl ich sehr durstig war. Wie durstig ich war, wusste er nicht und bat mich stattdessen, an einer Filmszene als Akteur teilzunehmen. Bei dieser Filmszene war allerdings vorher schon klar, wer diese als Akteur in Szene setzen soll. Denn die anderen Akteure des WDR hielten sich zu der Zeit schon beim Trinkwasserbrunnen auf dem Martin-Luther-Platz auf. Nachdem ich meinen Durst gestillt hatte und der Aufforderung von Christian Michel nicht nachgekommen bin, habe ich das Gespräch mit den Mitarbeitern der Johanniter vor der Haustür am Kammermühlenweg 2 aufgesucht. Gökhan, ein Mitarbeiter der Johanniter, hat sich dafür ausgesprochen, ein gemeinsames Gespräch mit allen Bewohnern für das Einhalten der hygienischen Regeln in der Unterkunft an der Otto-Brenner-Straße 77 zu führen. Gökhan bestätigte, zweimal die Woche gibt es für die Bewohner der Otto-Brenner-Straße 77 die Möglichkeit, den Fußoden im eigenen Zimmer zu reinigen. Als ich am Abend desselben Tages nochmal den Trinkwasserbrunnen auf dem Martin-Luther-Platz aufsuchte, gab dieser kein Wasser mehr. Am nächsten Tag, den 12.08.2025, habe ich zwei Videos gemacht von dem Trinkwasserbrunnen auf dem Martin-Luther-Platz und von dem Trinkwasserbrunnen am Kesselbrink. Das erste Video von dem Trinkwasserbrunnen auf dem Martin-Luther-Platz zeigt, dass der Trinkwasserbrunnen abgeschaltet worden sein muss. Das zweite Video zeigt, dass der Trinkwasserbrunnen am Kesselbrink Wasser gibt.
+Am 11.08.2025 um ca. 14:20 Uhr wurde ich von Christian Michel, Mitarbeiter des **WDR**, am  Trinkwasserbrunnen auf dem Martin-Luther-Platz unmittelbar vor einem klärenden Gespräch mit den Johannitern, die sich für ein Gespräch vor der Haustür am Kammermühlenweg 2 aufgehalten hatten, provoziert. Christian Michel bat mich bei 27°C in der Mittagshitze der Sonne das Auffüllen meiner Wasserflasche zu unterbrechen, obwohl ich sehr durstig war. Wie durstig ich war, wusste er nicht und bat mich stattdessen, an einer Filmszene als Akteur teilzunehmen. Bei dieser Filmszene war allerdings vorher schon klar, wer diese als Akteur in Szene setzen soll. Denn die anderen Akteure des WDR hielten sich zu der Zeit schon beim Trinkwasserbrunnen auf dem Martin-Luther-Platz auf. Nachdem ich meinen Durst gestillt hatte und der Aufforderung von Christian Michel nicht nachgekommen bin, habe ich das Gespräch mit den Mitarbeitern der Johanniter vor der Haustür am Kammermühlenweg 2 aufgesucht. Gökhan, ein Mitarbeiter der Johanniter, hat sich dafür ausgesprochen, ein gemeinsames Gespräch mit allen Bewohnern für das Einhalten der hygienischen Regeln in der Unterkunft an der Otto-Brenner-Straße 77 zu führen. Gökhan bestätigte, zweimal die Woche gibt es für die Bewohner der Otto-Brenner-Straße 77 die Möglichkeit, den Fußboden im eigenen Zimmer zu reinigen. Als ich am Abend desselben Tages nochmal den Trinkwasserbrunnen auf dem Martin-Luther-Platz aufsuchte, gab dieser kein Wasser mehr. Am nächsten Tag, den 12.08.2025, habe ich zwei Videos gemacht von dem Trinkwasserbrunnen auf dem Martin-Luther-Platz und von dem Trinkwasserbrunnen am Kesselbrink. Das erste Video von dem Trinkwasserbrunnen auf dem Martin-Luther-Platz zeigt, dass der Trinkwasserbrunnen abgeschaltet worden sein muss. Das zweite Video zeigt, dass der Trinkwasserbrunnen am Kesselbrink Wasser gibt.
 
 ### Nachweise
 Als Nachweise habe ich zwei Hyperlinks zu den beiden Videos erstellt:
@@ -131,7 +170,7 @@ Am 01. August wurde um etwa 19:20 Uhr ein Gespräch im Kammermühlenweg 2 durchg
 
 ### Hygienische Bedingungen in der Küche
 
-Die hygienischen Bedingungen in der Küche sind weiterhin unzureichend. Nach der Reinigung am [Datum] wurden Fotos der Küche erstellt, die die mangelhaften Zustände dokumentieren: https://photos.app.goo.gl/cgqi1MNdwKNfjKWp7.
+Die hygienischen Bedingungen in der Küche sind weiterhin unzureichend. Nach der Reinigung am 01.08.2025 wurden Fotos der Küche erstellt, die die mangelhaften Zustände dokumentieren: https://photos.app.goo.gl/cgqi1MNdwKNfjKWp7.
 
 ### Briefkasten Otto-Brenner-Straße 77
 
@@ -232,7 +271,7 @@ In den Gesprächsnotizen vom 5. August 2025 mit Frau Baader, Sozialmitarbeiterin
 ### Notizen des Gesprächs
 Frau Schalles sagte mir, ich hätte verweigert, den Einweisungsbescheid vom 16.07.2025 zu unterschreiben. Ein anderer Mitarbeiter, der mir diesen Bescheid zugestellt hat, hätte dies bestätigt. Das kann ich nicht bestätigen. Den Einweisungsbescheid hat mir Roman Rogalski, Mitarbeiter der Johanniter, gegeben. Ich habe Roman Rogalski bei Empfang des Einweisungsbescheides mitgeteilt, dass ich mir diesen erst gründlich durchlesen möchte, bevor ich diesen unterschreibe. Dass ich diesen nicht unterschreiben wollte, ist eine falsche Behauptung.
  
-Frau Schalles sagte mir, der Einweisungsbescheid vom 16.07.2025 muss nicht unterschrieben werden, bevor der Gebührenbescheid ausgestellt wird. Hintergrund: Der Gebührenbescheid wurde bereits am 24.07.2025 ausgestellt,  b e v o r  der Einweisungsbescheid von mir am 29.07.2025 unterschrieben wurde. @Nina Schalles: Wieso wurde der Gebührenbescheid am 24.07.2025 ausgestellt bevor ich den Einweisungsbescheid am 29.07.2025 unterschrieben habe?
+Frau Schalles sagte mir, der Einweisungsbescheid vom 16.07.2025 muss nicht unterschrieben werden, bevor der Gebührenbescheid ausgestellt wird. Hintergrund: Der Gebührenbescheid wurde bereits am 24.07.2025 ausgestellt,  b e v o r  der Einweisungsbescheid von mir am 29.07.2025 unterschrieben wurde. @Nina Schalles: Wieso wurde der Gebührenbescheid am 24.07.2025 ausgestellt, bevor ich den Einweisungsbescheid am 29.07.2025 unterschrieben habe?
 
 Frau Schalles sagte mir, dass im Kammermühlenweg 2 keine freien Wohnungen mehr sind. Die Mitarbeiter der Johanniter am Kammermühlenweg 2 haben mir aber vor einigen Tagen bestätigt, dass am Kammermühlenweg 2 einige Wohnungen noch frei sind.
 
@@ -288,7 +327,24 @@ Frage an Frau Westermann: Wie heißt der Richter, der in diesem Verfahren gerich
 Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht/ abgelegt:
 - 2 XIV (L) 42/24 Verfahrenspflege vom 21.05.2025
 - 2 XVII 971/24 Sozialbericht vom 10.09.2024
+- 2 XVII 971/24 Sozialbericht vom 10.09.2024 mit Vermerk
 - 2 XVII 991/25 Aufforderung zur Mitwirkung vom 15.07.2025
+
+### Landgericht
+
+Das Amtsgericht Bielefeld hat mir auf meine Nachfrage den Sozialbericht vom 10. September 2024 zum Verfahren 2 XVII 971/24 übermittelt. In diesem Bericht wird auf Seite 3 abschließend sinngemäß ausgeführt:
+
+*Sollte sich die Situation von Herrn Epp in diesem Zeitraum stabilisieren und keine neuerlichen Gewaltexzesse bekannt werden, könnte das Verfahren mangels betreuungsrechtlichen Handlungsbedarfs eingestellt werden.*
+
+Zur weiteren Sachverhaltsaufklärung habe ich beim Amtsgericht Bielefeld eine vollständige Abschrift des Verfahrens 2 XVII 971/24 samt den verfügten Vermerken angefordert und erhalten.
+
+Da das Verfahren nach einem Zeitraum von sechs Monaten mit dem Vermerk "weglegen" abgelegt wurde, habe ich beim **Landgericht Bielefeld eine Amtshaftungsklage gemäß § 839 BGB i.V.m. Art. 34 GG eingereicht**.
+
+Die Klage habe ich in den Nachtbriefkasten am Niederwall 71 beim Landgericht Bielefeld eingeworfen.
+
+Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Landgericht/ abgelegt:
+- Unterschriebene Amtshaftungsklage gemäß § 839 BGB i.V.m. Art. 34 GG
+- Fotos als Nachweis für den Einwurf in den Nachtbriefkasten beim Landgericht Bielefeld am Niederwall 71 
 
 ## Bundesnachrichtendienst
 
@@ -327,7 +383,16 @@ Für den auffällig hohen Speicherverbrauch der Applikation habe ich Kontakt auf
 
 Die **USA** ist nicht bereit, sich zu demütigen, obwohl der russische Geheimdienst schwere wirtschaftliche Manipulationen nachgewiesen hat. **Die USA wird mit einer Atombombe vernichtet**.
 
-## Bahnhofsmission
+## Google
+
+Am 23.08.2025 bin ich mit dem Fahrrad von der Otto-Brenner-Straße 77 in 33607 Bielefeld zum Lidl-Markt in der Heeper Straße 113, 33607 Bielefeld, gefahren. Diese Strecke bin ich mit dem Fahrrad sehr schnell gefahren. Später ist in der Google Timeline aufgefallen, dass diese Fahrt mit dem Fahrrard nicht erfasst wurde. Stattdessen zeigt die Google Timeline die beiden Aufenthaltsorte als zeitlich nahtlos miteinander verbunden an, ohne die dazwischenliegende Fahrt zu dokumentieren. Aufgrund dieser Auffälligkeit habe ich eine Support-Anfrage bei Google gestellt und einen Takeout der Timeline-Daten für den Zeitraum vom 16.08.2025 bis 23.08.2025 angefordert. Eine Antwort des Google-Supports habe ich bisher nicht erhalten. Meine Vermutung ist, dass die Google GPS-Lokalisierungsdaten, die auch in der Google Timeline angezeigt werden, auch für Google Fit verwendet werden. Ich nutze keinen separaten Fitness-Tracker. Diese Daten könnten im Rahmen von Bonusprogrammen der Techniker Krankenkasse zur finanziellen Vergütung herangezogen werden. Die entsprechende Support-Anfrage, Screenshots der Google Timeline vom 23.08.2025 sowie weitere Belege sind im Verzeichnis doc/CIA/Google/ abgelegt. In diesem Ordner liegt auch ein generiertes Python Skript zum Parsen und Auswerten des Google Takeouts im JSON Format, welches die Daten dann als .csv-Datei exportiert.
+
+## CIA
+
+Die CIA ist in dieser Zeit sehr aktiv im Fluchen und Verfolgen in allen möglichen Bereichen meines persönlichen Lebens. Sie bewegt die unsichtbaren Geister und die Menschen in meiner Umgebung für dieses Ziel: ich soll sterben. Als Vergeltung dafür brechen amerikanische Staatsbürger am 08. September 2025 zum vierten Mal die Ehe.
+
+## Bahnhofsmission Bielefeld
+
 Zur Essensausgabe war ich gestern, den 06. August 2025, um etwa 16:20 Uhr bei der Bahnhofsmission in Bielefeld am Hauptbahnhof. Dort wurde mir von Herrn Zawieracz ein Hausverbot erteilt mit der Begründung, dass ich die Bahnhofsmission aufsuche, um die Mitarbeiter der Bahnhofsmission zu beleidigen. So hat es auch Herr Krahn am Vormittag desselben Tages bestätigt. Am Vormittag kam es zu einer Meinungsverschiedenheit zwischen Herrn Krahn und mir.
 
 ### Bericht über Vorkommnisse bei der Bahnhofsmission
@@ -367,3 +432,44 @@ Das erteilte Hausverbot führt dazu, dass die regelmäßige Nahrungsmittelversor
 ## Begegnungen in Bielefeld
 
 In diesen Tagen ereignen sich immer wieder eigenartige Begegnungen mit Bürgern in der Stadt Bielefeld. Heute, am 12.08.2025, ruhte ich mich um ca. 14:10 Uhr auf einer Parkbank auf dem Martin-Luther-Platz aus. Plötzlich wurde ich von einem lauten Klatschen geweckt und der Mann, der klatschte, begann mit mir zu reden und setzte sich auf die Parkbank neben mich. Weil er mich nicht in Ruhe lies und ich mich dadurch bedroht fühlte, habe ich von dieser Begegnung eine Videoaufzeichnung gemacht. Zu der Videoaufzeichnung habe ich einen Hyperlink erstellt: https://photos.app.goo.gl/8nE3Y9H54R1vFP3A7.
+
+Diese Begegnungen sind kein Einzelfall. Bewusst werde ich in den letzten Monaten immer häufiger provoziert, um in gewalttätige Auseinandersetzungen verwickelt zu werden. Sollte es wirklich zu einer gewalttätigen Auseinandersetzung kommen, würde dies dem Amtsgericht in Bielefeld gemeldet werden und die aktuell offene Frage der Betreuung maßgeblich beeinflussen. Dahinter steht eine systematische Provokation und die Entschlossenheit einer Organisation, mich zu verfolgen und mir maximal zu schaden. Die **CIA** nutzt schon seit Jahrzehnten durch Fluchen die Echtzeitkommunikation in Stimmen bzw. Gedanken. Seit einigen Monaten werden Bielefelder Bürger durch Fluchen dazu bewegt, sich mir gegenüber in meiner Nähe sehr provokativ und gemein zu verhalten.
+
+## Zusammenfassung: Rechtliche Verfahren
+
+Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institutionen, Unternehmen und Personen in Bielefeld und Umgebung zusammengefasst.
+
+### Strafanzeigen
+- **Frau Christin Epp** (Ehefrau): Diebstahl, Unterschlagung (Fahrzeugbrief, Kontoguthaben 57.826 EUR)
+- **Herr Elmar Scheid**: Unterstützung beim Diebstahl
+- **Creditreform Bielefeld Riegel & Unger KG**: Betrug, Nötigung (falsche Adressverwendung)
+- **1&1 Telecom GmbH**: Rechtswidrige Vertragssperrung
+- **Deutsche Telekom AG**: Betrug, Computerbetrug (unrechtmäßige Kontobelastungen bei Prepaid-Vertrag, Gesamtschaden 80,43 EUR)
+- **Frau Cien (Lidl-Filialleitung)**: Nötigung, Körperverletzung (gewaltsames Entreißen einer Wasserflasche, unverhältnismäßiges Hausverbot)
+- **Herr Kern (Mitarbeiter Jobcenter Arbeitplus Bielefeld)**: Strafanzeige wegen des Verdachts der Untreue gemäß § 266 StGB sowie der Körperverletzung durch Unterlassen gemäß § 223 i.V.m. § 13 StGB
+- **Johanniter-Regionalverband Ostwestfalen**: Strafanzeige gegen Mitarbeiter des Johanniter-Regionalverbandes Ostwestfalen
+- **Polizeibeamte Bielefeld**: Dienstaufsichtsbeschwerde und Strafanzeige
+- **Spieler, Vereinsfunktionäre, Schiedsrichter des DFB e.V.** (Bundeskriminalamt): Spielmanipulationen bei DFB-Pokalspielen
+- **Unbekannte Täter**: Verschiedene Diebstähle und Bedrohungen
+
+### Zivilklagen
+- **moBiel GmbH** (Amtsgericht): Schadenersatz wegen Beförderungsentgelt
+- **Stadt Bielefeld** (Landgericht): Amtshaftung wegen Jugendamt und Amtsgericht
+- **Jobcenter Bielefeld** (Sozialgericht): Verzögerung bei Weiterbildungsmaßnahmen
+
+### Beschwerden bei Aufsichtsbehörden
+- **Bundeskriminalamt** (Staatsanwaltschaft Bielefeld): Beschwerde wegen Nichtbearbeitung einer Strafanzeige durch das Bundeskriminalamt
+- **Jugendamt Bielefeld**: Gleichbehandlungsgebot verletzt, unterlassene Anhörung der Kinder
+- **Stadtbibliothek Bielefeld**: Aufsichtspflichtverletzung
+- **Consorsbank BNP Paribas S.A.**: Rechtswidrige Verzögerung der Kontogutschrift und unbefugte Kontensaldierung bei fehlendem Dispositionskredit
+- **Deutsche Post AG** (Bundesnetzagentur): Verletzung der Beförderungspflicht (ordnungsgemäß frankiertes Deutschlandticket als "unzustellbar" zurückgesandt)
+- **Deutsche Telekom AG** (Bundesnetzagentur): Unrechtmäßige automatische Kontobelastungen trotz Prepaid-Vertrag (80,43 EUR seit Dezember 2024)
+- **Techniker Krankenkasse** (Hamburgische Beauftragte für Datenschutz und Informationsfreiehit): Beschwerde nach Art. 77 DSGVO gegen die Techniker Krankenkasse wegen unrechtmäßiger Verarbeitung personenbezogener Daten
+- **Herrn Delioglu (Netto-Filialleitung)** (Ordnungsamt Bielefeld): Beschwerde wegen Verweigerung der Pfandannahme gemäß Verpackungsgesetz
+
+### Betreuungsverfahren
+- **Amtsgericht Bielefeld**: Mehrere Verfahren (2 XVII 971/24, 991/25)
+- Kritik an Verfahrensführung ohne ordnungsgemäße Benachrichtigung
+
+### Nachweise 
+Die Vorgänge sind umfangreich durch Protokolle und andere Belege wie Fotos und Videos dokumentiert. Nachweise befinden sich in diesem Repository unter doc/CIA/.
