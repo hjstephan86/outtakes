@@ -293,6 +293,8 @@ Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht/ abgel
 
 Der Bundesnachrichtendienst hat das Schreiben in das Repository auf [https://github.com/hjstephan86](https://github.com/hjstephan86) unterbrochen. Als Nachweis dazu liegt ein Screencast unter doc/CIA/BND/Screencast-20250803-072618.webm.
 
+**Verantwortliche der Bundesregierung haben China verflucht**, dass China mich töten soll. Sollte China das nicht tun, dann wird Russland auf China eine Atombombe werfen. Deutschland wird von China sehr heftig aufgerieben werden.
+
 ## Heroku
 
 Heroku verwehrt mir als zahlenden Kunden die Bereitstellung meiner Website https://www.123-bibel.de mit angemessenem Ressourcenverbrauch. Die Quelldateien der Applikation sind in dem Repository https://github.com/hjstephan86/pyble-app. Trotz bestehendem Vertragsverhältnis zwischen Heroku und mir und regelmäßiger monatlicher Beitragszahlungen meinerseits wird dieser Dienst nicht wie erwartet umgesetzt.
