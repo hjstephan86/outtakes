@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strafanzeige</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Times New Roman', serif;
+            font-size: 12pt;
+            margin: 0;
+            padding: 2.5cm 2cm 2cm 2.5cm;
+            /* DIN A4 Ränder */
+            background: white;
+        }
+
+        /* Absenderbereich - oben links */
+        .sender {
+            font-size: 8pt;
+            border-bottom: 1px solid #333;
+            margin-bottom: 2mm;
+            width: 8.0cm;
+            /* Abstand zur Empfängeradresse */
+        }
+
+        /* Empfängeradresse - DIN 5008 Position */
+        .recipient {
+            position: absolute;
+            left: 2.5cm;
+            width: 8.5cm;
+            font-size: 12pt;
+            line-height: 1.2;
+        }
+
+        /* Datum rechtsbündig */
+        .date {
+            text-align: right;
+            margin-top: 4cm;
+            margin-bottom: 2cm;
+            font-size: 12pt;
+        }
+
+        /* Betreff */
+        .subject {
+            font-weight: bold;
+            font-size: 14pt;
+            margin-bottom: 1.5cm;
+            text-align: center;
+        }
+
+        /* Anrede */
+        .salutation {
+            margin-bottom: 1cm;
+        }
+
+        /* Haupttext */
+        .content {
+            text-align: justify;
+            margin-bottom: 1cm;
+        }
+
+        .content h3 {
+            font-size: 12pt;
+            font-weight: bold;
+            margin-bottom: 0;
+            text-decoration: underline;
+        }
+
+        /* Grußformel */
+        .closing {
+            margin-top: 1.0cm;
+            margin-bottom: 2cm;
+        }
+
+        .signature-line {
+            border-bottom: 1px solid black;
+            width: 5.2cm;
+            margin-top: 2cm;
+            margin-bottom: 0.3cm;
+        }
+
+        /* Anlagen */
+        .attachments {
+            margin-top: 0;
+        }
+
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Absender -->
+    <div class="sender">
+        Stephan Epp - Viktoriastraße 10 - 33602 Bielefeld
+    </div>
+
+    <!-- Empfängeradresse -->
+    <div class="recipient">
+        <b>Polizeipräsidium Bielefeld</b><br>
+        - Polizeiwache Mitte -<br>
+        Kurt-Schumacher-Straße 46<br>
+        33615 Bielefeld
+    </div>
+
+    <!-- Datum -->
+    <div class="date">
+        Bielefeld, den 04. September 2025
+    </div>
+
+    <!-- Betreff -->
+    <div class="subject">
+        STRAFANZEIGE
+    </div>
+
+    <!-- Inhalt -->
+    <div class="salutation">
+        Sehr geehrte Damen und Herren,
+    </div>
+
+    <div class="content">
+        hiermit erstatte ich Strafanzeige gegen die nachfolgend genannte Person wegen Nötigung (§ 240 StGB) und
+        Körperverletzung (§ 223 StGB).
+
+        <h3>ANZEIGENERSTATTER:</h3>
+        Stephan Epp<br>
+        Viktoriastraße 10<br>
+        33602 Bielefeld<br>
+        Stephan_Epp@qweb.de
+
+        <h3>BESCHULDIGTE:</h3>
+        Fr. Cien (Vorname unbekannt)<br>
+        Leitung der Lidl-Filiale<br>
+        Heeper Straße 113<br>
+        33607 Bielefeld
+
+        <h3>SACHVERHALT:</h3>
+        Am 04. September 2025, gegen 08:45 Uhr, ereignete sich folgender Sachverhalt in der Lidl-Filiale an der Heeper
+        Straße 113, 33607 Bielefeld:
+        <br><br>
+        Nachdem ich beim Frühstücken am Fahrradparkplatz eine Papiertüte zu Boden fallen ließ, forderte mich Fr. Cien
+        auf, diese aufzuheben. Auf meine Antwort "das mache ich gleich" bestand sie auf sofortiger Ausführung und
+        erteilte mir ein Hausverbot.
+        <br><br>
+        Da ich Durst hatte, betrat ich das Geschäft, um eine Flasche Wasser zu kaufen. Fr. Cien kam auf mich zu und riss
+        mir die bereits in der Hand befindliche Flasche gewaltsam weg. Dies stellt einen körperlichen Eingriff und damit
+        eine Körperverletzung dar.
+        <br><br>
+        Anschließend nötigte sie mich durch Androhung weiterer Maßnahmen und unter Verweis auf das unverhältnismäßig
+        erteilte Hausverbot, das Geschäft zu verlassen, obwohl ich als Kunde dort rechtmäßig einkaufen wollte.
+
+        <h3>RECHTLICHE WÜRDIGUNG:</h3>
+        <strong>1. Körperverletzung (§ 223 StGB):</strong> Das gewaltsame Entreißen der Flasche stellt einen
+        rechtswidrigen körperlichen Eingriff in meine körperliche Unversehrtheit dar.
+        <br><br>
+        <strong>2. Nötigung (§ 240 StGB):</strong> Die Beschuldigte zwang mich durch Gewalt und Drohung zu einem
+        Verhalten (Verlassen des Geschäfts), das ich nicht wollte. Das angewandte Mittel war verwerflich, da das
+        Hausverbot unverhältnismäßig und rechtsmissbräuchlich erteilt wurde.
+        <br>
+        Ich bitte um Aufnahme der Ermittlungen und gegebenenfalls um Anklageerhebung.
+    </div>
+
+    <div class="closing">
+        Mit freundlichen Grüßen
+        <div class="signature-line"></div>
+        Stephan Epp
+    </div>
+
+    <div class="attachments">
+        <strong>Anlagen:</strong><br>
+        1. Vorfallsbericht vom 04.09.2025<br>
+        2. Foto zur Dokumentation vom Ort des Frühstückens vom 04.09.2025
+    </div>
+</body>
+
+</html>
