@@ -120,6 +120,7 @@ Am 11.08.2025 um ca. 14:20 Uhr wurde ich von Christian Michel, Mitarbeiter des *
 Als Nachweise habe ich zwei Hyperlinks zu den beiden Videos erstellt:
 - Erstes Video vom Trinkwasserbrunnen auf dem Martin-Luther-Platz: https://photos.app.goo.gl/iiiXm1PR7acAqHYK8
 - Zweites Video vom Trinkwasserbrunnen am Kesselbrink: https://photos.app.goo.gl/FT43aMEdL5m3R6LWA
+- Fotos vom WDR am Martin-Luther-Platz: https://photos.app.goo.gl/xygi87zVzSZdn2Ck8
 
 ## Johanniter
 
