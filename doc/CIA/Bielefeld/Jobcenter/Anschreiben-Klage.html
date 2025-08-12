@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anschreiben zur Klageschrift</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm 2.5cm 2cm 2cm;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 11pt;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+            color: #000;
+        }
+        
+        /* DIN-Briefnorm Adressfenster */
+        .absender-zeile {
+            position: absolute;
+            top: 4.5cm;
+            left: 0cm;
+            width: 8.5cm;
+            font-size: 8pt;
+            border-bottom: 1px solid #000;
+            padding-bottom: 2px;
+            margin-bottom: 3mm;
+        }
+        
+        .empfaenger-adresse {
+            position: absolute;
+            top: 5.1cm;
+            left: 0cm;
+            width: 8.5cm;
+            height: 4cm;
+            font-size: 11pt;
+            line-height: 1.3;
+        }
+        
+        .briefkopf {
+            position: absolute;
+            top: 2cm;
+            right: 0cm;
+            text-align: right;
+            font-size: 10pt;
+            line-height: 1.3;
+        }
+        
+        .haupttext {
+            margin-top: 10cm;
+            margin-left: 0cm;
+            margin-right: 0cm;
+        }
+        
+        .datum {
+            text-align: right;
+            margin-bottom: 2cm;
+        }
+        
+        .betreff {
+            font-weight: bold;
+            margin: 1.5cm 0 1cm 0;
+        }
+        
+        .unterschrift {
+            margin-top: 2.5cm;
+        }
+        
+        @media print {
+            body { -webkit-print-color-adjust: exact; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="briefkopf">
+        <strong>Stephan Epp</strong><br>
+        Viktoriastraße 10<br>
+        33602 Bielefeld<br>
+        Tel.: +49 163 8140605<br>
+        E-Mail: Stephan_Epp@web.de
+    </div>
+
+    <div class="absender-zeile">
+        Stephan Epp · Viktoriastraße 10 · 33602 Bielefeld
+    </div>
+
+    <div class="empfaenger-adresse">
+        <strong>Sozialgericht Detmold</strong><br>
+        Postfach 25 65<br>
+        32715 Detmold
+    </div>
+
+    <div class="haupttext">
+        <div class="datum">
+            Bielefeld, den 15. August 2025
+        </div>
+
+        <div class="betreff">
+            <strong>Betreff: Einreichung einer Klageschrift<br>
+            Hier: Stephan Epp ./. Jobcenter Arbeitplus Bielefeld</strong>
+        </div>
+
+        <p>Sehr geehrte Damen und Herren,</p>
+
+        <p>in der Anlage übersende ich Ihnen eine <strong>Klageschrift</strong> gegen das Jobcenter Arbeitplus Bielefeld gerichtlichen Bearbeitung.</p>
+
+        <p>Ich bitte um:</p>
+        <p>• Zuteilung eines Aktenzeichens<br>
+        • Terminierung einer mündlichen Verhandlung<br>
+        • Zustellung der Klageschrift an die Beklagte</p>
+
+        <p>Für Rückfragen stehe ich gerne zur Verfügung.</p>
+
+        <p>Mit freundlichen Grüßen</p>
+
+        <div class="unterschrift">
+            <p>_____________________________<br>
+            Stephan Epp</p>
+        </div>
+
+        <p><strong>Anlage:</strong><br>
+        Klageschrift nebst Beweismitteln</p>
+    </div>
+
+</body>
+</html>
