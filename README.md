@@ -18,6 +18,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [Bundesnachrichtendienst](#Bundesnachrichtendienst)
 * [Heroku](#Heroku)
 * [Bahnhofsmission](#Bahnhofsmission)
+* [Begegnungen in Bielefeld](#begegnungen-in-bielegeld)
 
 ## Christliche Gemeinde Sennestadt
 
@@ -362,3 +363,7 @@ Herr Zawieracz bestätigte, dass trotz Kenntnis der finanziellen Notlage das Hau
 Das erteilte Hausverbot führt dazu, dass die regelmäßige Nahrungsmittelversorgung der Bahnhofsmission morgens und abends für eine Woche nicht gegeben ist.
 
 **Nachweis**: Das schriftliche Hausverbot ist als Beleg unter CIA/Bielefeld/Bahnhofsmission/20250806-Hausverbot.pdf abgelegt.
+
+## Begegnungen in Bielefeld
+
+In diesen Tagen ereignen sich immer wieder eigenartige Begegnungen mit Bürgern in der Stadt Bielefeld. Heute, am 12.08.2025, ruhte ich mich um ca. 14:10 Uhr auf einer Parkbank auf dem Martin-Luther-Platz aus. Plötzlich wurde ich von einem lauten Klatschen geweckt und der Mann, der klatschte, begann mit mir zu reden und setzte sich auf die Parkbank neben mich. Weil er mich nicht in Ruhe lies und ich mich dadurch bedroht fühlte, habe ich von dieser Begegnung eine Videoaufzeichnung gemacht. Zu der Videoaufzeichnung habe ich einen Hyperlink erstellt: https://photos.app.goo.gl/8nE3Y9H54R1vFP3A7.
