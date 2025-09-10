@@ -450,6 +450,7 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **Johanniter-Regionalverband Ostwestfalen**: Strafanzeige gegen Mitarbeiter des Johanniter-Regionalverbandes Ostwestfalen
 - **Polizeibeamte Bielefeld**: Dienstaufsichtsbeschwerde und Strafanzeige
 - **Spieler, Vereinsfunktionäre, Schiedsrichter des DFB e.V.** (Bundeskriminalamt): Spielmanipulationen bei DFB-Pokalspielen
+- **Central Intelligence Agency (CIA)**: Strafanzeige gegen Central Intelligence Agency (CIA) wegen organisierten Mordes
 - **Unbekannte Täter**: Verschiedene Diebstähle und Bedrohungen
 
 ### Zivilklagen
@@ -465,6 +466,7 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **Deutsche Post AG** (Bundesnetzagentur): Verletzung der Beförderungspflicht (ordnungsgemäß frankiertes Deutschlandticket als "unzustellbar" zurückgesandt)
 - **Deutsche Telekom AG** (Bundesnetzagentur): Unrechtmäßige automatische Kontobelastungen trotz Prepaid-Vertrag (80,43 EUR seit Dezember 2024)
 - **Techniker Krankenkasse** (Hamburgische Beauftragte für Datenschutz und Informationsfreiehit): Beschwerde nach Art. 77 DSGVO gegen die Techniker Krankenkasse wegen unrechtmäßiger Verarbeitung personenbezogener Daten
+- **kleinanzeigen.de GmbH** (Bundesnetzagentur): Nutzen von Kleinanzeigen für die Wohnungssuche nicht möglich
 - **Herrn Delioglu (Netto-Filialleitung)** (Ordnungsamt Bielefeld): Beschwerde wegen Verweigerung der Pfandannahme gemäß Verpackungsgesetz
 
 ### Betreuungsverfahren
