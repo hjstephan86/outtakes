@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gesprächsprotokoll - Unterhaltsangelegenheit</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        .protocol {
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        .header {
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 30px;
+            text-decoration: underline;
+        }
+
+        .meta-info {
+            margin-bottom: 25px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-left: 4px solid #007bff;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-decoration: underline;
+        }
+
+        .dialogue {
+            margin-left: 20px;
+            margin-bottom: 10px;
+        }
+
+        .speaker {
+            font-weight: bold;
+        }
+
+        .important {
+            background-color: #fff3cd;
+            padding: 10px;
+            border-left: 4px solid #ffc107;
+            margin: 15px 0;
+        }
+
+        .legal-note {
+            background-color: #d1ecf1;
+            padding: 15px;
+            border-left: 4px solid #bee5eb;
+            margin: 20px 0;
+            font-style: italic;
+        }
+
+        .signature {
+            margin-top: 40px;
+            border-top: 1px solid #ccc;
+            padding-top: 20px;
+        }
+
+        .print-button {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .print-button:hover {
+            background-color: #0056b3;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                padding: 0;
+            }
+
+            .protocol {
+                box-shadow: none;
+                padding: 0;
+            }
+
+            .print-button {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <button class="print-button" onclick="window.print()">🖨️ Drucken</button>
+
+    <div class="protocol">
+        <div class="header">
+            GESPRÄCHSPROTOKOLL
+        </div>
+
+        <div class="meta-info">
+            <strong>Betreff:</strong> Unterhaltsangelegenheit gemäß § 1601 BGB<br>
+            <strong>Datum:</strong> 24. August 2025<br>
+            <strong>Protokollant:</strong> Stephan Epp, Otto-Brenner-Straße 77, 33607 Bielefeld<br>
+            <strong>Beteiligte Personen:</strong> Peter Epp (Vater), Vera (Lebensgefährtin von Peter Epp)<br>
+            <strong>Ort:</strong> Brenner Hotel Bielefeld, Otto-Brenner-Straße 135, 33607 Bielefeld<br>
+            <strong>Vorgeschichte:</strong> Telefonat zwischen Peter Epp und Stephan Epp am 24.08.2025
+        </div>
+
+        <div class="section">
+            <div class="section-title">NACHTRÄGLICHE ERGÄNZUNG</div>
+            <p><strong>Datum der Ergänzung:</strong> 5. September 2025</p>
+
+            <p><strong>Anlass:</strong> Bei der erneuten Durchsicht des Gesprächsverlaufs wurde eine weitere rechtlich
+                relevante Aussage von Peter Epp in Erinnerung gerufen, die im ursprünglichen Protokoll nicht erfasst
+                wurde.</p>
+
+            <div class="section-title">ZUSÄTZLICHE AUSSAGE - DROHUNG MIT ENTERBUNG</div>
+            <div class="dialogue">
+                <span class="speaker">Peter:</span> "Wenn du rechtliche Schritte einleitest, dann erhältst du von mir
+                kein Erbe."
+            </div>
+
+            <div class="important">
+                <strong>RECHTLICH RELEVANTE DROHUNG:</strong> Diese Aussage stellt einen Versuch dar, mich von der
+                Durchsetzung meiner gesetzlichen Unterhaltsansprüche abzuhalten. Die Drohung mit Enterbung zur
+                Beeinflussung rechtlicher Entscheidungen ist besonders dokumentationswürdig und belegt zusätzlich das
+                Vorhandensein von Vermögen.
+            </div>
+
+            <div class="legal-note">
+                <strong>Rechtliche Würdigung der Ergänzung:</strong> Die nachträglich in Erinnerung gerufene Drohung mit
+                Enterbung unterstreicht die bereits dokumentierte Verweigerungshaltung und bestätigt indirekt die
+                finanzielle Leistungsfähigkeit von Peter Epp.
+            </div>
+
+            <div class="signature">
+                <p>Diese Ergänzung erfolgt nach bestem Wissen und Gewissen zur Vervollständigung des
+                    Gesprächsprotokolls.</p>
+
+                <br><br>
+                <p>_________________________<br>
+                    Stephan Epp<br>
+                    5. September 2025</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
