@@ -73,7 +73,7 @@ Als Nachweise sind folgende Dokumente unter doc/Sennestadt/ abgelegt:
 
 ### Familie Schibli
 
-Die Familie von Mark Schibli aus Morsbach habe ich auf einer Familienfreizeit im christlichen Gästezentrum Rehe im Westerwald in den Sommerferien 1999 kennengelernt. Mark Schibli ist ein Informatiker der Videos mit pornografischem Inhalt konsumiert. Tabita Schibli, seine älteste Tochter, ist verheiratet und hat sieben Kinder. Tabita hat in den letzten Tagen den Wunsch geäußert, mit mir zu schlafen. Diesem Wunsch bin ich nicht nachgekommen.
+Die Familie von Mark Schibli aus Morsbach habe ich auf einer Familienfreizeit im christlichen Gästezentrum Rehe im Westerwald in den Sommerferien 1999 kennengelernt. Mark ist verheiratet mit Véronique, hat mit ihr fünf erwachsene Kinder und ist mitverantwortlich in der Leitung der Zentral-Afrika-Mission sowie seiner örtlichen Gemeinde. Mark konsumiert Videos mit pornografischem Inhalt. Tabita Schibli, seine älteste Tochter, ist verheiratet und hat sieben Kinder. Tabita hat in den letzten Tagen den Wunsch geäußert, mit mir zu schlafen. Diesem Wunsch bin ich nicht nachgekommen.
 
 ### Polizei
 
@@ -464,6 +464,7 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 
 ### Beschwerden bei Aufsichtsbehörden
 - **Bundeskriminalamt** (Staatsanwaltschaft Bielefeld): Beschwerde wegen Nichtbearbeitung einer Strafanzeige durch das Bundeskriminalamt
+- **Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)** (Bundesfinanzministerium): Aufsichtsbeschwerde gegen die BaFin - Systematische Vernachlässigung der Beschwerdebearbeitung
 - **Jugendamt Bielefeld**: Gleichbehandlungsgebot verletzt, unterlassene Anhörung der Kinder
 - **Stadtbibliothek Bielefeld**: Aufsichtspflichtverletzung
 - **Consorsbank BNP Paribas S.A.**: Rechtswidrige Verzögerung der Kontogutschrift und unbefugte Kontensaldierung bei fehlendem Dispositionskredit
