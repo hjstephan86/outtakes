@@ -20,6 +20,7 @@ Nachfolgend habe ich Outtakes aufgeschrieben, die ich in den Gedanken unter [htt
 * [CIA](#cia)
 * [Bahnhofsmission Bielefeld](#bahnhofsmission-bielefeld)
 * [Begegnungen in Bielefeld](#begegnungen-in-bielefeld)
+* [FC Bayern München](#fc-bayern-münchen)
 * [Zusammenfassung: Rechtliche Verfahren](#zusammenfassung-rechtliche-verfahren)
 
 ## Christliche Gemeinde Sennestadt
@@ -438,6 +439,10 @@ Das erteilte Hausverbot führt dazu, dass die regelmäßige Nahrungsmittelversor
 In diesen Tagen ereignen sich immer wieder eigenartige Begegnungen mit Bürgern in der Stadt Bielefeld. Heute, am 12.08.2025, ruhte ich mich um ca. 14:10 Uhr auf einer Parkbank auf dem Martin-Luther-Platz aus. Plötzlich wurde ich von einem lauten Klatschen geweckt und der Mann, der klatschte, begann mit mir zu reden und setzte sich auf die Parkbank neben mich. Weil er mich nicht in Ruhe lies und ich mich dadurch bedroht fühlte, habe ich von dieser Begegnung eine Videoaufzeichnung gemacht. Zu der Videoaufzeichnung habe ich einen Hyperlink erstellt: https://photos.app.goo.gl/8nE3Y9H54R1vFP3A7.
 
 Diese Begegnungen sind kein Einzelfall. Bewusst werde ich in den letzten Monaten immer häufiger provoziert, um in gewalttätige Auseinandersetzungen verwickelt zu werden. Sollte es wirklich zu einer gewalttätigen Auseinandersetzung kommen, würde dies dem Amtsgericht in Bielefeld gemeldet werden und die aktuell offene Frage der Betreuung maßgeblich beeinflussen. Dahinter steht eine systematische Provokation und die Entschlossenheit einer Organisation, mich zu verfolgen und mir maximal zu schaden. Die **CIA** nutzt schon seit Jahrzehnten durch Fluchen die Echtzeitkommunikation in Stimmen bzw. Gedanken. Seit einigen Monaten werden Bielefelder Bürger durch Fluchen dazu bewegt, sich mir gegenüber in meiner Nähe sehr provokativ und gemein zu verhalten.
+
+## FC Bayern München
+
+Der FC Bayern München e.V. hat sehr viel Geld investiert, um mich zu verfolgen und zu töten. Der russische Geheimdienst hat dazu die Aufträge sichergestellt und auf einem Datenträger zur Verfügung gestellt. Die Summe aller beauftragten Morde beläuft sich auf etwa 1,5 Mia Euro. 
 
 ## Zusammenfassung: Rechtliche Verfahren
 
