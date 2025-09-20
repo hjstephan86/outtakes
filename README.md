@@ -467,6 +467,9 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **Stadt Bielefeld** (Landgericht): Amtshaftung wegen Jugendamt und Amtsgericht
 - **Jobcenter Bielefeld** (Sozialgericht): Verzögerung bei Weiterbildungsmaßnahmen
 
+### Unterlassungsklagen
+- **Lidl Stiftung & Co. KG** (Amtsgericht): Gegen das Aufheben des erteilten Hausverbots vom 04.09.2025
+
 ### Beschwerden bei Aufsichtsbehörden
 - **Bundeskriminalamt** (Staatsanwaltschaft Bielefeld): Beschwerde wegen Nichtbearbeitung einer Strafanzeige durch das Bundeskriminalamt
 - **Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)** (Bundesfinanzministerium): Aufsichtsbeschwerde gegen die BaFin - Systematische Vernachlässigung der Beschwerdebearbeitung

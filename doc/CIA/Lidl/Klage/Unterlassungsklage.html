@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unterlassungsklage</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Times New Roman', serif;
+            font-size: 12pt;
+            margin: 0;
+            background: white;
+            line-height: 1.4;
+        }
+
+        /* Absenderbereich - oben links */
+        .sender {
+            position: absolute;
+            top: 4.0cm;
+            font-size: 8pt;
+            border-bottom: 1px solid #333;
+            margin-bottom: 2mm;
+            width: 8.0cm;
+        }
+
+        /* Empfängeradresse - DIN-konform positioniert */
+        .recipient {
+            position: absolute;
+            top: 4.5cm;
+            width: 8.5cm;
+            font-size: 12pt;
+            line-height: 1.3;
+        }
+
+        /* Datum rechtsbündig */
+        .date {
+            text-align: right;
+            margin-top: 8cm;
+            margin-bottom: 1.5cm;
+            font-size: 12pt;
+        }
+
+        .case-info {
+            text-align: right;
+            margin-bottom: 1.5cm;
+            font-size: 10pt;
+        }
+
+        .parties {
+            margin-bottom: 2cm;
+        }
+
+        .party-label {
+            font-weight: bold;
+            text-decoration: underline;
+            margin-bottom: 0.5cm;
+            margin-top: 1cm;
+        }
+
+        .party-info {
+            margin-left: 1cm;
+            margin-bottom: 0.5cm;
+        }
+
+        .subject {
+            text-align: center;
+            font-weight: bold;
+            font-size: 14pt;
+            margin: 2cm 0;
+            text-decoration: underline;
+        }
+
+        .section-header {
+            font-weight: bold;
+            font-size: 12pt;
+            margin-top: 1.5cm;
+            margin-bottom: 0.5cm;
+            text-decoration: underline;
+        }
+
+        .content {
+            text-align: justify;
+            margin-bottom: 1cm;
+        }
+
+        .numbered-item {
+            margin-bottom: 0.8cm;
+        }
+
+        .legal-reference {
+            font-style: italic;
+            color: #333;
+        }
+
+        .claim-box {
+            border: 2px solid #000;
+            padding: 1cm;
+            margin: 1.5cm 0;
+            background-color: #f9f9f9;
+        }
+
+        .signature-area {
+            margin-top: 1cm;
+        }
+
+        .signature-line {
+            border-bottom: 1px solid black;
+            width: 6cm;
+            margin-top: 2cm;
+            margin-bottom: 0.3cm;
+        }
+
+        .attachments {
+            margin-top: 1cm;
+            padding-top: 0.5cm;
+        }
+
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+
+            .claim-box {
+                background-color: #f9f9f9 !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Absender -->
+    <div class="sender">
+        Stephan Epp - Viktoriastraße 10 - 33602 Bielefeld
+    </div>
+
+    <!-- Empfängeradresse nach DIN 5008 -->
+    <div class="recipient">
+        <strong>Amtsgericht Bielefeld</strong><br>
+        Gerichtstraße 6<br>
+        33602 Bielefeld
+    </div>
+
+    <!-- Datum -->
+    <div class="date">
+        Bielefeld, den 18. September 2025
+    </div>
+
+    <div class="parties">
+        <div class="party-label">KLÄGER:</div>
+        <div class="party-info">
+            Stephan Epp<br>
+            Viktoriastraße 10<br>
+            33602 Bielefeld<br>
+            <br>
+            - Kläger -
+        </div>
+
+        <div class="party-label">gegen</div>
+
+        <div class="party-label">BEKLAGTE:</div>
+        <div class="party-info">
+            Lidl Stiftung & Co. KG<br>
+            vertreten durch ihre Geschäftsführer<br>
+            Stiftsbergstraße 1<br>
+            74172 Neckarsulm<br>
+            <br>
+            - Beklagte -
+        </div>
+    </div>
+
+    <div class="subject">
+        KLAGE AUF UNTERLASSUNG
+    </div>
+
+    <div class="content">
+        Sehr geehrte Damen und Herren,
+        <br><br>
+        namens und im Auftrag des Klägers erhebe ich gegen die Beklagte Klage auf Unterlassung mit folgendem
+    </div>
+
+    <div class="claim-box">
+        <div class="section-header">KLAGEANTRAG:</div>
+        <div class="content">
+            <strong>Die Beklagte wird verurteilt,</strong><br><br>
+            <strong>1.</strong> es zu unterlassen, dem Kläger den Zutritt zu ihren Geschäftsräumen der Lidl-Filiale
+            Heeper Straße 113, 33607 Bielefeld, zu verwehren und das am 04. September 2025 erteilte Hausverbot
+            aufzuheben,<br><br>
+            <strong>2.</strong> die Kosten des Rechtsstreits zu tragen.
+        </div>
+    </div>
+
+    <div class="section-header">SACHVERHALT:</div>
+    <div class="content">
+        <div class="numbered-item">
+            <strong>1.</strong> Der Kläger ist Kunde der Beklagten und kauft regelmäßig in der Lidl-Filiale Heeper
+            Straße 113 in Bielefeld ein.
+        </div>
+
+        <div class="numbered-item">
+            <strong>2.</strong> Am 04. September 2025 hielt sich der Kläger nach seinem Einkauf am Fahrradparkplatz der
+            genannten Filiale auf und frühstückte dort. Dabei warf er die Papiertüte auf den Boden.
+        </div>
+
+        <div class="numbered-item">
+            <strong>3.</strong> Die Filialleiterin Fr. Cien forderte den Kläger auf, die Papiertüte sofort aufzuheben.
+            Der Kläger antwortete kooperativ: "Das mache ich gleich" und zeigte damit seine Bereitschaft zur Mitwirkung.
+        </div>
+
+        <div class="numbered-item">
+            <strong>4.</strong> Ohne weitere Warnung oder Abmahnung erteilte Fr. Cien dem Kläger daraufhin ein
+            sofortiges Hausverbot für die Geschäftsräume der Beklagten.
+        </div>
+
+        <div class="numbered-item">
+            <strong>5.</strong> Der Kläger erhob mit Schreiben vom 04. September 2025 Widerspruch gegen das Hausverbot
+            und forderte dessen Aufhebung binnen 14 Tagen. Die Beklagte hat auf dieses Schreiben nicht reagiert.
+        </div>
+    </div>
+
+    <div class="section-header">RECHTLICHE WÜRDIGUNG:</div>
+    <div class="content">
+        <div class="numbered-item">
+            <strong>1. Anspruchsgrundlage</strong><br>
+            Der Kläger hat gegen die Beklagte einen Unterlassungsanspruch aus <span class="legal-reference">§ 1004 Abs.
+                1 S. 2 BGB analog i.V.m. Art. 2 Abs. 1 GG (allgemeines Persönlichkeitsrecht)</span>.
+        </div>
+
+        <div class="numbered-item">
+            <strong>2. Rechtswidrigkeit des Hausverbots</strong><br>
+            Das erteilte Hausverbot ist rechtswidrig, da es an einem sachlich gerechtfertigten Grund fehlt und
+            unverhältnismäßig ist:
+        </div>
+
+        <div class="numbered-item">
+            <strong>a) Fehlender sachlicher Grund:</strong><br>
+            Supermärkte als öffentlich zugängliche Geschäfte dürfen ihr Hausrecht nur bei sachlich gerechtfertigten
+            Gründen ausüben. Das versehentliche Fallenlassen einer Papiertüte, verbunden mit der kooperativen
+            Bereitschaft zur sofortigen Beseitigung, stellt keinen solchen Grund dar.
+        </div>
+
+        <div class="numbered-item">
+            <strong>b) Unverhältnismäßigkeit:</strong><br>
+            Ein Hausverbot ist das schärfste verfügbare Mittel des Hausrechts. Es war hier unverhältnismäßig, da der
+            Kläger Kooperationsbereitschaft zeigte und mildere Mittel (Ermahnung, Abmahnung) nicht versucht wurden.
+        </div>
+
+        <div class="numbered-item">
+            <strong>c) Willkür und Rechtsmissbrauch:</strong><br>
+            Die sofortige Erteilung des Hausverbots ohne vorherige Warnung stellt einen willkürlichen Eingriff in das
+            allgemeine Persönlichkeitsrecht des Klägers dar und missachtet den Verhältnismäßigkeitsgrundsatz.
+        </div>
+
+        <div class="numbered-item">
+            <strong>3. Wiederholungsgefahr</strong><br>
+            Die Beklagte hat trotz des Widerspruchs vom 04. September 2025 nicht reagiert und das rechtswidrige
+            Hausverbot aufrechterhalten. Hierin liegt die ernstliche Besorgnis weiterer Rechtsverletzungen begründet.
+        </div>
+
+        <div class="numbered-item">
+            <strong>4. Rechtsfolge</strong><br>
+            Der Kläger kann daher die Unterlassung der weiteren Verwehrung des Zutritts und die Aufhebung des
+            rechtswidrigen Hausverbots verlangen.
+        </div>
+    </div>
+
+    <div class="section-header">BEWEISMITTEL:</div>
+    <div class="content">
+        <ul>
+            <li>Widerspruchsschreiben vom 04.09.2025</li>
+            <li>Strafanzeige gegen Fr. Cien vom 04.09.2025</li>
+            <li>Vorfallsbericht vom 04.09.2025</li>
+        </ul>
+    </div>
+
+    <div class="content">
+        Für Rückfragen stehe ich Ihnen zur Verfügung.
+    </div>
+
+    <div class="signature-area">
+        <div style="margin-bottom: 0.5cm;">
+            Bielefeld, den 18. September 2025
+        </div>
+
+        <div class="signature-line"></div>
+        <div style="margin-top: 0.3cm;">
+            Stephan Epp<br>
+            <small>(Kläger)</small>
+        </div>
+    </div>
+
+    <div class="attachments">
+        <strong>ANLAGEN:</strong><br>
+        - Widerspruchsschreiben vom 04.09.2025<br>
+        - Kopie der Strafanzeige vom 04.09.2025<br>
+        - Vorfallsbericht vom 04.09.2025
+    </div>
+</body>
+
+</html>
