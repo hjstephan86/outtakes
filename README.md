@@ -327,6 +327,10 @@ Es gibt einen Vermerk in der Akte im Umgang mit diesem Verfahren. Frau Westerman
 
 Frage an Frau Westermann: Wie heißt der Richter, der in diesem Verfahren gerichtet hat? Frau Westermann antwortete verzögert: Herr Strufe. Frau Westermann sagte mir, sie fragt Herrn Strufe, ob er ein Schreiben dazu verfassen kann. Ich habe Frau Westermann nicht nach einem Schreiben gefragt, sondern nur nach dem Vermerk in diesem Verfahren. Frau Westermann sagte vorher Herr Strus und verzögerte das Nennen des Namens des Richters auffällig lange. Beim Buchstabieren des Namens verwendete sie nicht die gewöhnlichen Buchstabierungen "Siegfried", "Theoder" usw. sondern sagte f wie frei.
 
+### 2 XVII 991/25
+
+Am 18.09.2025 habe ich vom Amtsgericht Bielefeld ein Schreiben erhalten, in dem mir mitgeteilt wurde, dass für das betreuungsgerichtliche Verfahren 2 XVII 991/25 ein psychiatrisches Fachgutachten von Herrn Jens Köhler eingeholt werden muss.
+
 ### Nachweise
 
 Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht/ abgelegt:
@@ -334,6 +338,7 @@ Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht/ abgel
 - 2 XVII 971/24 Sozialbericht vom 10.09.2024
 - 2 XVII 971/24 Sozialbericht vom 10.09.2024 mit Vermerk
 - 2 XVII 991/25 Aufforderung zur Mitwirkung vom 15.07.2025
+- 2 XVII 991/25 Schreiben zur Einholung eines Fachgutachtens vom 11.09.2025
 
 ### Landgericht
 
@@ -466,6 +471,9 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **moBiel GmbH** (Amtsgericht): Schadenersatz wegen Beförderungsentgelt
 - **Stadt Bielefeld** (Landgericht): Amtshaftung wegen Jugendamt und Amtsgericht
 - **Jobcenter Bielefeld** (Sozialgericht): Verzögerung bei Weiterbildungsmaßnahmen
+
+### Untätigkeitsklagen
+- **Bundesministerium der Finanzen** (Verwaltungsgericht Berlin): Gegen die Untätigkeit, über die am 16.09.2025 per E-Mail an Poststelle@bmf.bund.de übersandte Aufsichtsbeschwerde gegen die BaFin zu entscheiden
 
 ### Unterlassungsklagen
 - **Lidl Stiftung & Co. KG** (Amtsgericht): Gegen das Aufheben des erteilten Hausverbots vom 04.09.2025
