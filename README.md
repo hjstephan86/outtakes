@@ -329,16 +329,16 @@ Frage an Frau Westermann: Wie heißt der Richter, der in diesem Verfahren gerich
 
 ### 2 XVII 991/25
 
-Am 18.09.2025 habe ich vom Amtsgericht Bielefeld ein Schreiben erhalten, in dem mir mitgeteilt wurde, dass für das betreuungsgerichtliche Verfahren 2 XVII 991/25 ein psychiatrisches Fachgutachten von Herrn Jens Köhler eingeholt werden muss.
+Am 18.09.2025 habe ich vom Amtsgericht Bielefeld ein Schreiben erhalten, in dem mir mitgeteilt wurde, dass für das betreuungsgerichtliche Verfahren 2 XVII 991/25 ein psychiatrisches Fachgutachten von Herrn Jens Köhler, Gesundheitsamt Bielefeld, eingeholt werden muss. Zu diesem Schreiben habe ich dem Amtsgericht Bielefeld am 01.10.2025 eine Stellungnahme zukommen lassen, in der ich darum bitte, von einem gesundheitlichen Gutachten und von der Einsetzung einer Betreuung abzusehen. Ergänzend dazu habe ich dem Amtsgericht Bielefeld am 04.10.2025 weitere Nachweise über meinen gesundheitlichen Zustand zukommen lassen. Beide Schreiben und Nachweise habe ich auch Herrn Jens Köhler zukommen lassen.
 
 ### Nachweise
 
 Als Nachweise sind folgende Dokumente unter doc/CIA/Bielefeld/Amtsgericht/ abgelegt:
-- 2 XIV (L) 42/24 Verfahrenspflege vom 21.05.2025
 - 2 XVII 971/24 Sozialbericht vom 10.09.2024
-- 2 XVII 971/24 Sozialbericht vom 10.09.2024 mit Vermerk
-- 2 XVII 991/25 Aufforderung zur Mitwirkung vom 15.07.2025
+- 2 XVII 971/24 Sozialbericht vom 10.09.2024 mit Vermerk "weggelegt"
 - 2 XVII 991/25 Schreiben zur Einholung eines Fachgutachtens vom 11.09.2025
+- 2 XVII 991/25 Stellungnahme vom 01.10.2025 zum Sozialbericht vom 05.08.2025
+- 2 XVII 991/25 Ergänzung zur Stellungnahme mit Nachweisen vom 04.10.2025
 
 ### Landgericht
 
@@ -479,6 +479,7 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **Lidl Stiftung & Co. KG** (Amtsgericht): Gegen das Aufheben des erteilten Hausverbots vom 04.09.2025
 
 ### Beschwerden bei Aufsichtsbehörden
+- **Bundesfinanzministerium** (Europäische Kommission): Förmliche Beschwerde gegen die Bundesrepublik Deutschland wegen mangelhafter Umsetzung und Durchsetzung der EU-Zahlungsdiensterichtlinie (PSD2) und des Verbraucherschutzes
 - **Bundeskriminalamt** (Staatsanwaltschaft Bielefeld): Beschwerde wegen Nichtbearbeitung einer Strafanzeige durch das Bundeskriminalamt
 - **Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)** (Bundesfinanzministerium): Aufsichtsbeschwerde gegen die BaFin - Systematische Vernachlässigung der Beschwerdebearbeitung
 - **Jugendamt Bielefeld**: Gleichbehandlungsgebot verletzt, unterlassene Anhörung der Kinder
