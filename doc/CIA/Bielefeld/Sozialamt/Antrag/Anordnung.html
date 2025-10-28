@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antrag auf Erlass einer einstweiligen Anordnung</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            font-size: 11pt;
+            line-height: 1.4;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            background: white;
+        }
+
+        .page {
+            min-height: 29.7cm;
+            margin: 0 auto;
+            background: white;
+            position: relative;
+            padding: 0;
+        }
+
+        /* Absenderzeile (Rücksendeangabe) nach DIN 5008 */
+        .sender-line {
+            position: absolute;
+            top: 4.5cm;
+            left: 2.5cm;
+            font-size: 8pt;
+            line-height: 1.2;
+            border-bottom: 1px solid #000;
+            padding-bottom: 1px;
+            width: 8.5cm;
+        }
+
+        /* Empfängeradresse nach DIN 5008 */
+        .recipient-address {
+            position: absolute;
+            top: 5.1cm;
+            left: 2.5cm;
+            width: 8.5cm;
+            font-size: 11pt;
+            line-height: 1.3;
+        }
+
+        /* Absenderadresse rechts oben */
+        .sender-address {
+            position: absolute;
+            top: 4.5cm;
+            right: 2.5cm;
+            text-align: right;
+            font-size: 9pt;
+            line-height: 1.3;
+        }
+
+        /* Hauptinhalt */
+        .content {
+            position: absolute;
+            top: 10cm;
+            left: 2.5cm;
+            right: 2cm;
+        }
+
+        h1 {
+            font-size: 13pt;
+            font-weight: bold;
+            text-align: center;
+            margin: 1.5em 0 1em 0;
+        }
+
+        h2 {
+            font-size: 11pt;
+            font-weight: bold;
+            margin: 1.2em 0 0.5em 0;
+        }
+
+        h3 {
+            font-size: 11pt;
+            font-weight: bold;
+            margin: 1em 0 0.5em 0;
+        }
+
+        p {
+            margin: 0.4em 0;
+            text-align: justify;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        ol {
+            margin: 0.5em 0;
+            padding-left: 1.5em;
+        }
+
+        ol li {
+            margin: 0.4em 0;
+        }
+
+        ul {
+            margin: 0.5em 0;
+            padding-left: 1.5em;
+        }
+
+        ul li {
+            margin: 0.3em 0;
+        }
+
+        .indent {
+            margin-left: 1.5em;
+        }
+
+        .signature-block {
+            margin-top: 2em;
+        }
+
+        .signature-line {
+            margin-top: 3em;
+            border-top: 1px solid #000;
+            width: 6cm;
+        }
+
+        @media print {
+            body {
+                margin: 0;
+            }
+
+            .page {
+                margin: 0;
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- Absenderzeile (Rücksendeangabe) -->
+        <div class="sender-line">
+            Stephan Epp • Viktoriastraße 10 • 33602 Bielefeld
+        </div>
+        <!-- Empfängeradresse -->
+        <div class="recipient-address">
+            <strong>Sozialgericht Detmold</strong><br>
+            Richthofenstraße 3<br>
+            32756 Detmold
+        </div>
+
+        <!-- Absenderadresse rechts -->
+        <div class="sender-address">
+            Stephan Epp<br>
+            Otto-Brenner-Straße 77<br>
+            33605 Bielefeld<br><br>
+            <b>Postanschrift:</b><br>Viktoriastraße 10<br>
+            33602 Bielefeld<br>
+            Tel.: +49 163 814 0605
+        </div>
+
+        <!-- Hauptinhalt -->
+        <div class="content">
+            <h1>Antrag auf Erlass einer einstweiligen Anordnung</h1>
+            <br><br>
+
+            <p><strong>Antragsteller:</strong><br>
+                Stephan Epp, Viktoriastraße 10, 33602 Bielefeld<br>
+                derzeit: Otto-Brenner-Straße 77, 33605 Bielefeld</p>
+            <br>
+
+            <p><strong>Antragsgegner:</strong><br>
+                1. Stadt Bielefeld, Amt für soziale Leistungen - Sozialamt, vertreten durch den Oberbürgermeister,
+                Niederwall 23, 33602 Bielefeld<br>
+                2. Stadt Bielefeld, Amt für Unterbringung, vertreten durch den Oberbürgermeister, Niederwall 23, 33602
+                Bielefeld</p>
+
+            <h2>Antrag</h2>
+
+            <p>Der Antragsteller beantragt im Wege der einstweiligen Anordnung gemäß § 86b Abs. 2 Sozialgerichtsgesetz
+                (SGG):</p>
+
+            <p class="bold">Den Antragsgegnern wird im Wege der einstweiligen Anordnung aufgegeben:</p>
+
+            <ol>
+                <li>Dem Antragsteller unverzüglich ein Einzelzimmer in der Unterkunft Otto-Brenner-Straße 77, 33605
+                    Bielefeld, zuzuweisen, insbesondere Zimmer 2 oder Zimmer 5, solange nachweislich welche frei und
+                    bewohnbar sind.</li>
+                <li>Die seit dem 20. Oktober 2025 erfolgte Doppelbelegung von Zimmer 1 in der Unterkunft
+                    Otto-Brenner-Straße 77 unverzüglich aufzuheben.</li>
+                <li>Die Kosten der Unterkunft in der Otto-Brenner-Straße 77 weiterhin vollständig zu übernehmen.</li>
+            </ol>
+
+            <h2>Begründung</h2>
+
+            <h3>I. Sachverhalt</h3>
+
+            <p>Der Antragsteller bezieht Leistungen nach dem SGB II (Bürgergeld in Höhe von 563 € monatlich) und ist
+                seit Ende Mai 2025 in der Unterkunft Otto-Brenner-Straße 77, 33605 Bielefeld, Zimmer 1 untergebracht.
+            </p>
+
+            <p class="bold">1. Doppelbelegung des Zimmers trotz freier Alternativen</p>
+
+            <p>Am 20. Oktober 2025 um 19:00 Uhr teilte Herr Rogalski (Mitarbeiter der Johanniter Bielefeld,
+                Hausverwaltung) dem Antragsteller mit, dass auf Anordnung von Frau Schalles (Amt für Unterbringung der
+                Stadt Bielefeld) Zimmer 1 ab sofort mit zwei Personen belegt werden soll.</p>
+
+            <p>Seit dem 20. Oktober 2025 wird das Zimmer des Antragstellers mit einer weiteren Person (Ben) doppelt
+                belegt.</p>
+
+            <p><span class="bold">Entscheidend ist:</span> In derselben Unterkunft Otto-Brenner-Straße 77 stehen
+                nachweislich <span class="bold">Zimmer 2 und Zimmer 5 leer und sind bewohnbar</span>. Der Antragsteller
+                hat dies am 21. Oktober 2025 um ca. 06:50 Uhr persönlich überprüft (beide Zimmertüren sind
+                abgeschlossen, die Zimmer stehen leer).</p>
+
+            <p>Die Begründung für die Doppelbelegung lautet laut Herrn Rogalski, dass "zuerst die Zimmer aufgefüllt
+                werden sollen, da in den nächsten Tagen weitere Personen zugewiesen werden".</p>
+
+            <p class="bold">2. Gesundheitliche Situation des Antragstellers</p>
+
+            <p>Der Antragsteller leidet unter einem sehr empfindlichen Schlaf. Gesunder, ungestörter Schlaf ist für
+                seine gesundheitliche Situation von essentieller Bedeutung.</p>
+
+            <p>Aktuell läuft ein betreuungsrechtliches Verfahren beim Amtsgericht Bielefeld (Aktenzeichen: <span
+                    class="bold">2 XVII 991/25</span>) bezüglich der gesundheitlichen Situation des Antragstellers.</p>
+
+            <p>Durch die Doppelbelegung des Zimmers droht eine erhebliche Verschlechterung der gesundheitlichen
+                Situation aufgrund von Schlafmangel und der Unmöglichkeit, sich zurückzuziehen.</p>
+
+            <p class="bold">3. Druck zur Unterschrift eines Mietvertrags</p>
+
+            <p>Am 20. Oktober 2025 um 13:52 Uhr fand ein Termin im Sozialamt Bielefeld, Am Venn 2, statt. Anwesend
+                waren:</p>
+            <ul>
+                <li>Frau von Hase (Mitarbeiterin Sozialamt Bielefeld)</li>
+                <li>Herr Lukas Herrmann (Mitarbeiter Sozialamt Bielefeld)</li>
+                <li>Frau Mursa (Vermieterin)</li>
+                <li>Der Antragsteller</li>
+            </ul>
+
+            <p>In diesem Termin wurde massiver Druck auf den Antragsteller ausgeübt, einen Mietvertrag für eine Wohnung
+                zum 15. November 2025 zu unterschreiben, obwohl in dieser Wohnung keine funktionierende Küche vorhanden
+                ist und die Einrichtung einer Küche Zeit benötigt.</p>
+
+            <p>Herr Herrmann warf dem Antragsteller vor, "destruktiv" zu sein und die Wohnung "aus nicht
+                nachvollziehbaren Gründen zu verweigern", obwohl der Antragsteller bereits privat sehr viele
+                Wohnungsanfragen gestellt und drei Wohnungen selbst besichtigt hat.</p>
+
+            <p>Das Sozialamt verweigerte eine schriftliche Bestätigung, dass der Antragsteller bis zur Einrichtung der
+                Küche in der Unterkunft Otto-Brenner-Straße 77 bleiben kann.</p>
+
+            <p class="bold">4. Zusammenhang zwischen Druckausübung und Zimmerzuweisung</p>
+
+            <p>Es ist auffällig, dass die Doppelbelegung des Zimmers des Antragstellers exakt am selben Tag (20. Oktober
+                2025) erfolgte, an dem der Antragsteller sich weigerte, den Mietvertrag unter Druck zu unterschreiben.
+            </p>
+
+            <p>Dies erweckt den Eindruck einer systematischen Schikane und Druckausübung, um den Antragsteller zum
+                Verlassen der Unterkunft zu zwingen.</p>
+
+            <p class="bold">5. Widerspruch eingelegt</p>
+
+            <p>Der Antragsteller hat am 21. Oktober 2025 per E-Mail Widerspruch gegen die Zimmerzuweisung eingelegt
+                (Empfänger: Frau Schalles und Herr Gooklani, Amt für Unterbringung).</p>
+        </div>
+    </div>
+
+    <!-- Seite 2 -->
+    <div class="page">
+        <div class="content" style="top: 2.5cm;">
+            <h3>II. Anordnungsanspruch</h3>
+
+            <p class="bold">1. Rechtliche Grundlage</p>
+
+            <p>Der Antragsteller hat einen Anspruch auf eine <span class="bold">angemessene Unterkunft</span> gemäß § 22
+                Abs. 1 SGB II.</p>
+
+            <p>Eine Unterkunft ist nur dann angemessen, wenn sie den individuellen Bedürfnissen des
+                Leistungsberechtigten entspricht und seine Gesundheit nicht gefährdet.</p>
+
+            <p class="bold">2. Unangemessenheit der Doppelbelegung</p>
+
+            <p>Die Doppelbelegung von Zimmer 1 ist <span class="bold">nicht angemessen und nicht zumutbar</span>, weil:
+            </p>
+
+            <p class="bold indent">a) Freie Alternativen vorhanden sind:</p>
+            <p class="indent">Zimmer 2 und Zimmer 5 in derselben Unterkunft stehen leer und bewohnbar zur Verfügung.</p>
+
+            <p class="bold indent">b) Gesundheitsgefährdung:</p>
+            <p class="indent">Der Antragsteller leidet unter empfindlichem Schlaf. Die Doppelbelegung führt zwangsläufig
+                zu Schlafstörungen, Lärmbelästigung und der Unmöglichkeit, sich zurückzuziehen. Dies gefährdet seine
+                Gesundheit erheblich.</p>
+
+            <p class="bold indent">c) Laufendes Betreuungsverfahren:</p>
+            <p class="indent">Das Amtsgericht Bielefeld prüft aktuell die Notwendigkeit einer rechtlichen Betreuung
+                aufgrund der gesundheitlichen Situation des Antragstellers (Az. 2 XVII 991/25). Dies unterstreicht die
+                besondere Schutzbedürftigkeit.</p>
+
+            <p class="bold indent">d) Willkürliche Entscheidung:</p>
+            <p class="indent">Es gibt keinen sachlichen Grund für die Doppelbelegung, wenn andere Einzelzimmer verfügbar
+                sind. Die Begründung, "Zimmer zuerst aufzufüllen", ist keine ausreichende Rechtfertigung für die
+                Gesundheitsgefährdung eines Leistungsberechtigten.</p>
+
+            <p class="bold">3. Verstoß gegen das Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums
+            </p>
+
+            <p>Das Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums (Art. 1 Abs. 1 GG i.V.m. Art.
+                20 Abs. 1 GG) umfasst nicht nur die physische Existenz, sondern auch ein Minimum an sozialer,
+                kultureller und damit auch gesundheitlicher Teilhabe.</p>
+
+            <p>Die Verweigerung eines Einzelzimmers trotz verfügbarer Alternativen und trotz gesundheitlicher
+                Beeinträchtigungen des Antragstellers verletzt dieses Grundrecht.</p>
+
+            <h3>III. Anordnungsgrund (Eilbedürftigkeit)</h3>
+
+            <p class="bold">1. Unmittelbare Gesundheitsgefährdung</p>
+
+            <p>Der Antragsteller ist seit dem 20. Oktober 2025 der Doppelbelegung ausgesetzt. Bereits jetzt droht eine
+                Verschlechterung seiner gesundheitlichen Situation durch:</p>
+            <ul>
+                <li>Schlafmangel</li>
+                <li>Dauerstress durch fehlende Privatsphäre</li>
+                <li>Unmöglichkeit der Erholung</li>
+            </ul>
+
+            <p>Eine Gesundheitsgefährdung rechtfertigt stets ein eiliges gerichtliches Vorgehen.</p>
+
+            <p class="bold">2. Keine Abhilfe durch Widerspruch</p>
+
+            <p>Der Antragsteller hat am 21. Oktober 2025 Widerspruch eingelegt. Es ist nicht absehbar, wann über diesen
+                Widerspruch entschieden wird. Ein Abwarten des Widerspruchsverfahrens ist dem Antragsteller nicht
+                zumutbar, da seine Gesundheit bereits jetzt akut gefährdet ist.</p>
+
+            <p class="bold">3. Keine anderweitige Abwendung der Gefahr</p>
+
+            <p>Der Antragsteller hat keine Möglichkeit, die Situation selbst abzuwenden. Er ist auf die Zuweisung durch
+                das Amt für Unterbringung angewiesen.</p>
+
+            <p class="bold">4. Systematische Druckausübung</p>
+
+            <p>Die zeitliche Koinzidenz zwischen der Verweigerung der Unterschrift am 20. Oktober 2025 (13:52 Uhr) und
+                der Zimmerzuweisung am selben Tag (19:00 Uhr) legt nahe, dass die Doppelbelegung als Druckmittel
+                eingesetzt wird, um den Antragsteller zum Verlassen der Unterkunft zu zwingen.</p>
+
+            <p>Dies stellt einen schwerwiegenden Eingriff in die Rechte des Antragstellers dar und erfordert sofortiges
+                gerichtliches Einschreiten.</p>
+
+            <h3>IV. Erfolgsaussicht in der Hauptsache</h3>
+
+            <p>Die Klage in der Hauptsache hat überwiegende Erfolgsaussichten:</p>
+
+            <p>Der Antragsteller hat einen Anspruch auf eine angemessene Unterkunft gemäß § 22 Abs. 1 SGB II. Die
+                Doppelbelegung bei gleichzeitig verfügbaren Einzelzimmern und unter Berücksichtigung der
+                gesundheitlichen Situation des Antragstellers ist rechtswidrig.</p>
+
+            <h3>V. Rechtsfolge</h3>
+
+            <p>Gemäß § 86b Abs. 2 SGG kann das Gericht eine einstweilige Anordnung zur Regelung eines vorläufigen
+                Zustands in Bezug auf ein streitiges Rechtsverhältnis treffen, wenn eine solche Regelung zur Abwendung
+                wesentlicher Nachteile nötig erscheint.</p>
+
+            <p>Die Voraussetzungen liegen vor:</p>
+            <ul>
+                <li>Streitiges Rechtsverhältnis: Anspruch auf angemessene Unterkunft</li>
+                <li>Abwendung wesentlicher Nachteile: Gesundheitsgefährdung durch Schlafmangel</li>
+                <li>Eilbedürftigkeit: Unmittelbare und andauernde Beeinträchtigung</li>
+            </ul>
+
+            <h2>Beweismittel</h2>
+
+            <ol>
+                <li>E-Mail des Antragstellers vom 21. Oktober 2025 an Frau Schalles und Herr Gooklani (Widerspruch gegen
+                    Zimmerzuweisung)</li>
+                <li>Nachweis über das laufende Betreuungsverfahren beim Amtsgericht Bielefeld, Az. 2 XVII 991/25</li>
+                <li>Einweisungsbescheid für die Unterkunft Otto-Brenner-Straße 77</li>
+                <li>Gebührenbescheid für die Unterkunft Otto-Brenner-Straße 77</li>
+                <li>Bestätigung des Jobcenters über die Kostenübernahme der Unterkunft</li>
+            </ol>
+
+            <h2>Kostenentscheidung</h2>
+
+            <p>Die Kosten des Verfahrens trägt der Antragsgegner.</p>
+
+            <div class="signature-block">
+                <p>Bielefeld, den 22. Oktober 2025</p>
+                <br><br>
+                <div class="signature-line"></div>
+                <p>Stephan Epp (Antragsteller)</p>
+            </div>
+
+            <h2 style="margin-top: 2em;">Anlagen</h2>
+
+            <ul>
+                <li>E-Mail vom 21.10.2025 (Widerspruch Zimmerzuweisung)</li>
+                <li>Nachweis Betreuungsverfahren Az. 2 XVII 991/25</li>
+                <li>Einweisungsbescheid</li>
+                <li>Gebührenbescheid</li>
+                <li>Bestätigung Jobcenter Kostenübernahme</li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>

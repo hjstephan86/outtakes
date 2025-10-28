@@ -495,5 +495,8 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **Amtsgericht Bielefeld**: Mehrere Verfahren (2 XVII 971/24, 991/25)
 - Kritik an Verfahrensführung ohne ordnungsgemäße Benachrichtigung
 
+### Anordnungen
+- **Sozialamt Bielefeld** (Sozialgericht Detmold): Antrag auf Erlass einer einstweiligen Anordnung für ungerechtfertigte Zimmerzuweisung  
+
 ### Nachweise 
 Die Vorgänge sind umfangreich durch Protokolle und andere Belege wie Fotos und Videos dokumentiert. Nachweise befinden sich in diesem Repository unter doc/CIA/.
