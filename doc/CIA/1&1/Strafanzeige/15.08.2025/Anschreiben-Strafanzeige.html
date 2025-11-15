@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anschreiben zur Strafanzeige</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm 2.5cm 2cm 2cm;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 11pt;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+            color: #000;
+        }
+
+        /* DIN-Briefnorm Adressfenster */
+        .absender-zeile {
+            position: absolute;
+            top: 4.5cm;
+            left: 2cm;
+            width: 8.5cm;
+            font-size: 8pt;
+            border-bottom: 1px solid #000;
+            padding-bottom: 2px;
+            margin-bottom: 3mm;
+        }
+
+        .empfaenger-adresse {
+            position: absolute;
+            top: 5.1cm;
+            left: 2cm;
+            width: 8.5cm;
+            height: 4cm;
+            font-size: 11pt;
+            line-height: 1.3;
+        }
+
+        .briefkopf {
+            position: absolute;
+            top: 2cm;
+            right: 2cm;
+            text-align: right;
+            font-size: 10pt;
+            line-height: 1.3;
+        }
+
+        .haupttext {
+            margin-top: 10cm;
+            margin-left: 2cm;
+            margin-right: 2cm;
+        }
+
+        .datum {
+            text-align: right;
+            margin-bottom: 2cm;
+        }
+
+        .betreff {
+            font-weight: bold;
+            margin: 1.5cm 0 1cm 0;
+        }
+
+        .unterschrift {
+            margin-top: 2.5cm;
+        }
+
+        @media print {
+            body {
+                -webkit-print-color-adjust: exact;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="briefkopf">
+        <strong>Stephan Epp</strong><br>
+        Viktoriastraße 10<br>
+        33602 Bielefeld<br>
+        Tel.: +49 163 8140605<br>
+        E-Mail: Stephan_Epp@web.de
+    </div>
+
+    <div class="absender-zeile">
+        Stephan Epp · Viktoriastraße 10 · 33602 Bielefeld
+    </div>
+
+    <div class="empfaenger-adresse">
+        <strong>Polizeipräsidium Bielefeld</strong><br>
+        Kriminalkommissariat<br>
+        Kurt-Schumacher-Straße 46<br>
+        33651 Bielefeld
+    </div>
+
+    <div class="haupttext">
+        <div class="datum">
+            Bielefeld, den 15. August 2025
+        </div>
+
+        <div class="betreff">
+            <strong>Betreff: Strafanzeige und Strafantrag<br>
+                Hier: Computerstraftaten durch 1&1 Telecom GmbH</strong>
+        </div>
+
+        <p>Sehr geehrte Damen und Herren,</p>
+
+        <p>in der Anlage übersende ich Ihnen eine <strong>Strafanzeige und einen Strafantrag</strong> gegen die 1&1
+            Telecom GmbH sowie unbekannte Mitarbeiter dieser Gesellschaft.</p>
+
+        <p><strong>Tatvorwürfe:</strong></p>
+        <p>• Unbefugter Zugriff auf Daten (§ 202a StGB)<br>
+            • Datenveränderung (§ 303a StGB)<br>
+            • Betrug (§ 263 StGB)</p>
+
+        <p><strong>Sachverhalt in Kürze:</strong><br>
+            Die Beschuldigten haben eigenmächtig und ohne Berechtigung Bankdaten aus meinem Kundenkonto gelöscht und
+            dadurch eine Vertragssperrung herbeigeführt. Dies geschah trotz ordnungsgemäßer Hinterlegung der
+            Zahlungsdaten.</p>
+
+        <p>Ich bitte um:</p>
+        <p>• Aufnahme der strafrechtlichen Ermittlungen<br>
+            • Sicherstellung der relevanten Systemdaten bei der 1&1 Telecom GmbH<br>
+            • Information über den Verfahrensfortgang</p>
+
+        <p>Als <strong>Anzeigenerstatter</strong> stehe ich für weitere Auskünfte und Vernehmungen jederzeit zur
+            Verfügung.</p>
+
+        <p>Mit freundlichen Grüßen</p>
+
+        <div class="unterschrift">
+            <p>_____________________________<br>
+                Stephan Epp</p>
+        </div>
+
+        <p><strong>Anlage:</strong><br>
+            Strafanzeige und Strafantrag nebst Beweismitteln</p>
+    </div>
+
+</body>
+
+</html>

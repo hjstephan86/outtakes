@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gesprächsprotokoll</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        .document {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .meta-info {
+            background: #f5f5f5;
+            padding: 15px;
+            border-left: 4px solid #007cba;
+            margin-bottom: 25px;
+        }
+
+        .meta-info p {
+            margin: 5px 0;
+        }
+
+        .dialogue {
+            margin: 20px 0;
+        }
+
+        .speaker {
+            font-weight: bold;
+            margin-top: 15px;
+        }
+
+        .meyer {
+            color: #d32f2f;
+        }
+
+        .epp {
+            color: #1976d2;
+        }
+
+        .content {
+            margin-left: 20px;
+            font-style: italic;
+        }
+
+        .note {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 10px;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+
+        .signature {
+            margin-top: 40px;
+            text-align: right;
+        }
+
+        .important {
+            background: #ffebee;
+            border-left: 4px solid #d32f2f;
+            padding: 10px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="document">
+        <div class="header">
+            GESPRÄCHSPROTOKOLL
+        </div>
+
+        <div class="meta-info">
+            <p><strong>Aktenzeichen:</strong> 400 C 235/25</p>
+            <p><strong>Datum:</strong> 03.09.2025</p>
+            <p><strong>Uhrzeit:</strong> 08:42 Uhr</p>
+            <p><strong>Gesprächspartner:</strong> Frau Meyer, Geschäftsstelle Amtsgericht Bielefeld</p>
+            <p><strong>Anrufer:</strong> Stephan Epp</p>
+            <p><strong>Art des Gesprächs:</strong> Telefonisches Gespräch</p>
+        </div>
+
+        <div class="note">
+            <strong>Hinweis:</strong> Frau Friedel war zum Zeitpunkt des Anrufs im Urlaub. Das Gespräch wurde daher mit
+            Frau Meyer geführt.
+        </div>
+
+        <div class="dialogue">
+            <h3>Gesprächsverlauf:</h3>
+
+            <div class="speaker meyer">Frau Meyer:</div>
+            <div class="content">"Kommunikation per E-Mail ist nicht möglich. Anträge per E-Mail sind keine gesetzlichen
+                Anträge."</div>
+
+            <div class="speaker epp">Herr Epp:</div>
+            <div class="content">"Welchen Antrag meinen Sie?"</div>
+
+            <div class="speaker meyer">Frau Meyer:</div>
+            <div class="content">"Sie haben mehrere Klagen geschickt per E-Mail. Das geht nicht. Die Klagen müssen in
+                Schriftform ankommen. Im Anhang des Antrags haben Sie uns eine Klage geschickt. Im Antrag auf Kosten ist
+                die..."</div>
+
+            <div class="note">
+                <strong>Anmerkung:</strong> Der Satz blieb unvollendet.
+            </div>
+
+            <div class="speaker epp">Herr Epp:</div>
+            <div class="content">"Von welcher E-Mail reden wir?"</div>
+
+            <div class="important">
+                <div class="speaker meyer">Frau Meyer:</div>
+                <div class="content"><strong>"Freitag, 22.08.2025, 21:17 Uhr."</strong></div>
+            </div>
+
+            <div class="speaker meyer">Frau Meyer:</div>
+            <div class="content">"Alles, was per E-Mail eingereicht wird, ist rechtlich nicht zulässig."</div>
+
+            <div class="speaker meyer">Frau Meyer:</div>
+            <div class="content">"Es besteht die Möglichkeit, die an die E-Mail angehängten Anhänge in einer zulässigen
+                Form bei Gericht einzureichen. So schreibt es ja die Richterin."</div>
+        </div>
+
+        <div class="important">
+            <h4>Besonders relevante Feststellungen:</h4>
+            <ol>
+                <li><strong>Exakte Zeitangabe:</strong> Frau Meyer konnte die betreffende E-Mail präzise auf "Freitag,
+                    22.08.2025, 21:17 Uhr" datieren, was beweist, dass die E-Mail technisch ordnungsgemäß angekommen und
+                    identifizierbar war.</li>
+
+                <li><strong>Pauschale Ablehnung:</strong> Frau Meyer erklärte kategorisch: "Alles, was per E-Mail
+                    eingereicht wird, ist rechtlich nicht zulässig" - ohne Differenzierung nach Art der elektronischen
+                    Übermittlung oder Verschlüsselung.</li>
+
+                <li><strong>Widerspruch zur technischen Ausstattung:</strong> Die E-Mail vom 22.08.2025, 21:17 Uhr wurde
+                    mit dem offiziellen OpenPGP-Schlüssel des Amtsgerichts Bielefeld verschlüsselt, den das Gericht
+                    selbst öffentlich zur Verfügung stellt.</li>
+            </ol>
+        </div>
+
+        <div class="note">
+            <strong>Rechtliche Einschätzung:</strong> Die Aussagen von Frau Meyer stehen im Widerspruch zu der vom
+            Amtsgericht selbst bereitgestellten technischen Infrastruktur (OpenPGP-Schlüssel) und zu den differenzierten
+            Regelungen des § 130a ZPO zur elektronischen Kommunikation mit Gerichten.
+        </div>
+
+        <div class="signature">
+            Protokolliert von:<br><br><br>
+            _________________________<br>
+            Stephan Epp<br>
+            03. September 2025
+        </div>
+
+        <div style="margin-top: 30px; font-size: 12px; color: #666;">
+            <strong>Hinweis:</strong> Dieses Protokoll wurde unmittelbar nach dem Gespräch erstellt und gibt den
+            Gesprächsinhalt wieder.
+        </div>
+    </div>
+</body>
+
+</html>

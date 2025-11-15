@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strafanzeige - Computerbetrug</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm 2cm 2cm 2cm;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 11pt;
+            margin: 0;
+            padding: 0;
+            background: white;
+            color: black;
+        }
+
+        .page {
+            width: 21cm;
+            min-height: 29.7cm;
+            padding: 2cm;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .sender {
+            font-size: 8pt;
+            margin-bottom: 8mm;
+            border-bottom: 1px solid #000;
+            padding-bottom: 2mm;
+            width: 80mm;
+        }
+
+        .recipient {
+            margin-top: 10mm;
+            margin-bottom: 20mm;
+        }
+
+        .date-line {
+            text-align: right;
+            margin-bottom: 20mm;
+        }
+
+        .subject {
+            font-weight: bold;
+            margin-bottom: 15mm;
+            font-size: 12pt;
+        }
+
+        .content h1 {
+            font-size: 14pt;
+            font-weight: bold;
+            margin: 20mm 0 10mm 0;
+        }
+
+        .content h2 {
+            font-size: 12pt;
+            font-weight: normal;
+            margin: 15mm 0 8mm 0;
+        }
+
+        .content h3 {
+            font-size: 11pt;
+            font-weight: bold;
+        }
+
+        .content p {
+            text-align: justify;
+        }
+
+        .content ol,
+        .content ul {
+            margin: 5mm 0 5mm 15mm;
+        }
+
+        .content li {
+            margin: 2mm 0;
+        }
+
+        .signature-area {
+            margin-top: 30mm;
+        }
+
+        .signature-line {
+            border-top: 1px solid #000;
+            width: 60mm;
+            margin-top: 20mm;
+            padding-top: 2mm;
+            font-size: 10pt;
+        }
+
+        .attachments {
+            margin-top: 20mm;
+        }
+
+        @media print {
+            .page {
+                box-shadow: none;
+                margin: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <div class="sender">
+            Stephan Epp · Viktoriastraße 10 · 33602 Bielefeld
+        </div>
+        <div class="recipient">
+            <b>Staatsanwaltschaft Bielefeld</b><br>
+            Rohrteichstraße 16<br>
+            33602 Bielefeld
+        </div>
+
+        <div class="date-line">
+            Bielefeld, den 28. August 2025
+        </div>
+
+        <div class="subject">
+            <strong>Betreff: Strafanzeige gegen 1&1 Telecom GmbH wegen Computerbetrugs nach § 263a StGB</strong>
+        </div>
+
+        <div class="content">
+            <h2>Sehr geehrte Damen und Herren,</h2>
+
+            <p>hiermit erstatte ich <strong>Strafanzeige</strong> gegen die 1&1 Telecom GmbH wegen des Verdachts des
+                <strong>Computerbetrugs nach § 263a StGB</strong>.
+            </p>
+
+            <h2>Sachverhalt</h2>
+
+            <ol>
+                <li>Ich bin Kunde bei der 1&1 Telecom GmbH mit Zugang zum 1&1 Control Center.</li>
+
+                <li>In den Rechnungen vom März 2025, April 2025 und Mai 2025 war als Zahlungsempfänger die
+                    Bankverbindung meiner Ehefrau Christin Epp angegeben.</li>
+
+                <li>In der Rechnung vom Juli 2025 über 192,30 EUR war keine Bankverbindung mehr angegeben.</li>
+
+                <li>Meine eigene IBAN habe ich <strong>für Juli 2025 nicht</strong> im 1&1 Control Center hinterlegt und
+                    der 1&1 Telecom GmbH kein SEPA-Lastschriftmandat erteilt.
+                </li>
+
+                <li>Am 01.08.2025 hat die 1&1 Telecom GmbH ohne meine Einwilligung und ohne rechtliche Grundlage den
+                    Betrag von
+                    192,30 EUR von meinem Girokonto abgebucht.</li>
+
+                <li>Eine Rücklastschrift habe ich umgehend veranlasst.</li>
+            </ol>
+
+            <h2>Rechtliche Bewertung</h2>
+
+            <h3>I. Straftatbestand - Computerbetrug § 263a StGB</h3>
+
+            <p><strong>1. Tatbestand:</strong></p>
+            <ul>
+                <li>Die 1&1 Telecom GmbH hat unbefugt auf das Datenverarbeitungssystem der Bank zugegriffen</li>
+                <li>Durch eine SEPA-Lastschrift ohne gültiges Mandat wurde ein Datenverarbeitungsvorgang beeinflusst
+                </li>
+                <li>Dies führte zu einem Vermögensschaden in Höhe von 192,30 EUR</li>
+            </ul>
+
+            <p><strong>2. Rechtswidrigkeit:</strong></p>
+            <ul>
+                <li>Es lag kein gültiges SEPA-Lastschriftmandat vor</li>
+                <li>Die Abbuchung erfolgte ohne meine Einwilligung</li>
+                <li>Die Handlung war objektiv rechtswidrig</li>
+            </ul>
+
+            <p><strong>3. Vorsatz/Fahrlässigkeit:</strong></p>
+            <ul>
+                <li>Mindestens bedingt vorsätzliches oder fahrlässiges Handeln liegt vor</li>
+                <li>1&1 Telecom GmbH hätte prüfen müssen, ob eine gültige Lastschriftberechtigung vorliegt</li>
+            </ul>
+
+            <h3>II. Zivilrechtliche unerlaubte Handlung nach § 823 Abs. 1 BGB</h3>
+
+            <p><strong>1. Rechtsgutverletzung:</strong></p>
+            <ul>
+                <li>1&1 Telecom GmbH hat widerrechtlich in mein Vermögen eingegriffen</li>
+                <li>Mein Eigentum an dem Guthaben auf meinem Girokonto wurde verletzt</li>
+            </ul>
+
+            <p><strong>2. Rechtswidrigkeit:</strong></p>
+            <ul>
+                <li>Es lag kein gültiges SEPA-Lastschriftmandat vor</li>
+                <li>Ich habe für die Rechnung im Juli 2025 keine schriftliche Einzugsermächtigung für mein Girokonto
+                    erteilt</li>
+            </ul>
+
+            <p><strong>3. Schaden:</strong></p>
+            <ul>
+                <li>Mir ist ein Schaden in Höhe von 192,30 EUR entstanden</li>
+            </ul>
+
+            <h3>III. Besondere Schwere der Tat</h3>
+
+            <p>Die Tat wiegt besonders schwer, da:</p>
+            <ul>
+                <li>Ein systematischer Verstoß gegen SEPA-Lastschriftverfahren vorliegt</li>
+                <li>Das Vertrauen in das elektronische Zahlungsverkehrssystem erschüttert wird</li>
+            </ul>
+
+            <h2><b>Antrag auf Ermittlungsverfahren</b></h2>
+
+            <p>Ich beantrage die <strong>Einleitung eines Ermittlungsverfahrens</strong> gegen die verantwortlichen
+                Personen bei der 1&1 Telecom GmbH wegen Computerbetrugs nach § 263a StGB.</p>
+
+            <h2><b>Bitte um Prüfung</b></h2>
+
+            <p>Ich bitte Sie, den Sachverhalt zu prüfen und entsprechende Maßnahmen gegen die 1&1 Telecom
+                GmbH einzuleiten. Der Fall zeigt systematische Mängel im Umgang mit Verbraucherdaten und
+                SEPA-Lastschriftverfahren auf.</p>
+
+            <p>Bei Rückfragen stehe ich Ihnen gerne zur Verfügung.</p>
+
+            <div class="signature-area">
+                <p>Mit freundlichen Grüßen</p>
+
+                <div class="signature-line">
+                    Stephan Epp
+                </div>
+            </div>
+
+            <div class="attachments">
+                <strong>Anlagen:</strong>
+                <ul>
+                    <li>Kopie der Rechnung Juli 2025 ohne SEPA-Lastschriftmandat</li>
+                    <li>Kopie der Rechnungen März - Mai 2025 mit SEPA-Lastschriftmandat</li>
+                    <li>Kontoauszug mit unberechtigter Abbuchung und Nachweis der Rücklastschrift</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

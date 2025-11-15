@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sofortige Beschwerde gegen PKH-Beschluss</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            font-size: 11pt;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        .page {
+            min-height: 297mm;
+            background: white;
+            padding: 0;
+            position: relative;
+        }
+
+        /* DIN 5008 Absenderfeld */
+        .sender-small {
+            position: absolute;
+            top: 25mm;
+            left: 25mm;
+            width: 85mm;
+            font-size: 8pt;
+            line-height: 1.2;
+            border-bottom: 1px solid #000;
+            padding-bottom: 1mm;
+        }
+
+        /* DIN 5008 Empfängeradresse */
+        .recipient {
+            position: absolute;
+            top: 30.8mm;
+            left: 25mm;
+            width: 85mm;
+            font-size: 11pt;
+            line-height: 1.3;
+        }
+
+        /* Absender oben rechts */
+        .sender-full {
+            position: absolute;
+            top: 20mm;
+            right: 25mm;
+            text-align: right;
+            font-size: 10pt;
+            line-height: 1.4;
+        }
+
+        /* Hauptinhalt */
+        .content {
+            position: absolute;
+            top: 75mm;
+            left: 25mm;
+            right: 25mm;
+        }
+
+        .date-place {
+            text-align: right;
+            margin-bottom: 8mm;
+            font-size: 11pt;
+        }
+
+        .subject {
+            font-weight: bold;
+            margin: 8mm 0 5mm 0;
+            font-size: 11pt;
+        }
+
+        .reference {
+            margin-bottom: 8mm;
+            color: #333;
+        }
+
+        h1 {
+            font-size: 14pt;
+            font-weight: bold;
+            margin: 10mm 0 8mm 0;
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 12pt;
+            font-weight: bold;
+            margin: 8mm 0 4mm 0;
+            border-bottom: 1px solid #333;
+            padding-bottom: 2mm;
+        }
+
+        p {
+            margin: 4mm 0;
+            text-align: justify;
+        }
+
+        .numbered-list {
+            counter-reset: item;
+            list-style: none;
+            padding-left: 0;
+            margin: 5mm 0;
+        }
+
+        .numbered-list>li {
+            counter-increment: item;
+            margin: 5mm 0;
+            padding-left: 10mm;
+            position: relative;
+        }
+
+        .numbered-list>li:before {
+            content: counter(item) ".";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+
+        .indent {
+            margin-left: 10mm;
+            margin-top: 3mm;
+        }
+
+        .highlight {
+            background-color: #fff3cd;
+            padding: 1px 3px;
+        }
+
+        .legal-box {
+            background: #f0f8ff;
+            border-left: 3px solid #0066cc;
+            padding: 5mm;
+            margin: 5mm 0;
+        }
+
+        .signature-area {
+            margin-top: 15mm;
+            page-break-inside: avoid;
+        }
+
+        .signature-line {
+            margin-top: 20mm;
+            border-top: 1px solid #000;
+            width: 60mm;
+            padding-top: 2mm;
+            font-size: 10pt;
+        }
+
+        .attachment-list {
+            margin-top: 10mm;
+            page-break-inside: avoid;
+        }
+
+        .attachment-list h3 {
+            font-size: 11pt;
+            font-weight: bold;
+            margin-bottom: 3mm;
+        }
+
+        .attachment-list ol {
+            margin: 0;
+            padding-left: 8mm;
+        }
+
+        .attachment-list li {
+            margin: 2mm 0;
+        }
+
+        @media print {
+            body {
+                background: white;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- Absender klein (über Empfängeradresse) -->
+        <div class="sender-small">
+            Stephan Epp · Viktoriastraße 10 · 33602 Bielefeld
+        </div>
+
+        <!-- Empfängeradresse nach DIN 5008 -->
+        <div class="recipient">
+            <b>Amtsgericht Bielefeld</b><br>
+            Gerichtstraße 6<br>
+            33602 Bielefeld
+        </div>
+
+        <!-- Absender vollständig (oben rechts) -->
+        <div class="sender-full">
+            <strong>Stephan Epp</strong><br>
+            Viktoriastraße 10<br>
+            33602 Bielefeld<br>
+            <br>
+            Tel.: +49 163 8140605<br>
+            E-Mail: Stephan_Epp@web.de
+        </div>
+
+        <!-- Hauptinhalt -->
+        <div class="content">
+            <div class="date-place">
+                Bielefeld, den 30. Oktober 2025
+            </div>
+
+            <div class="reference">
+                <strong>Aktenzeichen:</strong> 400 C 235/25<br>
+                <strong>Beschluss vom:</strong> 30.09.2025
+            </div>
+
+            <h1>SOFORTIGE BESCHWERDE<br>
+                und<br>
+                RÜGE DER FEHLERHAFTEN ZUSTELLUNG</h1>
+
+            <div class="subject">
+                In dem Rechtsstreit<br>
+                Stephan Epp gegen 1&1 Telecom GmbH
+            </div>
+
+            <p>gegen den Beschluss des Amtsgerichts Bielefeld vom 30.09.2025, Aktenzeichen 400 C 235/25, lege ich
+                hiermit</p>
+
+            <p style="text-align: center; font-weight: bold; margin: 8mm 0;">
+                SOFORTIGE BESCHWERDE
+            </p>
+
+            <p>ein und rüge gleichzeitig die fehlerhafte Zustellung dieses Beschlusses.</p>
+
+            <h2>I. RÜGE DER FEHLERHAFTEN ZUSTELLUNG</h2>
+
+            <p>Zunächst rüge ich, dass die Zustellung des angefochtenen Beschlusses vom 30.09.2025 <span
+                    class="highlight">formell fehlerhaft</span> erfolgte und daher <span
+                    class="highlight">unwirksam</span> ist.</p>
+
+            <ol class="numbered-list">
+                <li><strong>Tatsächlicher Zustellvorgang am 27.10.2025:</strong><br>
+                    An meiner Postanschrift Viktoriastraße 10, 33602 Bielefeld, wurde mir am Montag, den 27.10.2025, ein
+                    Schriftstück übergeben. Die Übergabe erfolgte jedoch unter erheblichen formellen Mängeln.</li>
+
+                <li><strong>Schwerwiegende Zustellungsmängel:</strong>
+                    <div class="indent">
+                        <strong>a) Kein gelber Zustellungsumschlag</strong><br>
+                        Das Schriftstück befand sich in einem gewöhnlichen, formlosen Briefumschlag mit
+                        handschriftlicher Aufschrift "Stephan Epp". Es wurde <span class="highlight">kein gelber
+                            Zustellungsumschlag</span> verwendet, wie er für förmliche Zustellungen nach § 180 ZPO
+                        zwingend vorgeschrieben ist.
+                        <br><br>
+                        <strong>b) Keine Empfangsbestätigung</strong><br>
+                        Ich wurde <span class="highlight">nicht aufgefordert, den Empfang zu bestätigen oder zu
+                            unterschreiben</span>. Eine Zustellungsurkunde wurde nicht ausgefüllt oder vorgelegt.
+                        <br><br>
+                        <strong>c) Kein Zustellungsvermerk</strong><br>
+                        Auf dem Umschlag befindet sich <span class="highlight">kein Zustellungsdatum</span> und keine
+                        Unterschrift eines Zustellers.
+                        <br><br>
+                        <strong>d) Fotodokumentation</strong><br>
+                        Die beschriebenen Mängel habe ich fotografisch dokumentiert. Die Fotos füge ich dieser
+                        Beschwerde als Anlage bei.
+                    </div>
+                </li>
+
+                <li><strong>Rechtliche Folgen der fehlerhaften Zustellung:</strong><br>
+                    Die beschriebenen Mängel führen dazu, dass <span class="highlight">keine wirksame Zustellung</span>
+                    im Sinne der §§ 180 ff. ZPO erfolgt ist. Die Rechtsmittelfrist hat daher <span
+                        class="highlight">noch nicht zu laufen begonnen</span>.</li>
+
+                <li><strong>Vorsorgliche Beschwerdeeinlegung:</strong><br>
+                    Ungeachtet der fehlerhaften Zustellung lege ich die sofortige Beschwerde vorsorglich innerhalb der
+                    Monatsfrist ein, um eventuelle Rechtsnachteile zu vermeiden.</li>
+            </ol>
+
+            <h2>II. BEGRÜNDUNG DER BESCHWERDE</h2>
+
+            <p>Die Zurückweisung des Prozesskostenhilfeantrags ist unbegründet und rechtsfehlerhaft.</p>
+
+            <ol class="numbered-list">
+                <li><strong>Zur angeblich fehlenden Formwirksamkeit:</strong>
+                    <div class="indent">
+                        Das Gericht führt aus, die Klage sei per E-Mail eingereicht worden und daher formunwirksam. Dies
+                        trifft jedoch nicht zu.
+                        <br><br>
+                        Die Klage vom 22.08.2025 <span class="highlight">wurde per E-Mail signiert versendet an die
+                            E-Mail Adresse poststelle@ag-bielefeld.sec.nrw.de vom Amtsgericht Bielefeld
+                        </span>. Sollte dem Gericht diese E-Mail mit der Klage nicht vorliegen, reiche ich die Klage auf
+                        Nachfrage gerne nach.
+                    </div>
+                </li>
+
+                <li><strong>Zum angeblich fehlenden schriftlichen Hinweis vom 29.08.2025:</strong>
+                    <div class="indent">
+                        Das Gericht behauptet, es habe am 29.08.2025 einen schriftlichen Hinweis versandt, auf den nicht
+                        reagiert worden sei. Das ist nicht richtig. <span class="highlight">Auf den Hinweis habe ich mit
+                            einer E-Mail am 05.09.2025 um 17:17 Uhr an poststelle@ag-bielefeld.nrw.de reagiert.</span>
+                        <br><br>
+                        Sollte Ihnen die Antwort nicht vorliegen, reiche ich diese gerne nach.
+                    </div>
+                </li>
+
+                <li><strong>Zur behaupteten fehlenden Erklärung zu Protokoll:</strong>
+                    <div class="indent">
+                        Es ist zutreffend, dass keine Erklärung zu Protokoll der Geschäftsstelle erfolgte. Dies war
+                        jedoch nicht erforderlich, da die Klage bereits formwirksam schriftlich eingereicht wurde.
+                    </div>
+                </li>
+
+                <li><strong>Erfolgsaussichten der Klage:</strong>
+                    <div class="indent">
+                        Die Klage hat hinreichende Aussicht auf Erfolg. Es geht um die pflichtwidrige Beauftragung eines
+                        Inkassounternehmens ohne vorherige sachliche Prüfung berechtigter Kundeneinwände. Dies stellt
+                        eine Verletzung vertraglicher Nebenpflichten nach § 280 Abs. 1 BGB i.V.m. § 241 Abs. 2 BGB dar.
+                        <br><br>
+                        Die Beklagte hat auf konkrete, schriftlich vorgetragene Einwände vom 23.07.2025 keinerlei
+                        Stellungnahme abgegeben und dennoch am 13.08.2025 ein Inkassounternehmen beauftragt. Dies
+                        begründet einen Schadenersatzanspruch.
+                    </div>
+                </li>
+
+                <li><strong>Bedürftigkeit:</strong>
+                    <div class="indent">
+                        Meine wirtschaftlichen Verhältnisse wurden dem Gericht mit der Klage dargelegt. Ich verfüge über
+                        begrenzte finanzielle Mittel und kann die Prozesskosten nicht aus eigenen Mitteln bestreiten.
+                        Die erforderlichen Nachweise können nachgereicht werden.
+                    </div>
+                </li>
+            </ol>
+
+            <h2>III. ANTRÄGE</h2>
+
+            <p>Ich beantrage,</p>
+
+            <ol class="numbered-list">
+                <li>den Beschluss des Amtsgerichts Bielefeld vom 30.09.2025, Az. 400 C 235/25,
+                    <strong>aufzuheben</strong>,
+                </li>
+
+                <li>hilfsweise, die Sache zur erneuten Entscheidung an das Amtsgericht Bielefeld zurückzuverweisen,</li>
+
+                <li>festzustellen, dass die Zustellung des angefochtenen Beschlusses <strong>unwirksam</strong> war und
+                    die Rechtsmittelfrist noch nicht zu laufen begonnen hat.</li>
+            </ol>
+
+            <div class="legal-box">
+                <strong>Wichtiger Hinweis:</strong><br>
+                Diese Beschwerde wird vorsorglich innerhalb der Monatsfrist eingelegt, obwohl die Rechtsmittelfrist
+                aufgrund der fehlerhaften Zustellung noch nicht zu laufen begonnen hat. Sollte das Gericht eine wirksame
+                Zustellung für gegeben erachten, wird ausdrücklich auf die Einhaltung der Frist verwiesen.
+            </div>
+
+            <div class="attachment-list">
+                <h3>Anlagen:</h3>
+                <ol>
+                    <li>Fotodokumentation des Briefumschlags vom 27.10.2025 (Nachweis der fehlerhaften Zustellung)</li>
+                    <li>Kopie der ursprünglichen Klage vom 22.08.2025</li>
+                    <li>Bildschirmfoto der E-Mail vom 05.09.2025 als Reaktion auf den Hinweis vom 29.08.2025</li>
+                    <li>Kopie des angefochtenen Beschlusses vom 30.09.2025</li>
+                </ol>
+            </div>
+
+            <div class="signature-area">
+                <p>Mit vorzüglicher Hochachtung</p>
+                <div class="signature-line">
+                    Stephan Epp<br>
+                    (Beschwerdeführer)
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

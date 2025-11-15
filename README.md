@@ -501,4 +501,4 @@ Hier sind die eingeleiteten rechtlichen Verfahren gegen verschiedene Institution
 - **Sozialamt Bielefeld** (Sozialgericht Detmold): Antrag auf Erlass einer einstweiligen Anordnung für ungerechtfertigte Zimmerzuweisung  
 
 ### Nachweise 
-Die Vorgänge sind umfangreich durch Protokolle und andere Belege wie Fotos und Videos dokumentiert. Nachweise befinden sich in diesem Repository unter doc/CIA/.
+Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.

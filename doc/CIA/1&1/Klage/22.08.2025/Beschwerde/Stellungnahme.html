@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stellungnahme zur Nichtabhilfeentscheidung</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            font-size: 11pt;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        .page {
+            min-height: 297mm;
+            background: white;
+            padding: 0;
+            position: relative;
+        }
+
+        /* DIN 5008 Absenderfeld */
+        .sender-small {
+            position: absolute;
+            top: 25mm;
+            left: 25mm;
+            width: 85mm;
+            font-size: 8pt;
+            line-height: 1.2;
+            border-bottom: 1px solid #000;
+            padding-bottom: 1mm;
+        }
+
+        /* DIN 5008 Empfängeradresse */
+        .recipient {
+            position: absolute;
+            top: 30.8mm;
+            left: 25mm;
+            width: 85mm;
+            font-size: 11pt;
+            line-height: 1.3;
+        }
+
+        /* Absender oben rechts */
+        .sender-full {
+            position: absolute;
+            top: 20mm;
+            right: 25mm;
+            text-align: right;
+            font-size: 10pt;
+            line-height: 1.4;
+        }
+
+        /* Hauptinhalt */
+        .content {
+            position: absolute;
+            top: 75mm;
+            left: 25mm;
+            right: 25mm;
+        }
+
+        .date-place {
+            text-align: right;
+            margin-bottom: 8mm;
+            font-size: 11pt;
+        }
+
+        .subject {
+            font-weight: bold;
+            margin: 8mm 0 5mm 0;
+            font-size: 11pt;
+        }
+
+        .reference {
+            margin-bottom: 8mm;
+            color: #333;
+        }
+
+        h1 {
+            font-size: 14pt;
+            font-weight: bold;
+            margin: 10mm 0 8mm 0;
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 12pt;
+            font-weight: bold;
+            margin: 8mm 0 4mm 0;
+            border-bottom: 1px solid #333;
+            padding-bottom: 2mm;
+        }
+
+        p {
+            margin: 4mm 0;
+            text-align: justify;
+        }
+
+        .numbered-list {
+            counter-reset: item;
+            list-style: none;
+            padding-left: 0;
+            margin: 5mm 0;
+        }
+
+        .numbered-list>li {
+            counter-increment: item;
+            margin: 5mm 0;
+            padding-left: 10mm;
+            position: relative;
+        }
+
+        .numbered-list>li:before {
+            content: counter(item) ".";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+
+        .indent {
+            margin-left: 10mm;
+            margin-top: 3mm;
+        }
+
+        .highlight {
+            background-color: #fff3cd;
+            padding: 1px 3px;
+        }
+
+        .legal-box {
+            background: #f0f8ff;
+            border-left: 3px solid #0066cc;
+            padding: 5mm;
+            margin: 5mm 0;
+        }
+
+        .signature-area {
+            margin-top: 15mm;
+            page-break-inside: avoid;
+        }
+
+        .signature-line {
+            margin-top: 20mm;
+            border-top: 1px solid #000;
+            width: 60mm;
+            padding-top: 2mm;
+            font-size: 10pt;
+        }
+
+        @media print {
+            body {
+                background: white;
+            }
+
+            .page {
+                margin: 0;
+                box-shadow: none;
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <!-- Absender klein (über Empfängeradresse) -->
+        <div class="sender-small">
+            Stephan Epp · Otto-Brenner-Straße 77 · 33607 Bielefeld
+        </div>
+
+        <!-- Empfängeradresse nach DIN 5008 -->
+        <div class="recipient">
+            <b>Landgericht Bielefeld</b><br>
+            Gerichtstraße 6<br>
+            33602 Bielefeld
+        </div>
+
+        <!-- Absender vollständig (oben rechts) -->
+        <div class="sender-full">
+            <strong>Stephan Epp</strong><br>
+            Otto-Brenner-Straße 77<br>
+            33607 Bielefeld<br>
+            <br>
+            Tel.: +49 163 8140605<br>
+            E-Mail: Stephan_Epp@web.de
+        </div>
+
+        <!-- Hauptinhalt -->
+        <div class="content">
+            <div class="date-place">
+                Bielefeld, den 13. November 2025
+            </div>
+
+            <div class="reference">
+                <strong>Aktenzeichen LG:</strong> 20 T 19/25<br>
+                <strong>Aktenzeichen AG:</strong> 400 C 235/25<br>
+                <strong>Ihr Schreiben vom:</strong> 10. November 2025
+            </div>
+
+            <h1>STELLUNGNAHME<br>
+                zur Nichtabhilfeentscheidung</h1>
+
+            <div class="subject">
+                In dem Beschwerdeverfahren<br>
+                Stephan Epp gegen 1&1 Telecom GmbH
+            </div>
+
+            <p>Sehr geehrte Damen und Herren,</p>
+
+            <p>zu der Nichtabhilfeentscheidung des Amtsgerichts Bielefeld nehme ich wie folgt Stellung:</p>
+
+            <h2>I. ZUR FEHLERHAFTEN ZUSTELLUNG</h2>
+
+            <p>Das Amtsgericht hat offenbar die schwerwiegenden Zustellungsmängel nicht hinreichend gewürdigt. Ich
+                bekräftige ausdrücklich:</p>
+
+            <ol class="numbered-list">
+                <li><strong>Kein gelber Zustellungsumschlag:</strong><br>
+                    Die Zustellung erfolgte in einem gewöhnlichen, formlosen Briefumschlag mit handschriftlicher
+                    Aufschrift. Dies widerspricht den zwingenden Vorgaben des § 180 ZPO für förmliche Zustellungen. Die
+                    <span class="highlight">fotographische Dokumentation</span> des Umschlags liegt der ursprünglichen
+                    Beschwerde bei.
+                </li>
+
+                <li><strong>Keine Empfangsbestätigung:</strong><br>
+                    Es wurde keine Zustellungsurkunde ausgefüllt, keine Unterschrift verlangt und kein
+                    Zustellungsvermerk angebracht. Dies sind <span class="highlight">unverzichtbare
+                        Formvoraussetzungen</span> einer wirksamen Zustellung nach §§ 180 ff. ZPO.</li>
+
+                <li><strong>Rechtliche Konsequenz:</strong><br>
+                    Ohne wirksame Zustellung hat die Rechtsmittelfrist nicht zu laufen begonnen. Die vorliegende
+                    Beschwerde ist daher in jedem Fall fristgerecht.</li>
+            </ol>
+
+            <h2>II. ZUR BEHAUPTETEN FORMUNWIRKSAMKEIT DER KLAGE</h2>
+
+            <p>Das Amtsgericht führt aus, die Klage sei formunwirksam, da sie per E-Mail eingereicht worden sei. Dies
+                trifft nicht zu:</p>
+
+            <ol class="numbered-list">
+                <li><strong>Tatsächliche Einreichung:</strong><br>
+                    Die Klage vom 22.08.2025 wurde <span class="highlight">per qualifiziert elektronisch signierter
+                        E-Mail</span> an die offizielle E-Mail-Adresse des Amtsgerichts Bielefeld versendet:
+                    <strong>poststelle@ag-bielefeld.sec.nrw.de</strong>
+                </li>
+
+                <li><strong>Rechtliche Grundlage:</strong><br>
+                    Nach § 130a ZPO i.V.m. der Verordnung über den elektronischen Rechtsverkehr ist die Übermittlung
+                    elektronischer Dokumente an die beA-Adresse oder das besondere elektronische Anwaltspostfach
+                    zulässig. Die verwendete E-Mail-Adresse ist die <span class="highlight">offizielle elektronische
+                        Zustelladresse</span> des Amtsgerichts Bielefeld.</li>
+
+                <li><strong>Nachweis:</strong><br>
+                    Falls dem Gericht die elektronisch übermittelte Klage nicht vorliegt, reiche ich diese hiermit
+                    nochmals nach. Der Versandnachweis kann vorgelegt werden.</li>
+            </ol>
+
+            <h2>III. ZUR BEHAUPTETEN NICHTREAKTION AUF DEN HINWEIS</h2>
+
+            <p>Das Amtsgericht behauptet, auf den Hinweis vom 29.08.2025 sei nicht reagiert worden. Dies ist
+                unzutreffend:</p>
+
+            <ol class="numbered-list">
+                <li><strong>Nachweisliche Reaktion:</strong><br>
+                    Auf den gerichtlichen Hinweis habe ich <span class="highlight">am 05.09.2025 um 17:17 Uhr per E-Mail
+                        an poststelle@ag-bielefeld.nrw.de</span> geantwortet und die angeforderten Informationen
+                    übermittelt.</li>
+
+                <li><strong>Nachweis:</strong><br>
+                    Ein Bildschirmfoto dieser E-Mail-Korrespondenz liegt der ursprünglichen Beschwerde als Anlage bei.
+                    Falls dem Gericht diese E-Mail nicht vorliegt, weist dies auf ein technisches oder organisatorisches
+                    Problem beim Gericht hin, nicht auf eine Säumnis meinerseits.</li>
+            </ol>
+
+            <h2>IV. ZU DEN ERFOLGSAUSSICHTEN DER KLAGE</h2>
+
+            <p>Das Amtsgericht hat die Erfolgsaussichten der Klage nicht oder nicht hinreichend geprüft. Die Klage hat
+                jedoch erhebliche Aussicht auf Erfolg:</p>
+
+            <ol class="numbered-list">
+                <li><strong>Klarer Sachverhalt:</strong><br>
+                    Die Beklagte hat nach konkreten, schriftlichen Kundeneinwänden vom 23.07.2025 keinerlei sachliche
+                    Stellungnahme abgegeben, sondern unmittelbar am 13.08.2025 ein Inkassounternehmen beauftragt.</li>
+
+                <li><strong>Rechtliche Grundlage:</strong><br>
+                    Dies stellt eine Verletzung vertraglicher Nebenpflichten nach § 280 Abs. 1 BGB i.V.m. § 241 Abs. 2
+                    BGB dar. Ein Telekommunikationsanbieter ist verpflichtet, berechtigte Kundeneinwände vor Einleitung
+                    von Inkassomaßnahmen sachlich zu prüfen und zu beantworten.</li>
+
+                <li><strong>Schadenersatzanspruch:</strong><br>
+                    Durch die pflichtwidrige Inkassobeauftragung ohne vorherige Prüfung und Stellungnahme ist mir ein
+                    ersatzfähiger Schaden entstanden durch:
+                    <div class="indent">
+                        - Beeinträchtigung der Kreditwürdigkeit<br>
+                        - Psychische Belastung durch ungerechtfertigtes Inkassoverfahren<br>
+                        - Zeitaufwand für Rechtsverteidigung<br>
+                        - Rufschädigung
+                    </div>
+                </li>
+
+                <li><strong>Beweismittel:</strong><br>
+                    Der Sachverhalt kann durch vollständige E-Mail-Korrespondenz, Rechnungen, Mahnungen und
+                    Inkassoschreiben lückenlos belegt werden.</li>
+            </ol>
+
+            <h2>V. ZUR BEDÜRFTIGKEIT</h2>
+
+            <p>Meine wirtschaftlichen Verhältnisse wurden dem Gericht dargelegt. Ich verfüge über begrenzte finanzielle
+                Mittel und bin nicht in der Lage, die Prozesskosten aus eigenen Mitteln zu bestreiten. Die
+                erforderlichen Nachweise können auf Anforderung ergänzt werden.</p>
+
+            <div class="legal-box">
+                <strong>Zusammenfassung:</strong><br>
+                Die Nichtabhilfeentscheidung des Amtsgerichts beruht auf unzutreffenden tatsächlichen Annahmen. Die
+                Klage wurde formwirksam elektronisch eingereicht, auf den gerichtlichen Hinweis wurde fristgerecht
+                reagiert, und die Klage hat hinreichende Erfolgsaussichten. Die Zustellung des ursprünglichen
+                Beschlusses war zudem formell fehlerhaft.
+            </div>
+
+            <h2>VI. ANTRAG</h2>
+
+            <p>Ich beantrage,</p>
+
+            <ol class="numbered-list">
+                <li>den Beschluss des Amtsgerichts Bielefeld vom 30.09.2025, Az. 400 C 235/25,
+                    <strong>aufzuheben</strong> und mir Prozesskostenhilfe zu bewilligen,
+                </li>
+
+                <li>hilfsweise, die Sache zur erneuten Entscheidung unter Beachtung der Rechtsauffassung des
+                    Landgerichts an das Amtsgericht zurückzuverweisen.</li>
+            </ol>
+
+            <div class="signature-area">
+                <p>Mit vorzüglicher Hochachtung</p>
+                <div class="signature-line">
+                    Stephan Epp<br>
+                    (Beschwerdeführer)
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
